@@ -137,124 +137,124 @@ Sagar Masuti, Sylvain Barbot, and **Nachiket Kapre**<br>
 Soh Jun Jie, and **Nachiket Kapre**<br>
 *International Conference on Field Programmable Logic and Applications*, September 2014 <br> 
 
-[PDF](./publications/dataflow-limits_dfm2014.pdf) 
+[[PDF]](./publications/dataflow-limits_dfm2014.pdf) 
 **"Limits of Statically Scheduled Token Dataflow Processing"** <br>
 **Nachiket Kapre**, and Siddhartha<br>
 *4th International Workshop on Data-Flow Execution Models for Extreme Scale Computing* (co-located with PACT 2014), August 2014 <br> 
 
-[PDF](./publications/fpga-driver_fpt-2013.pdf) 
+[[PDF]](./publications/fpga-driver_fpt-2013.pdf) 
 **"System-Level FPGA Device Driver with High-Level Synthesis Support"** <br>
 Vipin Kizhepatt, Shreejit Shanker, Dulitha Gunasekara, Suhaib A Fahmy, **Nachiket Kapre**<br>
 *International Conference on Field Programmable Technology Machines*, December 2013 <br> 
 
-[PDF](./publications/uncertainty_fccm-2013.pdf) 
+[[PDF]](./publications/uncertainty_fccm-2013.pdf) 
 **"Exploiting Input Parameter Uncertainty for Reducing Datapath Precision of SPICE Device Models"** <br>
 **Nachiket Kapre** <br> 
 *International Symposium on Field Programmable Custom Computing Machines*, April 2013 <br> 
 
-[PDF](./publications/appcompose_fccm-2013.pdf) 
+[[PDF]](./publications/appcompose_fccm-2013.pdf) 
 **"Application Composition and Communication Optimization of Iterative Solvers using FPGAs" <font color="red"> (HiPEAC Paper Award)</font>** <br>
 Abid Rafique, **Nachiket Kapre** and George Constantinides<br> 
 *International Symposium on Field Programmable Custom Computing Machines*, April 2013 <br> 
 
-[PDF](./publications/tsqr_fpl-2012.pdf) 
+[[PDF]](./publications/tsqr_fpl-2012.pdf) 
 **"Enhancing Performance of Tall-Skinny QR factorization using FPGAs"** <br>
 Abid Rafique, **Nachiket Kapre** and George Constantinides<br> 
 *International Conference on Field Programmable Logic and Applications*, August 2012 <br> 
 
-[PDF](./publications/fxscore_fccm-2012.pdf) 
+[[PDF]](./publications/fxscore_fccm-2012.pdf) 
 **"FX-SCORE: A Framework for Fixed-Point Compilation of SPICE Device Models using Gappa++"** <br>
 Helene Martorell and **Nachiket Kapre**<br> 
 *International Symposium on Field Programmable Custom Computing Machines*, April 2012 <br> 
 
-[PDF](./publications/spice_iterctrl_fpt-2011.pdf) 
+[[PDF]](./publications/spice_iterctrl_fpt-2011.pdf) 
 **"VLIW-SCORE: Beyond C for Sequential Control of SPICE FPGA Acceleration" <font color="red"> (Best Paper Award)</font>** <br>
 **Nachiket Kapre** and André DeHon<br> 
 *International Conference on Field Programmable Technology*, December 2011 <br>
 	
-[PDF](./publications/spice_overview_carl2010.pdf) 
+[[PDF]](./publications/spice_overview_carl2010.pdf) 
 **"SPICE<sup>2</sup> - A Spatial Parallel Architecture for Accelerating the SPICE Circuit Simulator"**  <br>
 **Nachiket Kapre** and André DeHon<br> 
 *The First Workshop on the Intersections of Computer Architecture and Reconfigurable Logic*, December 2010 <br> 
 
-[PDF](./publications/noc_traffic-engg_recosoc2010.pdf) 
+[[PDF]](./publications/noc_traffic-engg_recosoc2010.pdf) 
 **"An NoC Traffic Compiler for efficient FPGA implementation of Sparse Graph-Oriented Workloads"** <br>
 **Nachiket Kapre** and André DeHon<br> 
 *Reconfigurable Communication-centric Systems on Chip*, May 2010 <br> 
 
-[PDF](./publications/spice_matrix-solve_fpt-2009.pdf) 
+[[PDF]](./publications/spice_matrix-solve_fpt-2009.pdf) 
 **"Parallelizing Sparse Matrix-Solve for SPICE Circuit Simulation using FPGAs"** <br>
 **Nachiket Kapre** and André DeHon<br>
 *International Conference on Field Programmable Technology*, December 2009 <br> 
 
-[PDF](./publications/spice_perf-compare-arch_fpl-2009.pdf) 
+[[PDF]](./publications/spice_perf-compare-arch_fpl-2009.pdf) 
 **"Performance Comparison of Single-Precision SPICE Model-Evaluation on FPGA, GPU, Cell, and Multi-Core Processors"**  <br>
 **Nachiket Kapre** and André DeHon<br> 
 *International Conference on Field Programmable Logic and Applications*, September 2009 <br>
 
-[PDF](./publications/spice_spatial-model-eval_fccm-2009.pdf)
+[[PDF]](./publications/spice_spatial-model-eval_fccm-2009.pdf)
 **"Accelerating SPICE Model-Evaluation using FPGAs"** <br>
 **Nachiket Kapre** and André DeHon <br>
 *IEEE Symposium on Field-Programmable Custom Computing Machines*, April 2009 <br>
 
-[PDF](./publications/fp-accum_arith-2007.pdf)
+[[PDF]](./publications/fp-accum_arith-2007.pdf)
 **"Optimistic Parallelization of Floating-Point Accumulation"** <br>
 **Nachiket Kapre** and André DeHon <br>
 *IEEE Symposium on Computer Arithmetic*, June 2007. <br>
 
-[PDF](./publications/ps-tm-networks_fccm-2006.pdf) 
+[[PDF]](./publications/ps-tm-networks_fccm-2006.pdf) 
 **"Packet-Switched vs. Time-Multiplexed FPGA Overlay Networks" <font color="red">(FCCM20 25-most influential papers award winner) </font>** <br>
 **Nachiket Kapre**, Nikil Mehta, Michael deLorimier, Raphael Rubin, Henry Barnor, Michael Wilson, Michael Wrighton and André DeHon<br> 
 *IEEE Symposium on Field-Programmable Custom Computing Machines*, April 2006.  <br>
 
-[PDF](./publications/graphstep_fccm-2006.pdf)
+[[PDF]](./publications/graphstep_fccm-2006.pdf)
 **"GraphStep: A System Architecture for Sparse Graph Algorithms"** <br>
 Michael deLorimier, **Nachiket Kapre**, Nikil Mehta, Dominic Rizzo, Ian Eslick, Raphael Rubin, Tomas Uribe, Thomas Knight Jr., and André DeHon<br>
 *IEEE Symposium on Field-Programmable Custom Computing Machines*, April 2006. <br>
 
-[PDF](./publications/sat-accum_fpt-2005.pdf)
+[[PDF]](./publications/sat-accum_fpt-2005.pdf)
 **"Pipelined Saturated Accumulation"** <br>
 Karl Papadantonakis, **Nachiket Kapre**, Stephanie Chan, and André DeHon<br>
 *International Conference on Field-Programmable Technology*, December 2005.  <br>
 
-[PDF](./publications/des-pat_fccm-2004.pdf) 
+[[PDF]](./publications/des-pat_fccm-2004.pdf) 
 **"Design Patterns for Reconfigurable Computing"** <br>
 André DeHon, Joshua Adams, Michael deLorimier, **Nachiket Kapre**, Yuki Matsuda, Helia Naeimi, Michael Vanier, and Michael Wrighton <br>
 *IEEE Symposium on Field-Programmable Custom Computing Machines*, April 2004. <br>
 
 ## Conference Publications (Short Papers)
 
-[PDF](./publications/intime_fpga2015.pdf) 
+[[PDF]](./publications/intime_fpga2015.pdf) 
 **"InTime: A Machine Learning Approach for Efficient Selection of FPGA CAD Tool Parameters"** <br>
 **Nachiket Kapre**, Harnhua Ng, Kirvy Teo and Jaco Naude<br>
 *International Symposium on Field-Programmable Gate Arrays*, February 2015 <br>
 
-[PDF](./publications/fanout-decomp_fpt2014.pdf) 
+[[PDF]](./publications/fanout-decomp_fpt2014.pdf) 
 **"Fanout Decomposition Dataflow Optimizations for FPGA-based Sparse LU Factorization"** <br>
 Siddhartha, and **Nachiket Kapre**<br>
 *International Conference on Field-Programmable Technology*, December 2014 <br>
 
-[PDF](./publications/idea-analysis_fpt2014.pdf) 
+[[PDF]](./publications/idea-analysis_fpt2014.pdf) 
 **"Analysis and Optimization of a Deeply Pipelined FPGA Soft Processor"** <br>
 Hui Yan Cheah, Suhaib A. Fahmy and **Nachiket Kapre**<br>
 *International Conference on Field-Programmable Technology*, December 2014 <br>
 
-[PDF](./publications/hetero-dataflow_fpl2014.pdf) 
+[[PDF]](./publications/hetero-dataflow_fpl2014.pdf) 
 **"Heterogeneous Dataflow Architectures for FPGA-based Sparse LU Factorization"** <br>
 Siddhartha, and **Nachiket Kapre**<br>
 *International Conference on Field Programmable Logic and Applications*, September 2014 <br> 
 
-[PDF](./publications/breakseq_fccm-2014.pdf) 
+[[PDF]](./publications/breakseq_fccm-2014.pdf) 
 **"Breaking Sequential Dependencies in FPGA-based Sparse LU Factorization"** <br>
 Siddhartha, and **Nachiket Kapre**<br>
 *International Symposium on Field Programmable Custom Computing Machines*, May 2014 <br> 
 
-[PDF](./publications/mixfxscore_fccm-2014.pdf) 
+[[PDF]](./publications/mixfxscore_fccm-2014.pdf) 
 **"MixFX-SCORE: Heterogeneous Fixed-Point Compilation of Dataflow Computations"** <br>
 Ye Deheng, and **Nachiket Kapre**<br>
 *International Symposium on Field Programmable Custom Computing Machines*, May 2014 <br> 
 
-[PDF](./publications/timfaults_fccm-2014.pdf) 
+[[PDF]](./publications/timfaults_fccm-2014.pdf) 
 **"Timing Fault Detection in FPGA-based Circuits"** <br>
 Edward Stott, Joshua M. Levine, Peter Y. K. Cheung, and **Nachiket Kapre**<br>
 *International Symposium on Field Programmable Custom Computing Machines*, May 2014 <br> 
@@ -269,14 +269,14 @@ Edward Stott, Joshua M. Levine, Peter Y. K. Cheung, and **Nachiket Kapre**<br>
 Siddhartha, and **Nachiket Kapre**<br>
 *International Symposium on Field-Programmable Gate Arrays*, February 2015 <br>
 
-[PDF](./publications/timing-errors_selse2014.pdf) 
+[[PDF]](./publications/timing-errors_selse2014.pdf) 
 **"Measuring Timing Errors in FPGA-based Circuits"** <br>
 Joshua Levine, Edward Stott, and **Nachiket Kapre**<br> 
 *The 10th IEEE Workshop on Silicon Errors in Logic - System Effects*, April 2014 <br>
 
 ## Magazine Articles
 
-[PDF](./publications/saliency-fpga_ine2004.pdf)
+[[PDF]](./publications/saliency-fpga_ine2004.pdf)
 **"Saliency on a chip: a digital approach with an FPGA"** <br>
 **Nachiket Kapre**, Dirk  Walther, and Christof Koch, and André DeHon<br>
 *The Neuromorphic Engineer, Volume 1, Issue 2, Autumn 2004*
