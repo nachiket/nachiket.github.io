@@ -1,3 +1,4 @@
+<div class="wrapper">
 
 SCORE Framework Landing Page
 ============================
@@ -79,3 +80,4 @@ Minimal Instructions
    sure you add the proper `-lleda -lScoreRuntime` and `-L/opt/ScoreRuntime`
    and `-L/opt/leda` switches as required. 
 
+</div>

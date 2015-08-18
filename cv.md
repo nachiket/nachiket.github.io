@@ -8,8 +8,9 @@ pandoc  -V geometry:margin=1in -f markdown+hard_line_breaks cv.md -o cv.pdf
 -->
 
 <header>
-# Nachiket Kapre Curriculum Vitae
+# Curriculum Vitae
 
+Nachiket Kapre
 School of Computer Engineering <br>
 Nanyang Technological University <br>
 Singapore <br>
@@ -36,7 +37,7 @@ Degree Conferred: June 2005
 **B.E., University of Pune (India),** Electronics and Telecommunication Engineering<br> 
 Degree Conferred: August 2002
 
-### Research Interests
+## Research Interests
 Concurrent and Spatial Architectures, Parallel Processing, Heterogeneous Architectures and Compilation Tools, Communication-Centric Design
 
 ## Grants
