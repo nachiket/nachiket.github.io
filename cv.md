@@ -364,6 +364,7 @@ Kumiko Nomura (Toshiba): *Architecture analysis of 3D chips* <br>
 ## Teaching Experience
 
 **Lecturer**<br>
+Semester 1 2015, Nanyang Technological University, *CE4052/ES6152: Embedded System Development* <br>
 Semester 2 2014, Nanyang Technological University, *CE4054/ES6154: Programmable Systems-on-Chip* <br>
 Semester 1 2014, Nanyang Technological University, *CE4052/ES6152: Embedded System Development* <br>
 Semester 2 2013, Nanyang Technological University, *CE4054/ES6154: Programmable Systems-on-Chip* <br>
@@ -372,6 +373,8 @@ Semester 1 2013, Nanyang Technological University, *CE4052/ES6152: Embedded Syst
 Semester 1 2013, Nanyang Technological University, *ES7501: Electronic Design Automation* <br>
 
 **Tutorials/Labs**<br>
+Semester 1 2015, Nanyang Technological University, *CE3001: Advanced Computer Architecture* <br>
+Semester 1 2015, Nanyang Technological University, *CE4052/ES6152: Embedded Systems Development* <br>
 Semester 2 2014, Nanyang Technological University, *CE4054/ES6154: Programmable System-on-Chip* <br>
 Semester 1 2014, Nanyang Technological University, *CE1005: Digital Logic* (3 groups) <br>
 Semester 1 2014, Nanyang Technological University, *CE4052/ES6152: Embedded Systems Development* <br>
