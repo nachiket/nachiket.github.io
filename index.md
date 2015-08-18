@@ -88,9 +88,9 @@ I have part-time openings for Final Year UG and MSc students with good programmi
 |**30/11/2013** | AcRF Tier 1 Grant as PI accepted S$150K                                                                                                                                                   |
 |**28/10/2013** | My second Edex (Excellence in Education) grant as PI accepted S$40K (**Team**: Arvind Easwaran, Iris Lee Chai Hong)                                                                       |
 |**2/10/2013**  | One FPT 2013 full paper accepted.                                                                                                                                                         |
-|**13/8/2013**  | My PhD student Abid Rafique wins the [HiPEAC Paper Award](http://www.hipeac.net/award) 2013 for our FCCM 2013 paper, [Certificate](./research/hipeac2013_award.pdf)                       |
+|**13/8/2013**  | My PhD student Abid Rafique wins the [HiPEAC Paper Award](http://www.hipeac.net/award) 2013 for our FCCM 2013 paper, [Certificate](./images/hipeac2013_award.pdf)                       |
 |**8/8/2013**   | My Edex (Excellence in Education) grant [team](./images/edex2013_team.jpg) wrapped up their summer project on automating assesment. <br>
-|**30/4/2013**  | My paper is one of the 25 most influential papers at FCCM in past 20 years [FCCM20](http://tcfpga.org/fccm20/), [Certificate](./research/fccm20_award.pdf). <br>
+|**30/4/2013**  | My paper is one of the 25 most influential papers at FCCM in past 20 years [FCCM20](http://tcfpga.org/fccm20/), [Certificate](./images/fccm20_award.pdf). <br>
 |**25/4/2013**  | Siddhartha wins 50th DAC Richard Newton Student Fellow grant. <br>
 |**24/4/2013**  | Dulitha joins my lab as research staff. <br>
 |**18/3/2013**  | I'm the PI/PL on our successfull CELT Edex (Excellence in Education) Grant S$25K (**Team**: Kyle Rupnow, Iris Lee Chai Hong, Raphael Rubin) <br>
@@ -108,9 +108,8 @@ I have part-time openings for Final Year UG and MSc students with good programmi
 
 ### Misc ###
 
-[College Humor (NTU Edition)](./advice/college_humor.html) <br>
+Class/Group Presentations:
 [Pointers to Talks/Slides on Useful Research Skills](./advice/more_pointers.html)
-
 Final Year Projects:
 [Initial Plan](./advice/fyp_plan.html),
 [Interim Report](./advice/fyp_interim.html),
@@ -120,9 +119,10 @@ MSc Dissertations:
 [Plan](./advice/msc_plan.html)
 [Final Report](./advice/msc_dissertation.html)
 
+[College Humor (NTU Edition)](./advice/college_humor.html) <br>
 
 <hr>
-### Nostalgia
+### Memories
 
 London Retrospective 
 [2010](./images/london_retrospective/2010) 
