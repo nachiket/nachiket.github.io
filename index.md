@@ -20,7 +20,7 @@
 CV and Publications | [HTML](./cv.html) | [PDF](./cv.pdf) <br>
 Google Scholar Profile | [Link](http://scholar.google.co.in/citations?user=JxwwXHMAAAAJ)</br>
 Research | [Link](./research/research.html) <br>
-Philosophy/Quotes | [Link](./research/philosophy.html) <br>
+Quotes | [Link](./quotes.html) <br>
 
 <hr>
 ### Teaching ###
