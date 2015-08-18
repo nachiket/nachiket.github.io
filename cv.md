@@ -1,30 +1,33 @@
 <meta charset='utf-8'>
 
+<div class="wrapper">
+
 <!-- Compilation Instructions
 pandoc cv.md -o cv.html
 pandoc  -V geometry:margin=1in -f markdown+hard_line_breaks cv.md -o cv.pdf
 -->
 
+<header>
 # Nachiket Kapre Curriculum Vitae
 
 School of Computer Engineering <br>
 Nanyang Technological University <br>
 Singapore <br>
 Email: nachiket at ntu dot edu dot sg<br>
+</header>
 
 
+<section>
 ## Education
 
 **Ph.D. California Institute of Technology (USA),** Computer Science<br> 
 Dissertation: *SPICE<sup>2</sup> - A Spatial Parallel Architecture for Accelerating the SPICE Circuit Simulator* <br>
-Degree Conferred: September 2010 <br>
-[Link](./publications/phd-thesis_2010.pdf)<br>
+Degree Conferred: September 2010  [**[Link]**](./publications/phd-thesis_2010.pdf)<br>
 <!--Committee: André DeHon (UPenn), Shuki Bruck (Caltech), Dan Meiron (Caltech), Alain Martin (Caltech) and Steven Trimberger (Xilinx).-->  
 
 **M.S., California Institute of Technology (USA),** Computer Science<br> 
 Degree Conferred: June 2006 <br>
-Thesis: *Packet-Switched FPGA-Overlay Networks* <br>
-[Link](./publications/ms-thesis_2006.pdf)
+Thesis: *Packet-Switched FPGA-Overlay Networks*  [**[Link]**](./publications/ms-thesis_2006.pdf)
 
 
 **M.S., California Institute of Technology (USA),** Electrical Engineering<br> 
@@ -50,86 +53,85 @@ NTU SCE Startup Grant S$100K (3 years)  <br>
 
 ## Journal Publications
 
-[PDF](./publications/comm-avoid-itersolve_tpds2013.pdf)
+[[PDF]](./publications/comm-avoid-itersolve_tpds2013.pdf)
 **"Communication Optimization of Iterative Sparse Matrix-Vector Multiply on GPUs and FPGAs"** <br>
 Abid Rafique, George Constantinides, **Nachiket Kapre** <br>
 *IEEE Transactions on Parallel and Distributed Systems*, Jan 2015 <br>
 
-[PDF](./publications/spice_trcad2012.pdf) 
+[[PDF]](./publications/spice_trcad2012.pdf) 
 **"SPICE<sup>2</sup>: Spatial Processors Interconnected for Concurrent Execution for accelerating the SPICE Circuit Simulator using an FPGA"** <br>
 **Nachiket Kapre** and André DeHon 
 *Transactions in CAD (Special Issue on Parallel CAD)*, Volume 31 Issue 1 January 2012 <br> 
 
-[PDF](./publications/graphstep_taas-2011.pdf)
+[[PDF]](./publications/graphstep_taas-2011.pdf)
 **"Spatial Hardware Implementation for Sparse Graph Algorithms in GraphStep"** <br>
 Michael deLorimier, **Nachiket Kapre**, Nikil Mehta and André DeHon <br>
 *ACM Transactions on Autonomous and Adaptive Systems: Spatial Computing
 Special Issue*, September 2011 <br> 
 
-[PDF](http://downloads.hindawi.com/journals/ijrc/2011/745147.pdf)
+[[PDF]](http://downloads.hindawi.com/journals/ijrc/2011/745147.pdf)
 **"An NoC Traffic Compiler for efficient FPGA implementation of Sparse Graph-Oriented Workloads"**  <br>
 **Nachiket Kapre** and André DeHon <br>
 *International Journal of Reconfigurable Computing* Volume 2011 Article ID 745147<br> 
 
-[PDF](./publications/sataccum_jrnl.pdf)
+[[PDF]](./publications/sataccum_jrnl.pdf)
 **"Pipelined Saturated Accumulation"** <br>
 Karl Papadantonakis, **Nachiket Kapre**, Stephanie Chan, and André DeHon <br>
 *IEEE Transactions on Computers*, February 2009.  <br>
 
 ## Conference/Workshop Publications (Full papers)
 
-[PDF](./publications/hoplite_fpl2015.pdf) 
+[[PDF]](./publications/hoplite_fpl2015.pdf) 
 **"Hoplite: Building Austere Overlay NoCs for FPGAs"** <br>
 **Nachiket Kapre**, Jan Gray<br>
 *25th International Conference on Field-Programmable Logic and Applications*, Sep 2015 <br>
 
-[PDF](./publications/green_fpl2015.pdf) 
+[[PDF]](./publications/green_fpl2015.pdf) 
 **"Limits of FPGA Acceleration of 3D Green’s Function Computation for Geophysical Applications"** <br>
 **Nachiket Kapre**, Selvakumar Jayakrishnan, Parjanya Gupta, Sagar Masuti, Sylvain Barbot<br>
 *25th International Conference on Field-Programmable Logic and Applications*, Sep 2015 <br>
 
-[PDF](./publications/graphproc_asap2015.pdf) 
+[[PDF]](./publications/graphproc_asap2015.pdf) 
 **"Custom FPGA-based Soft-Processors for Sparse Graph Acceleration"** <br>
 **Nachiket Kapre**<br>
 *26th IEEE International Conference on Application-specific Systems, Architectures and Processors*, July 2015 <br>
-(upcoming)
 
-[PDF](./publications/graphmmu_raw2015.pdf) 
+[[PDF]](./publications/graphmmu_raw2015.pdf) 
 **"GraphMMU: Memory Management Unit for Sparse Graph Accelerators"** <br>
 **Nachiket Kapre**, Han Jianglei, Andrew Bean, Pradeep Moorthy, Siddhartha<br>
 *22nd Reconfigurable Architectures Workshop, 2015* (co-located with IPDPS 2015), May 2015 <br>
 
-[PDF](./publications/spice-faulttol_raw2015.pdf) 
+[[PDF]](./publications/spice-faulttol_raw2015.pdf) 
 **"Enhancing Speedups for FPGA Accelerated SPICE through Frequency Scaling and Precision Reduction"** <br>
 **Nachiket Kapre**, Lim Hui Hui<br>
 *22nd Reconfigurable Architectures Workshop, 2015* (co-located with IPDPS 2015), May 2015 <br>
 
-[PDF](./publications/zedwulf_fccm2015.pdf) 
+[[PDF]](./publications/zedwulf_fccm2015.pdf) 
 **"Zedwulf: Power-Performance Tradeoffs of a 32-node Zynq SoC cluster"** <br>
 Pradeep Moorthy, **Nachiket Kapre**<br>
 *International Symposium on Field Programmable Custom Computing Machines*, May 2015 <br> 
 
-[PDF](./publications/intime_fccm2015.pdf) 
+[[PDF]](./publications/intime_fccm2015.pdf) 
 **"Driving Timing Convergence of FPGA Designs through Machine Learning and Cloud Computing"** <br>
 **Nachiket Kapre**, Bibin Chandrashekaran, Harnhua Ng, Kirvy Teo<br>
 *International Symposium on Field Programmable Custom Computing Machines*, May 2015 <br> 
 
-[PDF](./publications/opencv-saliency_fccm2015.pdf) 
+[[PDF]](./publications/opencv-saliency_fccm2015.pdf) 
 **"Energy-Efficient Acceleration of OpenCV Saliency Computation using Soft Vector Processors"**<br>
 Gopalakrishna Hegde, **Nachiket Kapre** <br>
 *International Symposium on Field Programmable Custom Computing Machines*, May 2015 <br> 
 
-[PDF](./publications/idea-loopback_fpga2015.pdf) 
+[[PDF]](./publications/idea-loopback_fpga2015.pdf) 
 **"On Data Forwarding in Deeply Pipelined Soft Processor"** <br>
 Hui Yan Cheah, Suhaib A. Fahmy and **Nachiket Kapre**<br>
 *International Symposium on Field-Programmable Gate Arrays*, February 2015 <br>
 
-[PDF](./publications/relax-miracle_hipc2014.pdf) 
+[[PDF]](./publications/relax-miracle_hipc2014.pdf) 
 **"Relax-Miracle: GPU Parallelization of Semi-Analytic Fourier-Domain solvers for Earthquake Modeling"** <br>
 Sagar Masuti, Sylvain Barbot, and **Nachiket Kapre**<br>
 *International Conference on High Performance Computing*, December 2014 <br> 
 
-[PDF](./publications/limits-vector_fpl2014.pdf) 
+[[PDF]](./publications/limits-vector_fpl2014.pdf) 
 **"Comparing Soft and Hard Vector Processing in FPGA-based Embedded Systems" <font color="red">(Best Paper Nominee)</font>** <br> 
 Soh Jun Jie, and **Nachiket Kapre**<br>
 *International Conference on Field Programmable Logic and Applications*, September 2014 <br> 
@@ -393,3 +395,6 @@ Winter 2006, California Institute of Technology, Computer Science, *CS137: Elect
 **Koch Lab (Caltech)**, Research Assistant (February 2004 to September 2004)<br>
 **Paxonet Communications Inc. (now Conexant)**, Employee (August 2002 to August 2003)<br>
 **Siemens Inc.**, Part-Time Intern (2002).
+
+</section>
+</div>
