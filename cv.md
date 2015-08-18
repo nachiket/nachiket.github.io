@@ -22,12 +22,12 @@ Email: nachiket at ntu dot edu dot sg<br>
 
 **Ph.D. California Institute of Technology (USA),** Computer Science<br> 
 Dissertation: *SPICE<sup>2</sup> - A Spatial Parallel Architecture for Accelerating the SPICE Circuit Simulator* <br>
-Degree Conferred: September 2010  [**[Link]**](./publications/phd-thesis_2010.pdf)<br>
+Degree Conferred: September 2010  [[Link]](./publications/phd-thesis_2010.pdf)<br>
 <!--Committee: André DeHon (UPenn), Shuki Bruck (Caltech), Dan Meiron (Caltech), Alain Martin (Caltech) and Steven Trimberger (Xilinx).-->  
 
 **M.S., California Institute of Technology (USA),** Computer Science<br> 
 Degree Conferred: June 2006 <br>
-Thesis: *Packet-Switched FPGA-Overlay Networks*  [**[Link]**](./publications/ms-thesis_2006.pdf)
+Thesis: *Packet-Switched FPGA-Overlay Networks*  [[Link]](./publications/ms-thesis_2006.pdf)
 
 
 **M.S., California Institute of Technology (USA),** Electrical Engineering<br> 
