@@ -54,6 +54,7 @@ NTU SCE Startup Grant S$100K (3 years)  <br>
 
 ## Journal Publications
 
+
 [[PDF]](./publications/comm-avoid-itersolve_tpds2013.pdf)
 **"Communication Optimization of Iterative Sparse Matrix-Vector Multiply on GPUs and FPGAs"** <br>
 Abid Rafique, George Constantinides, **Nachiket Kapre** <br>
@@ -399,6 +400,8 @@ Winter 2006, California Institute of Technology, Computer Science, *CS137: Elect
 **Koch Lab (Caltech)**, Research Assistant (February 2004 to September 2004)<br>
 **Paxonet Communications Inc. (now Conexant)**, Employee (August 2002 to August 2003)<br>
 **Siemens Inc.**, Part-Time Intern (2002).
+
+<font color="red"> Copyright for all the PDF papers hosted here belongs to IEEE, or ACM as appropriate.</font>
 
 </section>
 </div>
