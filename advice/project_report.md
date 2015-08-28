@@ -8,8 +8,8 @@
 
 Download Markdown template. <br>
 
->       wget http://yarvard.sce.ntu.edu.sg/advice/project_report.md
->       wget http://yarvard.sce.ntu.edu.sg/advice/ntu.jpg
+>       wget http://nachiket.github.io/advice/project_report.md
+>       wget http://nachiket.github.io/advice/ntu.jpg
 
 To compile on Mac OS X or Ubuntu Linux with
 [Pandoc](http://johnmacfarlane.net/pandoc) installed, use 

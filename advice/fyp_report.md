@@ -8,11 +8,8 @@
 **Date**: 9th August 2013 <br>
 
 Download Markdown template fyp_report.md.html <br>
-*Sharepoint forces .html extension. Rename .html to .md on download*
 
-> wget http://www.ntu.edu.sg/home/nachiket/advice/fyp_report.md.html
-
-> mv fyp_report.md.html fyp_report.md
+> wget http://nachiket.github.io/advice/fyp_report.md
 
 To compile on Mac OS X or Ubuntu Linux with
 [Pandoc](http://johnmacfarlane.net/pandoc) installed, use 

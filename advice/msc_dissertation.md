@@ -8,9 +8,8 @@
 **Date**: 22th August 2013 <br>
 
 Download Markdown template msc_dissertation.md.html <br>
-*Sharepoint forces .html extension. Rename .html to .md on download*
 
-> wget http://www.ntu.edu.sg/home/nachiket/advice/msc_dissertation.md.html
+> wget http://nachiket.github.io/advice/msc_dissertation.md
 
 > mv msc_dissertation.md.html msc_dissertation.md
 

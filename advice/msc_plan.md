@@ -9,11 +9,8 @@
 **Date**: 22th August 2013 
 
 Download Markdown template msc_plan.md.html <br>
-*Sharepoint forces .html extension. Rename .html to .md on download*
 
-> wget http://www.ntu.edu.sg/home/nachiket/advice/msc_plan.md.html
-
-> mv msc_plan.md.html msc_plan.md
+> wget http://nachiket.github.io/advice/msc_plan.md
 
 To compile on Mac OS X or Ubuntu Linux with
 [Pandoc](http://johnmacfarlane.net/pandoc) installed, use

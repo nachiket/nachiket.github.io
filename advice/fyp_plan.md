@@ -6,12 +6,9 @@
 **Supervisor**: Dr. Nachiket Kapre <br>
 **Date**: 11th August 2013 <br>
 
-Download Markdown template fyp_plan.md.html <br>
-*Sharepoint forces .html extension. Rename .html to .md on download*
+Download Markdown template fyp_plan.md <br>
 
-> wget http://www.ntu.edu.sg/home/nachiket/advice/fyp_plan.md.html
-
-> mv fyp_plan.md.html fyp_plan.md
+> wget http://nachiket.github.io/advice/fyp_plan.md
 
 To compile on Mac OS X or Ubuntu Linux with
 [Pandoc](http://johnmacfarlane.net/pandoc) installed, use
