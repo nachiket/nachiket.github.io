@@ -84,7 +84,7 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 ## Conference/Workshop Publications (Full papers)
 
 [[PDF]](./publications/hoplite_fpl2015.pdf) 
-**"Hoplite: Building Austere Overlay NoCs for FPGAs"** <font color="red">(Best Paper Award)</font> <br>
+**"Hoplite: Building Austere Overlay NoCs for FPGAs"** **<font color="red">(Best Paper Award)</font>** <br>
 <u>Nachiket Kapre</u>, Jan Gray<br>
 *25th International Conference on Field-Programmable Logic and Applications*, Sep 2015 <br>
 
