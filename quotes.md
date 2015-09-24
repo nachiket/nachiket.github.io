@@ -2,6 +2,8 @@
 
 <section>
 
+*When you come to a fork in the road, take it* - Yogi Berra <br>
+
 *In the hyperconnected world, there is only "good" "better" and "best," and
 managers and entrepreneurs everywhere now have greater access than ever to the
 better and best people, robots and software everywhere. Obviously, this makes
