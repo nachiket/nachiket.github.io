@@ -54,6 +54,17 @@ NTU SCE Startup Grant S$100K (3 years)  <br>
 
 ## Journal Publications
 
+[[PDF]](./publications/soft-vector_trets2016.pdf)
+**"Optimizing Soft Vector Processing in FPGA-based Embedded Systems"** <br>
+<u>Nachiket Kapre</u> <br>
+*IEEE Transactions on Reconfigurable Technology and Applications* (Special Issue FPL 2014)<br>
+(upcoming)
+
+[[PDF]](./publications/case-for-graphs_superfri2016.pdf)
+**"A Case for Embedded FPGA-based SoCs in Energy-Efficient Acceleration of Graph Problems"** <br>
+Pradeep Moorthy, <u>Nachiket Kapre</u> <br>
+*Supercomputing Frontiers and Innovations* (Special Best Papers Issue) <br>
+(upcoming)
 
 [[PDF]](./publications/comm-avoid-itersolve_tpds2013.pdf)
 **"Communication Optimization of Iterative Sparse Matrix-Vector Multiply on GPUs and FPGAs"** <br>
@@ -82,6 +93,12 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 *IEEE Transactions on Computers*, February 2009.  <br>
 
 ## Conference/Workshop Publications (Full papers)
+
+[[PDF]](./publications/gpu-score_fpga2015.pdf) 
+**"GPU-Accelerated High-Level Synthesis for Bitwidth Optimization of FPGA Datapaths"** <br>
+<u>Nachiket Kapre</u>, Ye Deheng<br>
+*International Symposium on Field-Programmable Gate Arrays*, Feb 2016 <br>
+(upcoming)
 
 [[PDF]](./publications/hoplite_fpl2015.pdf) 
 **"Hoplite: Building Austere Overlay NoCs for FPGAs"** **<font color="red">(Best Paper Award)</font>** <br>
@@ -225,6 +242,12 @@ André DeHon, Joshua Adams, Michael deLorimier, <u>Nachiket Kapre</u>, Yuki Mats
 
 ## Conference Publications (Short Papers)
 
+[[PDF]](./publications/ml-compare_fpga2016.pdf)
+**"Reliable Timing Closure for FPGA Designs through Machine Learning"** <br>
+Que Yanghua, Chinnakkannu Adaikkal Raj, Harnhua Ng, Kirvy Teo, and <u>Nachiket Kapre</u><br>
+*International Symposium on Field-Programmable Gate Arrays*, Feb 2016 <br>
+(upcoming)
+
 [[PDF]](./publications/intime_fpga2015.pdf) 
 **"InTime: A Machine Learning Approach for Efficient Selection of FPGA CAD Tool Parameters"** <br>
 <u>Nachiket Kapre</u>, Harnhua Ng, Kirvy Teo and Jaco Naude<br>
@@ -262,6 +285,11 @@ Edward Stott, Joshua M. Levine, Peter Y. K. Cheung, and <u>Nachiket Kapre</u><br
 
 ## Posters
            
+**"Machine-Learning driven Auto-Tuning\\ of High-Level Synthesis for FPGAs"** <br>
+Li Ting, Harri Sapto Wijaya, and <u>Nachiket Kapre</u><br>
+*International Symposium on Field-Programmable Gate Arrays*, Feb 2016 <br>
+(upcoming)
+
 **"Sparse Graph Processing using Soft-Processors"** <br>
 <u>Nachiket Kapre</u><br>
 *International Symposium on Field Programmable Custom Computing Machines*, May 2015 <br> 

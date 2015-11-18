@@ -27,19 +27,18 @@ Quotes | [Link](./quotes.html) <br>
 
 | | |
 |:--|:--|
-| **2015-16**  | **Semester 1** | 
+| **2015-16**  | | 
+|**CE4054** | [Programmable System-on-Chip](http://codeventure.sce.ntu.edu.sg/teaching/2016/ce4054_psoc/index.html) 
 |**CE4052** | [Embedded Software Development](http://codeventure.sce.ntu.edu.sg/teaching/2015/ce4052_embsysdev/index.html) 
 |**CE3001** | [Advanced Computer Architecture](http://codeventure.sce.ntu.edu.sg/teaching/2015/ce3001_advcomparch/index.html) 
-| **2014-15** |**Semester 1** | 
+| **2014-15** | | 
 |**CE4052** | [Embedded Software Development](http://codeventure.sce.ntu.edu.sg/teaching/2014/ce4052_embsysdev/index.html) 
 |**CE1005** | [Digital Logic](http://codeventure.sce.ntu.edu.sg/teaching/2014/ce1005_digital_logic/index.html) 
-| **2014-15** |**Semester 2** | 
 |**CE4054** | [Programmable System-on-Chip](http://codeventure.sce.ntu.edu.sg/teaching/2015/ce4054_psoc/index.html) 
-| **2013-14** |**Semester 1** | 
+| **2013-14** | | 
 |**CE7451** | [Research Methods in Computer Science & Engineering](http://yarvard.sce.ntu.edu.sg/teaching/2013/ce7451_resmeth/index.html) 
 |**CE4052** | [Embedded Software Development](http://yarvard.sce.ntu.edu.sg/teaching/2013/ce4052_embsysdev/index.html) 
 |**ES7501** | [Electronic Design Automation](http://yarvard.sce.ntu.edu.sg/teaching/2013/es7501_eda/index.html) 
-| **2013-14** |**Semester 2** | 
 |**CE4054** | [Programmable System-on-Chip](http://yarvard.sce.ntu.edu.sg/teaching/2014/ce4054_psoc/index.html) 
 | | |
 
@@ -56,6 +55,9 @@ I have part-time openings for Final Year UG and MSc students with good programmi
 
 | |     |
 | :-- | :-- |
+|**15/11/2015** | One full, one short and one poster accepted to FPGA 2016.                                                                                                                                 |
+|**2/11/2015** | One journal article accepted to Supercomputing Frontiers.|
+|**17/9/2015** | One journal article accepted to TRETS.|
 |**3/9/2015**  | The Hoplite NoC paper with Jan Gray won Michael Servit Best Paper award at FPL 2015 [Certificate](./images/fpl2015_award.jpg), [Photo](./images/21145343661_eb2fef0d35_o.jpg)   |
 |**10/8/2015**  | I'm PI on a Tier-1 grant for Machine Learning in FPGA CAD (S$100K).   |
 |**4/8/2015**   | I'm a Co-PI on a Delta Electronics grant led by Arindam (S$100K Co-PI).          |
