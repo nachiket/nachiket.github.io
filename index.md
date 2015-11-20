@@ -59,7 +59,7 @@ I have part-time openings for Final Year UG and MSc students with good programmi
 |15/11| One full, one short and one poster accepted to FPGA 2016.                                                                                                                                 |
 |2/11| One journal article accepted to Supercomputing Frontiers.|
 |17/9| One journal article accepted to TRETS.|
-|3/9| The Hoplite NoC paper with Jan Gray won Michael Servit Best Paper award at FPL 2015 [Certificate](./images/fpl2015_award.jpg), [Photo](./images/21145343661_eb2fef0d35_o.jpg)   |
+|3/9| <font color="red"<The Hoplite NoC paper with Jan Gray won Michael Servit Best Paper award at FPL 2015 </font> [Certificate](./images/fpl2015_award.jpg), [Photo](./images/21145343661_eb2fef0d35_o.jpg)   |
 |10/8| I'm PI on a Tier-1 grant for Machine Learning in FPGA CAD (S$100K).   |
 |4/8| I'm a Co-PI on a Delta Electronics grant led by Arindam (S$100K Co-PI).          |
 |15/6| I'm a Co-PI on an MIT-SMART grant led by Arindam (S$60K Co-PI).          |
