@@ -59,23 +59,23 @@ I have part-time openings for Final Year UG and MSc students with good programmi
 |15/11| One full, one short and one poster accepted to FPGA 2016.                                                                                                                                 |
 |2/11| One journal article accepted to Supercomputing Frontiers.|
 |17/9| One journal article accepted to TRETS.|
-|3/9| <font color="red">The Hoplite NoC paper with Jan Gray won Michael Servit Best Paper award at FPL 2015 </font> [Certificate](./images/fpl2015_award.jpg), [Photo](./images/21145343661_eb2fef0d35_o.jpg)   |
+|3/9| <font color="red">The Hoplite NoC paper with Jan Gray won Michael Servit Best Paper award at FPL 2015 </font>, [Certificate](./images/fpl2015_award.jpg), [Photo](./images/21145343661_eb2fef0d35_o.jpg).   |
 |10/8| I'm PI on a Tier-1 grant for Machine Learning in FPGA CAD (S$100K).   |
 |4/8| I'm a Co-PI on a Delta Electronics grant led by Arindam (S$100K Co-PI).          |
 |15/6| I'm a Co-PI on an MIT-SMART grant led by Arindam (S$60K Co-PI).          |
 |5/6| Two full papers, one poster accepted to FPL 2015.                          |
 |18/5| One full paper accepted to ASAP 2015.                          |
 |3/3| Three full papers, one poster selected for FCCM 2015.                          |
-|17/2| Paper selected for Supercomputing Frontiers 2015 (organized by A\*Star, Singapore)                         |
-|16/2| Two full papers accepted to RAW 2015 (co-located with IPDPS 2015)                          |
+|17/2| Paper selected for Supercomputing Frontiers 2015 (organized by A\*Star, Singapore).                         |
+|16/2| Two full papers accepted to RAW 2015 (co-located with IPDPS 2015).                          |
 | |     |
 
 
 | |     |
 | :-- | :-- |
 | **2014**  | | 
-|15/12| I will be the Technical Program Co-Chair for FPT 2015 next year in Queenstown, New Zealand. [link](http://fpt.massey.ac.nz)                                                |
-|24/11| My third Edex (Excellence in Education) grant as PI accepted S$37K (**Co-PI**: Anupam Chattopadhyay)                                                                       |
+|15/12| I will be the Technical Program Co-Chair for FPT 2015 next year in Queenstown, New Zealand. \[[link](http://fpt.massey.ac.nz)\]                                                |
+|24/11| My third Edex (Excellence in Education) grant as PI accepted S$37K (**Co-PI**: Anupam Chattopadhyay).                                                                       |
 |13/11 | One full, one short and one poster accepted to FPGA 2015.                                                                                                                                 |
 |19/9| Two short papers accepted at FPT 2014.                                                                                                                                                    |
 |1/8| Full paper accepted at HiPC 2014 (collaboration with NTU EOS).                                                                                                                            |
@@ -90,16 +90,16 @@ I have part-time openings for Final Year UG and MSc students with good programmi
 | |     |
 | :-- | :-- |
 | **2013**  | | 
-|6/12  | Abid's TPDS 2013 journal article accepted                                                                                                                                                 |
-|30/11 | AcRF Tier 1 Grant as PI accepted S$150K                                                                                                                                                   |
-|28/10 | My second Edex (Excellence in Education) grant as PI accepted S$40K (**Team**: Arvind Easwaran, Iris Lee Chai Hong)                                                                       |
+|6/12  | Abid's TPDS 2013 journal article accepted .                                                                                                                                                |
+|30/11 | AcRF Tier 1 Grant as PI accepted S$150K.                                                                                                                                                   |
+|28/10 | My second Edex (Excellence in Education) grant as PI accepted S$40K (**Team**: Arvind Easwaran, Iris Lee Chai Hong).                                                                       |
 |2/10  | One FPT 2013 full paper accepted.                                                                                                                                                         |
-|13/8  | My PhD student Abid Rafique wins the [HiPEAC Paper Award](http://www.hipeac.net/award) 2013 for our FCCM 2013 paper, [Certificate](./images/hipeac2013_award.pdf)                       |
+|13/8  | My PhD student Abid Rafique wins the [HiPEAC Paper Award](http://www.hipeac.net/award) 2013 for our FCCM 2013 paper, [Certificate](./images/hipeac2013_award.pdf).                       |
 |8/8   | My Edex (Excellence in Education) grant [team](./images/edex2013_team.jpg) wrapped up their summer project on automating assesment. <br>
 |30/4  | My paper is one of the 25 most influential papers at FCCM in past 20 years [FCCM20](http://tcfpga.org/fccm20/), [Certificate](./images/fccm20_award.pdf). <br>
 |25/4  | Siddhartha wins 50th DAC Richard Newton Student Fellow grant. <br>
 |24/4  | Dulitha joins my lab as research staff. <br>
-|18/3  | I'm the PI/PL on our successfull CELT Edex (Excellence in Education) Grant S$25K (**Team**: Kyle Rupnow, Iris Lee Chai Hong, Raphael Rubin) <br>
+|18/3  | I'm the PI/PL on our successfull CELT Edex (Excellence in Education) Grant S$25K (**Team**: Kyle Rupnow, Iris Lee Chai Hong, Raphael Rubin). <br>
 |2/3   | I'm organising the 2013 NTU Roadmapping Workshop on the Future of Spatial Architectures [Flyer](./images/reconfig_workshop.jpg), [Participants](./images/workshop_participants.jpg). <br>
 |2/3   | Two FCCM 2013 full papers accepted. <br>
 | |     |
