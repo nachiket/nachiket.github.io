@@ -3,7 +3,7 @@
 <div class="wrapper">
 
 <!-- Compilation Instructions
-pandoc cv.md -o cv.html
+pandoc cv.md -s -c stylesheets/styles.css -o cv.html
 pandoc  -V geometry:margin=1in -f markdown+hard_line_breaks cv.md -o cv.pdf
 -->
 
@@ -94,7 +94,7 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 ## Conference/Workshop Publications (Full papers)
 
-[[PDF]](./publications/gpu-score_fpga2015.pdf) 
+[[PDF]](./publications/gpu-bitwidth_fpga2016.pdf) 
 **"GPU-Accelerated High-Level Synthesis for Bitwidth Optimization of FPGA Datapaths"** <br>
 <u>Nachiket Kapre</u>, Ye Deheng<br>
 *International Symposium on Field-Programmable Gate Arrays*, Feb 2016 <br>
@@ -242,7 +242,7 @@ André DeHon, Joshua Adams, Michael deLorimier, <u>Nachiket Kapre</u>, Yuki Mats
 
 ## Conference Publications (Short Papers)
 
-[[PDF]](./publications/ml-compare_fpga2016.pdf)
+[[PDF]](./publications/ml-case_fpga2016.pdf)
 **"Reliable Timing Closure for FPGA Designs through Machine Learning"** <br>
 Que Yanghua, Chinnakkannu Adaikkal Raj, Harnhua Ng, Kirvy Teo, and <u>Nachiket Kapre</u><br>
 *International Symposium on Field-Programmable Gate Arrays*, Feb 2016 <br>

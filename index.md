@@ -1,5 +1,9 @@
 <div class="wrapper">
 
+<!-- Compilation Instructions
+pandoc index.md -s -c stylesheets/styles.css -o index.html
+-->
+
 <header>
 #Nachiket Kapre
 </header>
