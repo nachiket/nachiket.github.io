@@ -59,6 +59,11 @@ I have part-time openings for Final Year UG and MSc students with good programmi
 
 | |     |
 | :-- | :-- |
+| **2016**  | | 
+|2/3| One full, one short and two posters accepted to FCCM 2016.                                                                                                                                 |
+
+| |     |
+| :-- | :-- |
 | **2015**  | | 
 |15/11| One full, one short and one poster accepted to FPGA 2016.                                                                                                                                 |
 |2/11| One journal article accepted to Supercomputing Frontiers.|
