@@ -94,11 +94,16 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 ## Conference/Workshop Publications (Full papers)
 
+[[PDF]](./publications/marathon_fccm2016.pdf) 
+**"Marathon: Statically-Scheduled Conflict-Free Routing on FPGA Overlay NoCs"** <br>
+<u>Nachiket Kapre</u><br>
+*International Symposium on Field-Programmable Custom Computing Machines*, May 2016 <br>
+(upcoming)
+
 [[PDF]](./publications/gpu-bitwidth_fpga2016.pdf) 
 **"GPU-Accelerated High-Level Synthesis for Bitwidth Optimization of FPGA Datapaths"** <br>
 <u>Nachiket Kapre</u>, Ye Deheng<br>
 *International Symposium on Field-Programmable Gate Arrays*, Feb 2016 <br>
-(upcoming)
 
 [[PDF]](./publications/hoplite_fpl2015.pdf) 
 **"Hoplite: Building Austere Overlay NoCs for FPGAs"** **<font color="red">(Best Paper Award)</font>** <br>
@@ -242,6 +247,11 @@ André DeHon, Joshua Adams, Michael deLorimier, <u>Nachiket Kapre</u>, Yuki Mats
 
 ## Conference Publications (Short Papers)
 
+[[PDF]](./publications/ml-features_fccm2016.pdf) 
+**"Unifying Feature Selection and Classification for Learning-Driven Timing Closure of FPGA Designs"** <br>
+Que Yanghua, Harnhua Ng, Kirvy Teo, <u>Nachiket Kapre</u><br>
+*International Symposium on Field-Programmable Custom Computing Machines*, May 2016 <br>
+
 [[PDF]](./publications/ml-case_fpga2016.pdf)
 **"Reliable Timing Closure for FPGA Designs through Machine Learning"** <br>
 Que Yanghua, Chinnakkannu Adaikkal Raj, Harnhua Ng, Kirvy Teo, and <u>Nachiket Kapre</u><br>
@@ -284,11 +294,18 @@ Edward Stott, Joshua M. Levine, Peter Y. K. Cheung, and <u>Nachiket Kapre</u><br
 *International Symposium on Field Programmable Custom Computing Machines*, May 2014 <br> 
 
 ## Posters
+
+**"Evaluating Embedded FPGA Accelerators for Deep Learning Applications"** <br>
+Gopalakrishna Hegde, Siddhartha, Nachiappan Ramasamy, Vamsi Buddha, <u>Nachiket Kapre</u><br>
+*International Symposium on Field Programmable Custom Computing Machines*, May 2016 <br> 
+
+**"Communication Optimization for the 16-core Epiphany Floating-Point Processor Array"** <br>
+Siddhartha, <u>Nachiket Kapre</u><br>
+*International Symposium on Field Programmable Custom Computing Machines*, May 2016 <br> 
            
 **"Machine-Learning driven Auto-Tuning\\ of High-Level Synthesis for FPGAs"** <br>
 Li Ting, Harri Sapto Wijaya, and <u>Nachiket Kapre</u><br>
 *International Symposium on Field-Programmable Gate Arrays*, Feb 2016 <br>
-(upcoming)
 
 **"Sparse Graph Processing using Soft-Processors"** <br>
 <u>Nachiket Kapre</u><br>
