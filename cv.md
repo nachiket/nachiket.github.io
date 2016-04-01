@@ -247,9 +247,9 @@ André DeHon, Joshua Adams, Michael deLorimier, <u>Nachiket Kapre</u>, Yuki Mats
 
 ## Conference Publications (Short Papers)
 
-[[PDF]](./publications/ml-features_fccm2016.pdf) 
-**"Optimizing Classification for Learning-Driven Timing Closure of FPGA Designs"** <br>
-Que Yanghua, Harnhua Ng, Kirvy Teo, <u>Nachiket Kapre</u><br>
+[[PDF]](./publications/ml-classifiers_fccm2016.pdf) 
+**"Improving Classification Accuracy of a Machine Learning approach for FPGA Timing Closure"** <br>
+Que Yanghua, <u>Nachiket Kapre</u>, Harnhua Ng, Kirvy Teo<br>
 *International Symposium on Field-Programmable Custom Computing Machines*, May 2016 <br>
 
 [[PDF]](./publications/ml-case_fpga2016.pdf)
