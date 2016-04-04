@@ -251,12 +251,12 @@ André DeHon, Joshua Adams, Michael deLorimier, <u>Nachiket Kapre</u>, Yuki Mats
 **"Improving Classification Accuracy of a Machine Learning approach for FPGA Timing Closure"** <br>
 Que Yanghua, <u>Nachiket Kapre</u>, Harnhua Ng, Kirvy Teo<br>
 *International Symposium on Field-Programmable Custom Computing Machines*, May 2016 <br>
+(upcoming)
 
 [[PDF]](./publications/ml-case_fpga2016.pdf)
 **"Reliable Timing Closure for FPGA Designs through Machine Learning"** <br>
 Que Yanghua, Chinnakkannu Adaikkal Raj, Harnhua Ng, Kirvy Teo, and <u>Nachiket Kapre</u><br>
 *International Symposium on Field-Programmable Gate Arrays*, Feb 2016 <br>
-(upcoming)
 
 [[PDF]](./publications/intime_fpga2015.pdf) 
 **"InTime: A Machine Learning Approach for Efficient Selection of FPGA CAD Tool Parameters"** <br>
