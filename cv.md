@@ -373,17 +373,18 @@ André DeHon and Nachiket Kapre<br>
 Siddhartha (2013-present): *Dataflow Computing using FPGAs* <br>
 Ye Deheng (2013-present): *Precision Analysis* and *Software Analytics* <br>
 Magzhan Ikram (2015-present): *GPU-based applications/High-Level Synthesis* <br>
-Cheah Hui Yan (2011-present): *DSP-based Soft Processors* 
+Cheah Hui Yan (2011-2016): *DSP-based Soft Processors* 
 
 **NTU MSc**<br>
+Chethan Kumar Basavaraju (2015): FPGA NoCs <br>
 Jayakrishnan Selva Kumar (2014): Maxeler Applications <br>
 Venugopal Swetha (2014): GPU Monte-Carlo Applications <br>
 Chinnakkannu Adaikkala Raj (2014): Machine Learning in FPGA CAD <br>
-Jianring, Kiran Ganapathi, Kunal Gokhale (2014): Misc Topics<br>
-Kanchan Kaur (2013): *FPGA Routing* <br>
-Shipeng Xu (2013): *FPGA Placement* 
+Jianrong, Kiran Ganapathi, Kunal Gokhale (2014): Misc Topics<br>
+Kanchan Kaur, Shipeng Xu (2013): *FPGA Placement/Routing* 
 
 **NTU UG (Final Year Projects)**<br>
+Que Yanghua (2015): *Machine Learning* <br>
 Dakshina Pradeep Moorthy (2014): *Parallel Graph Accelerators* <br>
 Han Jianglei (2014): *Parallel Graph Accelerators* <br>
 Soh Jun Jie (2013-14): *Vectorblox* <br>
