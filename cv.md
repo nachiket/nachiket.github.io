@@ -394,9 +394,6 @@ André DeHon and Nachiket Kapre<br>
 
 **NTU PhD**<br>
 Siddhartha (2013-present): *Dataflow Computing using FPGAs* <br>
-Ye Deheng (2013-present): *Precision Analysis* and *Software Analytics* <br>
-Magzhan Ikram (2015-present): *GPU-based applications/High-Level Synthesis* <br>
-Cheah Hui Yan (2011-2016): *DSP-based Soft Processors* 
 
 **NTU MSc**<br>
 Chethan Kumar Basavaraju (2015): *FPGA NoCs* <br>
