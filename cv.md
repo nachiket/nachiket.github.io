@@ -94,11 +94,28 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 ## Conference/Workshop Publications (Full papers)
 
+[[PDF]](./publications/hoplite-dsp_fpl2016.pdf) 
+**"Hoplite-DSP: Harnessing the Xilinx DSP48 Multiplexers to efficiently support NoCs on FPGAs"** <br>
+Chethan Kumar H B, <u>Nachiket Kapre</u><br>
+*26th International Conference on Field-Programmable Logic and Applications*, Sep 2016 <br>
+(upcoming)
+
+[[PDF]](./publications/intime_fpl2016.pdf) 
+**"Boosting Convergence of Timing Closure with a Learning-Driven Approach"** <br>
+Que Yanghua, Harnhua Ng, <u>Nachiket Kapre</u><br>
+*26th International Conference on Field-Programmable Logic and Applications*, Sep 2016 <br>
+(upcoming)
+
+[[PDF]](./publications/rc-dsl-survey_fpl2016.pdf) 
+**"Survey of Domain-Specific Languages for FPGA Computing"** <br>
+<u>Nachiket Kapre</u>, Samuel Bayliss<br>
+*26th International Conference on Field-Programmable Logic and Applications*, Sep 2016 <br>
+(upcoming)
+
 [[PDF]](./publications/marathon_fccm2016.pdf) 
 **"Marathon: Statically-Scheduled Conflict-Free Routing on FPGA Overlay NoCs"** <br>
 <u>Nachiket Kapre</u><br>
 *International Symposium on Field-Programmable Custom Computing Machines*, May 2016 <br>
-(upcoming)
 
 [[PDF]](./publications/gpu-bitwidth_fpga2016.pdf) 
 **"GPU-Accelerated High-Level Synthesis for Bitwidth Optimization of FPGA Datapaths"** <br>
@@ -246,6 +263,12 @@ André DeHon, Joshua Adams, Michael deLorimier, <u>Nachiket Kapre</u>, Yuki Mats
 *IEEE Symposium on Field-Programmable Custom Computing Machines*, April 2004. <br>
 
 ## Conference Publications (Short Papers)
+
+[[PDF]](./publications/vector-dwt_fpl2016.pdf) 
+**" Vector Acceleration of 1-D and 2-D DWT Computations using Sparse Matrix Skeleton"** <br>
+Sidharth Maheswari, Siddhartha, <u>Nachiket Kapre</u><br>
+*26th International Conference on Field-Programmable Logic and Applications*, Sep 2016 <br>
+(upcoming)
 
 [[PDF]](./publications/ml-classifiers_fccm2016.pdf) 
 **"Improving Classification Accuracy of a Machine Learning approach for FPGA Timing Closure"** <br>
