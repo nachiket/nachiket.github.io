@@ -426,7 +426,7 @@ Stephanie Chan (2005, now at NIST): *Experiments on saturating accumulator* <br>
 Ravi Teja Sukhavasi (2006, Caltech graduate student): *Applying network-coding ideas to message traffic between parallel compute elements* <br>
 Jon Ramirez (2006): *Floating-point associative accumulator* <br>
 
-**Corporate Collaborations**
+**Corporate Collaborations** <br>
 Harnhua Ng, Kirvy Teo (Plunify): *Machine-Learning for FPGA CAD* <br>
 Jacob Bower (Maxeler): *Maxeler Compiler Framework* <br>
 Kumiko Nomura (Toshiba): *Architecture analysis of 3D chips* <br>
