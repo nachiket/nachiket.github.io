@@ -150,17 +150,17 @@ Que Yanghua, Harnhua Ng, <u>Nachiket Kapre</u><br>
 [[PDF]](./publications/zedwulf_fccm2015.pdf) 
 **"Zedwulf: Power-Performance Tradeoffs of a 32-node Zynq SoC cluster"** <br>
 Pradeep Moorthy, <u>Nachiket Kapre</u><br>
-*International Symposium on Field Programmable Custom Computing Machines*, May 2015 <br> 
+*International Symposium on Field-Programmable Custom Computing Machines*, May 2015 <br> 
 
 [[PDF]](./publications/intime_fccm2015.pdf) 
 **"Driving Timing Convergence of FPGA Designs through Machine Learning and Cloud Computing"** <br>
 <u>Nachiket Kapre</u>, Bibin Chandrashekaran, Harnhua Ng, Kirvy Teo<br>
-*International Symposium on Field Programmable Custom Computing Machines*, May 2015 <br> 
+*International Symposium on Field-Programmable Custom Computing Machines*, May 2015 <br> 
 
 [[PDF]](./publications/opencv-saliency_fccm2015.pdf) 
 **"Energy-Efficient Acceleration of OpenCV Saliency Computation using Soft Vector Processors"**<br>
 Gopalakrishna Hegde, <u>Nachiket Kapre</u> <br>
-*International Symposium on Field Programmable Custom Computing Machines*, May 2015 <br> 
+*International Symposium on Field-Programmable Custom Computing Machines*, May 2015 <br> 
 
 [[PDF]](./publications/idea-loopback_fpga2015.pdf) 
 **"On Data Forwarding in Deeply Pipelined Soft Processor"** <br>
@@ -175,7 +175,7 @@ Sagar Masuti, Sylvain Barbot, and <u>Nachiket Kapre</u><br>
 [[PDF]](./publications/limits-vector_fpl2014.pdf) 
 **"Comparing Soft and Hard Vector Processing in FPGA-based Embedded Systems" <font color="red">(Best Paper Nominee)</font>** <br> 
 Soh Jun Jie, and <u>Nachiket Kapre</u><br>
-*International Conference on Field Programmable Logic and Applications*, September 2014 <br> 
+*International Conference on Field-Programmable Logic and Applications*, September 2014 <br> 
 
 [[PDF]](./publications/dataflow-limits_dfm2014.pdf) 
 **"Limits of Statically Scheduled Token Dataflow Processing"** <br>
@@ -185,32 +185,32 @@ Soh Jun Jie, and <u>Nachiket Kapre</u><br>
 [[PDF]](./publications/fpga-driver_fpt-2013.pdf) 
 **"System-Level FPGA Device Driver with High-Level Synthesis Support"** <br>
 Vipin Kizhepatt, Shreejit Shanker, Dulitha Gunasekara, Suhaib A Fahmy, <u>Nachiket Kapre</u><br>
-*International Conference on Field Programmable Technology Machines*, December 2013 <br> 
+*International Conference on Field-Programmable Technology Machines*, December 2013 <br> 
 
 [[PDF]](./publications/uncertainty_fccm-2013.pdf) 
 **"Exploiting Input Parameter Uncertainty for Reducing Datapath Precision of SPICE Device Models"** <br>
 <u>Nachiket Kapre</u> <br> 
-*International Symposium on Field Programmable Custom Computing Machines*, April 2013 <br> 
+*International Symposium on Field-Programmable Custom Computing Machines*, April 2013 <br> 
 
 [[PDF]](./publications/appcompose_fccm-2013.pdf) 
 **"Application Composition and Communication Optimization of Iterative Solvers using FPGAs" <font color="red"> (HiPEAC Paper Award)</font>** <br>
 Abid Rafique, <u>Nachiket Kapre</u> and George Constantinides<br> 
-*International Symposium on Field Programmable Custom Computing Machines*, April 2013 <br> 
+*International Symposium on Field-Programmable Custom Computing Machines*, April 2013 <br> 
 
 [[PDF]](./publications/tsqr_fpl-2012.pdf) 
 **"Enhancing Performance of Tall-Skinny QR factorization using FPGAs"** <br>
 Abid Rafique, <u>Nachiket Kapre</u> and George Constantinides<br> 
-*International Conference on Field Programmable Logic and Applications*, August 2012 <br> 
+*International Conference on Field-Programmable Logic and Applications*, August 2012 <br> 
 
 [[PDF]](./publications/fxscore_fccm-2012.pdf) 
 **"FX-SCORE: A Framework for Fixed-Point Compilation of SPICE Device Models using Gappa++"** <br>
 Helene Martorell and <u>Nachiket Kapre</u><br> 
-*International Symposium on Field Programmable Custom Computing Machines*, April 2012 <br> 
+*International Symposium on Field-Programmable Custom Computing Machines*, April 2012 <br> 
 
 [[PDF]](./publications/spice_iterctrl_fpt-2011.pdf) 
 **"VLIW-SCORE: Beyond C for Sequential Control of SPICE FPGA Acceleration" <font color="red"> (Best Paper Award)</font>** <br>
 <u>Nachiket Kapre</u> and André DeHon<br> 
-*International Conference on Field Programmable Technology*, December 2011 <br>
+*International Conference on Field-Programmable Technology*, December 2011 <br>
 	
 [[PDF]](./publications/spice_overview_carl2010.pdf) 
 **"SPICE<sup>2</sup> - A Spatial Parallel Architecture for Accelerating the SPICE Circuit Simulator"**  <br>
@@ -225,12 +225,12 @@ Helene Martorell and <u>Nachiket Kapre</u><br>
 [[PDF]](./publications/spice_matrix-solve_fpt-2009.pdf) 
 **"Parallelizing Sparse Matrix-Solve for SPICE Circuit Simulation using FPGAs"** <br>
 <u>Nachiket Kapre</u> and André DeHon<br>
-*International Conference on Field Programmable Technology*, December 2009 <br> 
+*International Conference on Field-Programmable Technology*, December 2009 <br> 
 
 [[PDF]](./publications/spice_perf-compare-arch_fpl-2009.pdf) 
 **"Performance Comparison of Single-Precision SPICE Model-Evaluation on FPGA, GPU, Cell, and Multi-Core Processors"**  <br>
 <u>Nachiket Kapre</u> and André DeHon<br> 
-*International Conference on Field Programmable Logic and Applications*, September 2009 <br>
+*International Conference on Field-Programmable Logic and Applications*, September 2009 <br>
 
 [[PDF]](./publications/spice_spatial-model-eval_fccm-2009.pdf)
 **"Accelerating SPICE Model-Evaluation using FPGAs"** <br>
@@ -299,32 +299,32 @@ Hui Yan Cheah, Suhaib A. Fahmy and <u>Nachiket Kapre</u><br>
 [[PDF]](./publications/hetero-dataflow_fpl2014.pdf) 
 **"Heterogeneous Dataflow Architectures for FPGA-based Sparse LU Factorization"** <br>
 Siddhartha, and <u>Nachiket Kapre</u><br>
-*International Conference on Field Programmable Logic and Applications*, September 2014 <br> 
+*International Conference on Field-Programmable Logic and Applications*, September 2014 <br> 
 
 [[PDF]](./publications/breakseq_fccm-2014.pdf) 
 **"Breaking Sequential Dependencies in FPGA-based Sparse LU Factorization"** <br>
 Siddhartha, and <u>Nachiket Kapre</u><br>
-*International Symposium on Field Programmable Custom Computing Machines*, May 2014 <br> 
+*International Symposium on Field-Programmable Custom Computing Machines*, May 2014 <br> 
 
 [[PDF]](./publications/mixfxscore_fccm-2014.pdf) 
 **"MixFX-SCORE: Heterogeneous Fixed-Point Compilation of Dataflow Computations"** <br>
 Ye Deheng, and <u>Nachiket Kapre</u><br>
-*International Symposium on Field Programmable Custom Computing Machines*, May 2014 <br> 
+*International Symposium on Field-Programmable Custom Computing Machines*, May 2014 <br> 
 
 [[PDF]](./publications/timfaults_fccm-2014.pdf) 
 **"Timing Fault Detection in FPGA-based Circuits"** <br>
 Edward Stott, Joshua M. Levine, Peter Y. K. Cheung, and <u>Nachiket Kapre</u><br>
-*International Symposium on Field Programmable Custom Computing Machines*, May 2014 <br> 
+*International Symposium on Field-Programmable Custom Computing Machines*, May 2014 <br> 
 
 ## Posters
 
 **"Evaluating Embedded FPGA Accelerators for Deep Learning Applications"** <br>
 Gopalakrishna Hegde, Siddhartha, Nachiappan Ramasamy, Vamsi Buddha, <u>Nachiket Kapre</u><br>
-*International Symposium on Field Programmable Custom Computing Machines*, May 2016 <br> 
+*International Symposium on Field-Programmable Custom Computing Machines*, May 2016 <br> 
 
 **"Communication Optimization for the 16-core Epiphany Floating-Point Processor Array"** <br>
 Siddhartha, <u>Nachiket Kapre</u><br>
-*International Symposium on Field Programmable Custom Computing Machines*, May 2016 <br> 
+*International Symposium on Field-Programmable Custom Computing Machines*, May 2016 <br> 
            
 **"Machine-Learning driven Auto-Tuning of High-Level Synthesis for FPGAs"** <br>
 Li Ting, Harri Sapto Wijaya, and <u>Nachiket Kapre</u><br>
@@ -332,7 +332,7 @@ Li Ting, Harri Sapto Wijaya, and <u>Nachiket Kapre</u><br>
 
 **"Sparse Graph Processing using Soft-Processors"** <br>
 <u>Nachiket Kapre</u><br>
-*International Symposium on Field Programmable Custom Computing Machines*, May 2015 <br> 
+*International Symposium on Field-Programmable Custom Computing Machines*, May 2015 <br> 
 
 **"FPGA Acceleration of Irregular Iterative Computations using Criticality-Aware Dataflow Optimizations"** <br>
 Siddhartha, and <u>Nachiket Kapre</u><br>
