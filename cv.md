@@ -414,7 +414,7 @@ Lim Hui Hui (2013): *SPICE Fault Tolerance* <br>
 
 **Imperial PhD, MSc, MEng, BEng and Interns** </br>
 Andrew Bean (PhD student 2011-2016): *Adaptive/Learning Systems using FPGAs*<br>
-Abid Rafique (PhD student 2010-present): *Accelerating Semi-Definite Programming with FPGAs, GPUs and Multi-Cores* <br>
+Abid Rafique (PhD student 2010-2013): *Accelerating Semi-Definite Programming with FPGAs, GPUs and Multi-Cores* <br>
 Siddhartha, Dulitha Gunasekara (BEng/MEng students 2011-2012): Different topics <br>
 Helene Martorell, Emmanouil Spanakis, Fang Zhou, Wei Lizhong (MSc students 2010-2011): Different topics <br>
 Coryan Wilson-Shah (UROP student 2011): Matrix-Free SPICE <br>
