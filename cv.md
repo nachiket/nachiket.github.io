@@ -94,6 +94,12 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 ## Conference/Workshop Publications (Full papers)
 
+[[PDF]](./publications/caffe-presso_cases2016.pdf) 
+**"CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based platforms"** <br>
+Gopalakrishna Hegde, Nachiappan Ramasamy, Siddhartha, <u>Nachiket Kapre</u><br>
+*International Conference on Compilers, Architecture, and Synthesis for Embedded Systems*, Oct 2016 <br>
+(upcoming)
+
 [[PDF]](./publications/hoplite-dsp_fpl2016.pdf) 
 **"Hoplite-DSP: Harnessing the Xilinx DSP48 Multiplexers to efficiently support NoCs on FPGAs"** <br>
 Chethan Kumar H B, <u>Nachiket Kapre</u><br>
@@ -265,7 +271,7 @@ André DeHon, Joshua Adams, Michael deLorimier, <u>Nachiket Kapre</u>, Yuki Mats
 ## Conference Publications (Short Papers)
 
 [[PDF]](./publications/vector-dwt_fpl2016.pdf) 
-**" Vector Acceleration of 1-D and 2-D DWT Computations using Sparse Matrix Skeletons"** <br>
+**"Vector Acceleration of 1-D and 2-D DWT Computations using Sparse Matrix Skeletons"** <br>
 Sidharth Maheswari, Gourav Modi, Siddhartha, <u>Nachiket Kapre</u><br>
 *26th International Conference on Field-Programmable Logic and Applications*, Sep 2016 <br>
 (upcoming)
