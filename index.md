@@ -60,9 +60,9 @@ I have part-time openings for Final Year UG and MSc students with good programmi
 | |     |
 | :-- | :-- |
 | **2016**  | | 
-|2/7| One full paper accepted to CASES 2016.                                                                                                                                 |
-|20/6| Three full, one short accepted to FPL 2016.                                                                                                                                 |
-|2/3| One full, one short and two posters accepted to FCCM 2016.                                                                                                                                 |
+|2/7| One full paper accepted to CASES 2016.|
+|20/6| Three full, one short accepted to FPL 2016.|
+|2/3| One full, one short and two posters accepted to FCCM 2016.|
 
 | |     |
 | :-- | :-- |
