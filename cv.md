@@ -96,7 +96,7 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 [[PDF]](./publications/caffe-presso_cases2016.pdf) 
 **"CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based platforms"** <br>
-Gopalakrishna Hegde, Nachiappan Ramasamy, Siddhartha, <u>Nachiket Kapre</u><br>
+Gopalakrishna Hegde, Siddhartha, Nachiappan Ramasamy, <u>Nachiket Kapre</u><br>
 *International Conference on Compilers, Architecture, and Synthesis for Embedded Systems*, Oct 2016 <br>
 (upcoming)
 
