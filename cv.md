@@ -272,7 +272,7 @@ André DeHon, Joshua Adams, Michael deLorimier, <u>Nachiket Kapre</u>, Yuki Mats
 
 [[PDF]](./publications/dwt-mxp_fpl2016.pdf) 
 **"Vector Acceleration of 1-D DWT Computations using Sparse Matrix Skeletons"** <br>
-Sidharth Maheswari, Gourav Modi, Siddhartha, <u>Nachiket Kapre</u><br>
+Sidharth Maheshwari, Gourav Modi, Siddhartha, <u>Nachiket Kapre</u><br>
 *26th International Conference on Field-Programmable Logic and Applications*, Sep 2016 <br>
 (upcoming)
 
