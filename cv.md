@@ -58,13 +58,11 @@ NTU SCE Startup Grant S$100K (3 years)  <br>
 **"Optimizing Soft Vector Processing in FPGA-based Embedded Systems"** <br>
 <u>Nachiket Kapre</u> <br>
 *IEEE Transactions on Reconfigurable Technology and Applications* (Special Issue FPL 2014)<br>
-(upcoming)
 
 [[PDF]](./publications/case-for-graphs_superfri2016.pdf)
 **"A Case for Embedded FPGA-based SoCs in Energy-Efficient Acceleration of Graph Problems"** <br>
 Pradeep Moorthy, <u>Nachiket Kapre</u> <br>
 *Supercomputing Frontiers and Innovations* (Special Best Papers Issue) <br>
-(upcoming)
 
 [[PDF]](./publications/comm-avoid-itersolve_tpds2013.pdf)
 **"Communication Optimization of Iterative Sparse Matrix-Vector Multiply on GPUs and FPGAs"** <br>
@@ -94,7 +92,7 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 ## Conference/Workshop Publications (Full papers)
 
-[[PDF]](./publications/caffe-presso_cases2016.pdf) 
+[[PDF]](./publications/caffepresso_cases2016.pdf) 
 **"CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based platforms"** <br>
 Gopalakrishna Hegde, Siddhartha, Nachiappan Ramasamy, <u>Nachiket Kapre</u><br>
 *International Conference on Compilers, Architecture, and Synthesis for Embedded Systems*, Oct 2016 <br>
