@@ -281,7 +281,7 @@ Que Yanghua, <u>Nachiket Kapre</u>, Harnhua Ng, Kirvy Teo<br>
 (upcoming)
 
 [[PDF]](./publications/ml-case_fpga2016.pdf)
-**"Reliable Timing Closure for FPGA Designs through Machine Learning"** <br>
+**"Case for Design-Specific Machine Learning in Timing Closure of FPGA Designs"** <br>
 Que Yanghua, Chinnakkannu Adaikkal Raj, Harnhua Ng, Kirvy Teo, and <u>Nachiket Kapre</u><br>
 *International Symposium on Field-Programmable Gate Arrays*, Feb 2016 <br>
 
