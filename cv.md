@@ -390,9 +390,9 @@ Pradeep Moorthy, Siddhartha, <u>Nachiket Kapre</u><br>
 
 ### Patents
 
-"Method and a circuit using an associative calculator for calculating a sequence of non-associative operations" US 2007/0234128, 
+"Method and a circuit using an associative calculator for calculating a sequence of non-associative operations",
 André DeHon and Nachiket Kapre<br>
-*Under review*, Applied in January 2007.<br>
+Publication Number US7991817 B2, Applied Jan 2007, Granted Aug 2011.<br>
 
 ## Advising
 
