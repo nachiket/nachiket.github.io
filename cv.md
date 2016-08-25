@@ -35,6 +35,8 @@ Thesis: *Packet-Switched FPGA-Overlay Networks*  [[Link]](./publications/ms-thes
 Degree Conferred: June 2005 
 
 **B.E., University of Pune (India),** Electronics and Telecommunication Engineering<br> 
+Project: *FPGA based testing system for Siemens Railway Signalling Relayss*  [[Link]](./publications/be_project.pdf) 
+[[slides]](./publications/be_oral.swf) [[guide]](./publications/be_guide.swf)</br>
 Degree Conferred: August 2002
 
 ## Research Interests
@@ -91,6 +93,12 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 *IEEE Transactions on Computers*, February 2009.  <br>
 
 ## Conference/Workshop Publications (Full papers)
+
+[[PDF]](./publications/.pdf) 
+**"Preventive Detection of Mosquito Populations using Embedded Machine Learning on Low Power IoT Platforms"** <br>
+Prashant Ravi, Uma Syam, <u>Nachiket Kapre</u><br>
+*Seventh ACM Symposium on Computing and Development*, Nov 2016 <br>
+(upcoming)
 
 [[PDF]](./publications/caffepresso_cases2016.pdf) 
 **"CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based platforms"** <br>

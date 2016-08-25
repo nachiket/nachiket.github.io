@@ -53,6 +53,7 @@ Quotes | [Link](./quotes.html) <br>
 | |     |
 | :-- | :-- |
 | **2016**  | | 
+|25/8| Paper accepted to ACMDev 2016. |
 |16/7| Invited lecture at [PAPAA](http://cscpapaa.eee.hku.hk/programme.html) summer school kicks off at Hong Kong University. Full-day session on OpenCL for CPUs, GPUs and FPGAs. |
 |2/7| One full paper accepted to CASES 2016.|
 |20/6| Three full, one short accepted to FPL 2016.|
