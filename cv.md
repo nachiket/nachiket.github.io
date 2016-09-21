@@ -95,6 +95,12 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 ## Conference/Workshop Publications (Full papers)
 
 [[PDF]](./publications/.pdf) 
+**"Deflection Routing for Multi-Level FPGA Overlay NoCs"** <br>
+Chethan Kumar H B, Shubham Agarwal, <u>Nachiket Kapre</u><br>
+*International Conference on Field-Programmable Technology*, December 2016 <br> 
+(upcoming)
+
+[[PDF]](./publications/.pdf) 
 **"Preventive Detection of Mosquito Populations using Embedded Machine Learning on Low Power IoT Platforms"** <br>
 Prashant Ravi, Uma Syam, <u>Nachiket Kapre</u><br>
 *Seventh ACM Symposium on Computing and Development*, Nov 2016 <br>
@@ -110,19 +116,16 @@ Gopalakrishna Hegde, Siddhartha, Nachiappan Ramasamy, <u>Nachiket Kapre</u><br>
 **"Hoplite-DSP: Harnessing the Xilinx DSP48 Multiplexers to efficiently support NoCs on FPGAs"** <br>
 Chethan Kumar H B, <u>Nachiket Kapre</u><br>
 *26th International Conference on Field-Programmable Logic and Applications*, Sep 2016 <br>
-(upcoming)
 
 [[PDF]](./publications/intime_fpl2016.pdf) 
 **"Boosting Convergence of Timing Closure using Feature Selection in a Learning-Driven Approach"** <br>
 Que Yanghua, Harnhua Ng, <u>Nachiket Kapre</u><br>
 *26th International Conference on Field-Programmable Logic and Applications*, Sep 2016 <br>
-(upcoming)
 
 [[PDF]](./publications/rc-dsl-survey_fpl2016.pdf) 
 **"Survey of Domain-Specific Languages for FPGA Computing"** <br>
 <u>Nachiket Kapre</u>, Samuel Bayliss<br>
 *26th International Conference on Field-Programmable Logic and Applications*, Sep 2016 <br>
-(upcoming)
 
 [[PDF]](./publications/marathon_fccm2016.pdf) 
 **"Marathon: Statically-Scheduled Conflict-Free Routing on FPGA Overlay NoCs"** <br>
@@ -197,7 +200,7 @@ Soh Jun Jie, and <u>Nachiket Kapre</u><br>
 [[PDF]](./publications/fpga-driver_fpt-2013.pdf) 
 **"System-Level FPGA Device Driver with High-Level Synthesis Support"** <br>
 Vipin Kizhepatt, Shreejit Shanker, Dulitha Gunasekara, Suhaib A Fahmy, <u>Nachiket Kapre</u><br>
-*International Conference on Field-Programmable Technology Machines*, December 2013 <br> 
+*International Conference on Field-Programmable Technology*, December 2013 <br> 
 
 [[PDF]](./publications/uncertainty_fccm-2013.pdf) 
 **"Exploiting Input Parameter Uncertainty for Reducing Datapath Precision of SPICE Device Models"** <br>
