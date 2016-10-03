@@ -11,8 +11,9 @@ pandoc index.md -s -c stylesheets/styles.css -o index.html
 <section>
 ![](nachiket.jpg)
 
-**Assistant Professor**, School of Computer Engineering, NTU <br>
+**Assistant Professor**, Electrical and Computer Engineering, University of Waterloo, Canada <br>
 **Chief Technology Officer**, [Plunify](http://www.plunify.com) Inc. <br>
+**Assistant Professor**, School of Computer Engineering, NTU (2012-2016) <br>
 **Junior Research Fellow**, Imperial College London (2010-2012) <br>
 **Ph.D.**, California Institute of Technology (2010) <br>
 **MS** CS, California Institute of Technology (2006) <br>

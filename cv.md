@@ -11,10 +11,10 @@ pandoc  -V geometry:margin=1in -f markdown+hard_line_breaks cv.md -o cv.pdf
 # Curriculum Vitae
 
 Nachiket Kapre
-School of Computer Engineering <br>
-Nanyang Technological University <br>
-Singapore <br>
-Email: nachiket at ntu dot edu dot sg<br>
+Electrical and Computer Engineering <br>
+University of Waterloo<br>
+Canada <br>
+Email: nachiket at uwaterloo dot ca<br>
 </header>
 
 
@@ -475,6 +475,7 @@ Spring 2007, University of Pennsylvania, Electrical and Systems Engineering, *ES
 Winter 2006, California Institute of Technology, Computer Science, *CS137: Electronic Digital Automation*<br>
 
 ## Professional Experience
+**Nanyang Technological University**, Assistant Professor (Oct 2012-Sep 2016)<br>
 **Plunify, Inc.**, Chief Technology Officer (July 2014-)<br>
 **Imperial College London**, Junior Research Fellow (October 2010-September 2012)<br>
 **Maxeler Inc.**, Consultant (July 2011-July 2012)<br>
