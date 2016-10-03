@@ -59,12 +59,12 @@ NTU SCE Startup Grant S$100K (3 years)  <br>
 [[PDF]](./publications/soft-vector_trets2016.pdf)
 **"Optimizing Soft Vector Processing in FPGA-based Embedded Systems"** <br>
 <u>Nachiket Kapre</u> <br>
-*IEEE Transactions on Reconfigurable Technology and Applications* (Special Issue FPL 2014)<br>
+*IEEE Transactions on Reconfigurable Technology and Applications* (Special Issue FPL 2014), Published: 2016<br>
 
 [[PDF]](./publications/case-for-graphs_superfri2016.pdf)
 **"A Case for Embedded FPGA-based SoCs in Energy-Efficient Acceleration of Graph Problems"** <br>
 Pradeep Moorthy, <u>Nachiket Kapre</u> <br>
-*Supercomputing Frontiers and Innovations* (Special Best Papers Issue) <br>
+*Supercomputing Frontiers and Innovations* (Special Best Papers Issue from 2015 Supercomputing Frontiers Conference), Published: 2016 <br>
 
 [[PDF]](./publications/comm-avoid-itersolve_tpds2013.pdf)
 **"Communication Optimization of Iterative Sparse Matrix-Vector Multiply on GPUs and FPGAs"** <br>
