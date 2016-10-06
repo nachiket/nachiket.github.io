@@ -54,6 +54,7 @@ Quotes | [Link](./quotes.html) <br>
 | |     |
 | :-- | :-- |
 | **2016**  | | 
+|5/10| Our CASES 2016 submission wins the Best Paper Award. |
 |18/9| Paper accepted to FPT 2016. |
 |25/8| Paper accepted to ACMDev 2016. |
 |16/7| Invited lecture at [PAPAA](http://cscpapaa.eee.hku.hk/programme.html) summer school kicks off at Hong Kong University. Full-day session on OpenCL for CPUs, GPUs and FPGAs. |

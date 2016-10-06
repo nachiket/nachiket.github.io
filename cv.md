@@ -107,7 +107,7 @@ Prashant Ravi, Uma Syam, <u>Nachiket Kapre</u><br>
 (upcoming)
 
 [[PDF]](./publications/caffepresso_cases2016.pdf) 
-**"CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based platforms"** <br>
+**"CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based platforms"** <font color="red">(Best Paper Award)</> <br>
 Gopalakrishna Hegde, Siddhartha, Nachiappan Ramasamy, <u>Nachiket Kapre</u><br>
 *International Conference on Compilers, Architecture, and Synthesis for Embedded Systems*, Oct 2016 <br>
 (upcoming)
