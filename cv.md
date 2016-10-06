@@ -110,7 +110,6 @@ Prashant Ravi, Uma Syam, <u>Nachiket Kapre</u><br>
 **"CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based platforms"** <font color="red">(Best Paper Award)</font> <br>
 Gopalakrishna Hegde, Siddhartha, Nachiappan Ramasamy, <u>Nachiket Kapre</u><br>
 *International Conference on Compilers, Architecture, and Synthesis for Embedded Systems*, Oct 2016 <br>
-(upcoming)
 
 [[PDF]](./publications/hoplite-dsp_fpl2016.pdf) 
 **"Hoplite-DSP: Harnessing the Xilinx DSP48 Multiplexers to efficiently support NoCs on FPGAs"** <br>
