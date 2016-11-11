@@ -288,13 +288,11 @@ André DeHon, Joshua Adams, Michael deLorimier, <u>Nachiket Kapre</u>, Yuki Mats
 **"Vector Acceleration of 1-D DWT Computations using Sparse Matrix Skeletons"** <br>
 Sidharth Maheshwari, Gourav Modi, Siddhartha, <u>Nachiket Kapre</u><br>
 *26th International Conference on Field-Programmable Logic and Applications*, Sep 2016 <br>
-(upcoming)
 
 [[PDF]](./publications/ml-classifiers_fccm2016.pdf) 
 **"Improving Classification Accuracy of a Machine Learning approach for FPGA Timing Closure"** <br>
 Que Yanghua, <u>Nachiket Kapre</u>, Harnhua Ng, Kirvy Teo<br>
 *International Symposium on Field-Programmable Custom Computing Machines*, May 2016 <br>
-(upcoming)
 
 [[PDF]](./publications/ml-case_fpga2016.pdf)
 **"Case for Design-Specific Machine Learning in Timing Closure of FPGA Designs"** <br>
