@@ -284,6 +284,11 @@ André DeHon, Joshua Adams, Michael deLorimier, <u>Nachiket Kapre</u>, Yuki Mats
 
 ## Conference Publications (Short Papers)
 
+[[PDF]](./publications/mips_fpga2017.pdf) 
+**"120-core microAptiv MIPS Overlay for the Terasic DE5-NET FPGA board"** <br>
+Chethan Kumar H B, Gourav Modi, Prashant Ravi, <u>Nachiket Kapre</u><br>
+*International Symposium on Field-Programmable Gate Arrays*, Feb 2017 <br>
+
 [[PDF]](./publications/dwt-mxp_fpl2016.pdf) 
 **"Vector Acceleration of 1-D DWT Computations using Sparse Matrix Skeletons"** <br>
 Sidharth Maheshwari, Gourav Modi, Siddhartha, <u>Nachiket Kapre</u><br>
