@@ -57,6 +57,11 @@ NTU SCE Startup Grant S$100K (3 years)  <br>
 ## Journal Publications
 
 [[PDF]](./publications/soft-vector_trets2016.pdf)
+**"Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs"** <br>
+<u>Nachiket Kapre</u>, Jan Gray <br>
+*IEEE Transactions on Reconfigurable Technology and Applications* (Special Issue FPL 2015)<br>
+
+[[PDF]](./publications/soft-vector_trets2016.pdf)
 **"Optimizing Soft Vector Processing in FPGA-based Embedded Systems"** <br>
 <u>Nachiket Kapre</u> <br>
 *IEEE Transactions on Reconfigurable Technology and Applications* (Special Issue FPL 2014), Published: 2016<br>
