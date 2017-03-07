@@ -99,23 +99,32 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 ## Conference/Workshop Publications (Full papers)
 
-[[PDF]](./publications/.pdf) 
+[[PDF]](./publications/hoplite-bitserial.pdf)
+**"On Bit-Serial NoCs for FPGAs"** <br>
+<u>Nachiket Kapre</u><br>
+*International Symposium on Field-Programmable Custom Computing Machines*, May 2017 <br>
+(upcoming)
+
+[[PDF]](./publications/hoplite-ultrascale.pdf)
+**"Implementing FPGA overlay NoCs using the Xilinx UltraScale memory cascades"** <br>
+<u>Nachiket Kapre</u><br>
+*International Symposium on Field-Programmable Custom Computing Machines*, May 2017 <br>
+(upcoming)
+
+[[PDF]](./publications/ebsp.pdf) 
 **"eBSP: Managing NoC traffic for BSP workloads on the 16-core Adapteva Epiphany-III Processor"** <br>
 Siddhartha, <u>Nachiket Kapre</u><br>
 *Design, Automation, and Test in Europe*, March 2017 <br> 
-(upcoming)
 
 [[PDF]](./publications/multi-level-noc_fpt2016.pdf) 
 **"Deflection Routing for Multi-Level FPGA Overlay NoCs"** <br>
 Chethan Kumar H B, Shubham Agarwal, <u>Nachiket Kapre</u><br>
 *International Conference on Field-Programmable Technology*, December 2016 <br> 
-(upcoming)
 
 [[PDF]](./publications/mosquito-ml_acmdev2016.pdf) 
 **"Preventive Detection of Mosquito Populations using Embedded Machine Learning on Low Power IoT Platforms"** <br>
 Prashant Ravi, Uma Syam, <u>Nachiket Kapre</u><br>
 *Seventh ACM Symposium on Computing and Development*, Nov 2016 <br>
-(upcoming)
 
 [[PDF]](./publications/caffepresso_cases2016.pdf) 
 **"CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based platforms"** **<font color="red">(Best Paper Award)</font>** <br>
