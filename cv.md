@@ -298,6 +298,11 @@ André DeHon, Joshua Adams, Michael deLorimier, <u>Nachiket Kapre</u>, Yuki Mats
 
 ## Conference Publications (Short Papers)
 
+[[PDF]](./publications)
+**"Applying Models of Computation to OpenCL Pipes for FPGA Computing"** <br>
+<u>Nachiket Kapre</u>, Hiren Patel<br>
+*5th International Workshop on OpenCL*, May 2017<br>
+
 [[PDF]](./publications/mips_fpga2017.pdf) 
 **"120-core microAptiv MIPS Overlay for the Terasic DE5-NET FPGA board"** <br>
 Chethan Kumar H B, Gourav Modi, Prashant Ravi, <u>Nachiket Kapre</u><br>
