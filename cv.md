@@ -99,19 +99,19 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 ## Conference/Workshop Publications (Full papers)
 
-[[PDF]](./publications/hoplite-bitserial.pdf)
+[[PDF]](./publications/hoplite-bitserial_fccm2017.pdf)
 **"On Bit-Serial NoCs for FPGAs"** <br>
 <u>Nachiket Kapre</u><br>
 *International Symposium on Field-Programmable Custom Computing Machines*, May 2017 <br>
 (upcoming)
 
-[[PDF]](./publications/hoplite-ultrascale.pdf)
+[[PDF]](./publications/hoplite-ultrascale_fccm2017.pdf)
 **"Implementing FPGA overlay NoCs using the Xilinx UltraScale memory cascades"** <br>
 <u>Nachiket Kapre</u><br>
 *International Symposium on Field-Programmable Custom Computing Machines*, May 2017 <br>
 (upcoming)
 
-[[PDF]](./publications/ebsp.pdf) 
+[[PDF]](./publications/ebsp_date2017.pdf) 
 **"eBSP: Managing NoC traffic for BSP workloads on the 16-core Adapteva Epiphany-III Processor"** <br>
 Siddhartha, <u>Nachiket Kapre</u><br>
 *Design, Automation, and Test in Europe*, March 2017 <br> 
