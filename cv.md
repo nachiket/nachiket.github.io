@@ -298,7 +298,7 @@ André DeHon, Joshua Adams, Michael deLorimier, <u>Nachiket Kapre</u>, Yuki Mats
 
 ## Conference Publications (Short Papers)
 
-[[PDF]](./publications)
+[[PDF]](./publications/openclpipe_iwocl-2017.pdf)
 **"Applying Models of Computation to OpenCL Pipes for FPGA Computing"** <br>
 <u>Nachiket Kapre</u>, Hiren Patel<br>
 *5th International Workshop on OpenCL*, May 2017<br>
