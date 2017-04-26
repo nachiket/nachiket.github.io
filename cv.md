@@ -56,7 +56,7 @@ NTU SCE Startup Grant S$100K (3 years)  <br>
 
 ## Journal Publications
 
-[[PDF]](./publications/hoplite-trets2017.pdf)
+[[PDF]](./publications/hoplite_trets2017.pdf)
 **"Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs"** <br>
 <u>Nachiket Kapre</u>, Jan Gray <br>
 *IEEE Transactions on Reconfigurable Technology and Applications* (Special Issue FPL 2015)<br>
