@@ -99,12 +99,12 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 ## Conference/Workshop Publications (Full papers)
 
-[[PDF]](./publications/deflection-bft_fpl2017.pdf) 
+[[PDF]](./publications/deflection-bft_fpl-2017.pdf) 
 **"Deflection Routed Butterfly Fat Trees on FPGAs"** <br>
 <u>Nachiket Kapre</u><br>
 *27th International Conference on Field-Programmable Logic and Applications*, Sep 2017 <br>
 
-[[PDF]](./publications/hoplite-pr_fpl2017.pdf) 
+[[PDF]](./publications/hoplite-pr_fpl-2017.pdf) 
 **"Enabling Partial Reconfiguration and Low Latency Routing using Segmented FPGA NoCs"** <br>
 Kizhepatt Vipin, Jan Gray, <u>Nachiket Kapre</u><br>
 *27th International Conference on Field-Programmable Logic and Applications*, Sep 2017 <br>
