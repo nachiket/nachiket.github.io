@@ -99,6 +99,12 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 ## Conference/Workshop Publications (Full papers)
 
+[[PDF]](./publications/hoplitert_fpt-2017.pdf) 
+**"HopliteRT: An Efficient FPGA NoC for Real-Time Applications"** <br>
+<u>Saud Al Wasly, Rodolfo Pellizzoni, Nachiket Kapre</u><br>
+*International Conference on Field-Programmable Technology*, December 2017 <br> 
+(upcoming)
+
 [[PDF]](./publications/deflection-bft_fpl-2017.pdf) 
 **"Deflection Routed Butterfly Fat Trees on FPGAs"** <br>
 <u>Nachiket Kapre</u><br>
@@ -113,13 +119,11 @@ Kizhepatt Vipin, Jan Gray, <u>Nachiket Kapre</u><br>
 **"On Bit-Serial NoCs for FPGAs"** <br>
 <u>Nachiket Kapre</u><br>
 *International Symposium on Field-Programmable Custom Computing Machines*, May 2017 <br>
-(upcoming)
 
 [[PDF]](./publications/hoplite-ultrascale_fccm2017.pdf)
 **"Implementing FPGA overlay NoCs using the Xilinx UltraScale memory cascades"** <br>
 <u>Nachiket Kapre</u><br>
 *International Symposium on Field-Programmable Custom Computing Machines*, May 2017 <br>
-(upcoming)
 
 [[PDF]](./publications/ebsp_date2017.pdf) 
 **"eBSP: Managing NoC traffic for BSP workloads on the 16-core Adapteva Epiphany-III Processor"** <br>
