@@ -44,6 +44,7 @@ Concurrent and Spatial Architectures, Parallel Processing, Heterogeneous Archite
 
 ## Grants
 
+NSERC Discovery Grant (2017) CAD$33K/yr (5 years) <br>
 AcRf Tier 1 Grant (Nov 2015) S$100K (1 year) <br>
 Delta Electronics Grant (Co-PI) (August 2015) S$100K (Co-PI) (2 years) <br>
 MIT SMART Innovation Grant (Co-PI) (August 2015) S$50K (Co-PI) (2 years) <br>
