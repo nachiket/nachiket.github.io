@@ -448,6 +448,13 @@ Publication Number US7991817 B2, Applied Jan 2007, Granted Aug 2011.<br>
 
 ## Advising
 
+**Waterloo PhD**<br>
+Gurshaant Malik (2017-present): *TBA* <br>
+
+**Waterloo MASc**<br>
+Benjamin Morcos (2017-present): *Neural Networks on FPGAs* <br>
+Tushar Garg (2017-present): *TBA* <br>
+
 **NTU PhD**<br>
 Siddhartha (2013-present): *Dataflow Computing using FPGAs* <br>
 
