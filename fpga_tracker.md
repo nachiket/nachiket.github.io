@@ -31,7 +31,8 @@ Legend: F=full paper, S=short paper
 | 2014 | | 3S | 1F+1S | 2S |
 | 2015 | 1F+1S | 3F | 2F |  |
 | 2016 | 1F+1S | 1F+1S | 3F+1S | 1F |
-| 2017 | 1S | 2F | - | - |
+| 2017 | 1S | 2F | 2F | 1F |
+| 2018 | - | - | - | - |
 </section>
 
 </div>
