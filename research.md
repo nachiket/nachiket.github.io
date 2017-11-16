@@ -35,6 +35,8 @@ overlays, vector processor characterization, embedded system evaluation,
 real-time systems, and FPGA-specific network-on-chip architectures for
 use in accelerators.
 
+
+- [[PDF]](./publications/deflection-bft_fpl-2017.pdf) **"Deflection Routed Butterfly Fat Trees on FPGAs"**, Nachiket Kapre, 27th International Conference on Field-Programmable Logic and Applications, Sep 2017
 - [[PDF]](./publications/hoplite_trets2017.pdf) **Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs**, Nachiket Kapre, Jan Gray, IEEE Transactions on Reconfigurable Technology and Applications (Special Issue FPL 2015)
 - [[PDF]](./publications/soft-vector_trets2016.pdf) **Optimizing Soft Vector Processing in FPGA-based Embedded Systems**, Nachiket Kapre, IEEE Transactions on Reconfigurable Technology and Applications (Special Issue FPL 2014)
 - [[PDF]](./publications/dataflow-limits_dfm2014.pdf) **"Limits of Statically Scheduled Token Dataflow Processing"**, Nachiket Kapre, and Siddhartha, 4th International Workshop on Data-Flow Execution Models for Extreme Scale Computing (co-located with PACT 2014), August 2014
