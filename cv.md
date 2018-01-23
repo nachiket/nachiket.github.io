@@ -57,6 +57,11 @@ NTU SCE Startup Grant S$100K (3 years)  <br>
 
 ## Journal Publications
 
+[[PDF]](./publications/caffepresso_tecs2017.pdf)
+**CaffePresso: Accelerating Convolutional Networks on Embedded SoCs** <br>
+Gopalakrishna Hegde, Siddhartha, <u>Nachiket Kapre</u> <br>
+*ACM Transactions on Embedded Computing Systems* (Special Issue on ESWEEK 2016) <br>
+
 [[PDF]](./publications/hoplite_trets2017.pdf)
 **"Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs"** <br>
 <u>Nachiket Kapre</u>, Jan Gray <br>
