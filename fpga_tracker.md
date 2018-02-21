@@ -10,7 +10,7 @@ pandoc fpga_tracker.md -s -c stylesheets/styles.css -o fpga_tracker.html
 	
 <section>
 
-Legend: F=full paper, S=short paper
+Legend: F=full paper, S=short paper, P=poster
 
 | | | | | | 
 |:--|:--|:--| :--|:--|
@@ -32,7 +32,7 @@ Legend: F=full paper, S=short paper
 | 2015 | 1F+1S | 3F | 2F |  |
 | 2016 | 1F+1S | 1F+1S | 3F+1S | 1F |
 | 2017 | 1S | 2F | 2F | 1F |
-| 2018 | - | - | - | - |
+| 2018 | 1P | - | - | - |
 </section>
 
 </div>
