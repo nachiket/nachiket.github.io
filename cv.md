@@ -65,12 +65,12 @@ Gopalakrishna Hegde, Siddhartha, <u>Nachiket Kapre</u> <br>
 [[PDF]](./publications/hoplite_trets2017.pdf)
 **"Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs"** <br>
 <u>Nachiket Kapre</u>, Jan Gray <br>
-*IEEE Transactions on Reconfigurable Technology and Applications* (Special Issue FPL 2015)<br>
+*ACM Transactions on Reconfigurable Technology and Applications* (Special Issue FPL 2015)<br>
 
 [[PDF]](./publications/soft-vector_trets2016.pdf)
 **"Optimizing Soft Vector Processing in FPGA-based Embedded Systems"** <br>
 <u>Nachiket Kapre</u> <br>
-*IEEE Transactions on Reconfigurable Technology and Applications* (Special Issue FPL 2014), Published: 2016<br>
+*ACM Transactions on Reconfigurable Technology and Applications* (Special Issue FPL 2014), Published: 2016<br>
 
 [[PDF]](./publications/case-for-graphs_superfri2016.pdf)
 **"A Case for Embedded FPGA-based SoCs in Energy-Efficient Acceleration of Graph Problems"** <br>
