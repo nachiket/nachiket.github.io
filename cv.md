@@ -105,6 +105,10 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 ## Conference/Workshop Publications (Full papers)
 
+[[PDF]](./publications/hopliteq_fccm-2018.pdf)
+<u>Siddhartha, Nachiket Kapre</u><br>
+*International Symposium on Field-Programmable Custom Computing Machines*, April-May 2018 <br>
+
 [[PDF]](./publications/hoplitert_fpt-2017.pdf) 
 **"HopliteRT: An Efficient FPGA NoC for Real-Time Applications"** <br>
 <u>Saud Al Wasly, Rodolfo Pellizzoni, Nachiket Kapre</u><br>
