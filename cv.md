@@ -106,6 +106,7 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 ## Conference/Workshop Publications (Full papers)
 
 [[PDF]](./publications/hopliteq_fccm-2018.pdf)
+**"HopliteQ: Priority-Aware Routing in FPGA Overlay NoCs" ** <br>
 <u>Siddhartha, Nachiket Kapre</u><br>
 *International Symposium on Field-Programmable Custom Computing Machines*, April-May 2018 <br>
 
