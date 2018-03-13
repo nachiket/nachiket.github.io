@@ -105,6 +105,16 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 ## Conference/Workshop Publications (Full papers)
 
+[[PDF]](./publications/fasttrack_isca-2018.pdf)
+**"LegUp-NoC: High-Level Synthesis of Loops with Indirect Addressing"**<br>
+<u>Nachiket Kapre, Tushar Krishna</u> <br>
+*International Symposium on Computer Architecture*, June 2018 <br>
+
+[[PDF]](./publications/legup-noc_fccm-2018.pdf)
+**"LegUp-NoC: High-Level Synthesis of Loops with Indirect Addressing"**<br>
+<u>Asif Islam, Nachiket Kapre </u> <br>
+*International Symposium on Field-Programmable Custom Computing Machines*, April-May 2018 <br>
+
 [[PDF]](./publications/hopliteq_fccm-2018.pdf)
 **"HopliteQ: Priority-Aware Routing in FPGA Overlay NoCs" ** <br>
 <u>Siddhartha, Nachiket Kapre</u><br>
