@@ -106,7 +106,7 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 ## Conference/Workshop Publications (Full papers)
 
 [[PDF]](./publications/fasttrack_isca-2018.pdf)
-**"LegUp-NoC: High-Level Synthesis of Loops with Indirect Addressing"**<br>
+**"FastTrack: Leveraging Heterogeneous FPGA Wires to Design Low-cost High-performance Soft NoCs"**<br>
 <u>Nachiket Kapre, Tushar Krishna</u> <br>
 *International Symposium on Computer Architecture*, June 2018 <br>
 
