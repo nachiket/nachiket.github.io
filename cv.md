@@ -107,22 +107,22 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 [[PDF]](./publications/fasttrack_isca-2018.pdf)
 **"FastTrack: Leveraging Heterogeneous FPGA Wires to Design Low-cost High-performance Soft NoCs"**<br>
-<u>Nachiket Kapre, Tushar Krishna</u> <br>
+<u>Nachiket Kapre</u>, Tushar Krishna <br>
 *International Symposium on Computer Architecture*, June 2018 <br>
 
 [[PDF]](./publications/legup-noc_fccm-2018.pdf)
 **"LegUp-NoC: High-Level Synthesis of Loops with Indirect Addressing"**<br>
-<u>Asif Islam, Nachiket Kapre </u> <br>
+Asif Islam, <u>Nachiket Kapre </u> <br>
 *International Symposium on Field-Programmable Custom Computing Machines*, April-May 2018 <br>
 
 [[PDF]](./publications/hopliteq_fccm-2018.pdf)
 **"HopliteQ: Priority-Aware Routing in FPGA Overlay NoCs" ** <br>
-<u>Siddhartha, Nachiket Kapre</u><br>
+Siddhartha, <u> Nachiket Kapre</u><br>
 *International Symposium on Field-Programmable Custom Computing Machines*, April-May 2018 <br>
 
 [[PDF]](./publications/hoplitert_fpt-2017.pdf) 
 **"HopliteRT: An Efficient FPGA NoC for Real-Time Applications"** <br>
-<u>Saud Al Wasly, Rodolfo Pellizzoni, Nachiket Kapre</u><br>
+Saud Al Wasly, Rodolfo Pellizzoni, <u>Nachiket Kapre</u><br>
 *International Conference on Field-Programmable Technology*, December 2017 <br> 
 (upcoming)
 
