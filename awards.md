@@ -5,12 +5,13 @@ pandoc awards.md -s -c stylesheets/styles.css -o awards.html
 -->
 
 <header>
-#Awards
+# Awards
 </header>
 	
 <section>
 | | | | |
 |:--|:--|:--|:--|
+| May 2018 | TRETS 2017 Best Paper Award for "Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs" | [Certificate](./images/trets2017_award.jpg) | [[Paper]](./publications/hoplite_trets2017.pdf) | 
 | Oct 2016 | CASES 2016 Best Paper Award for "CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-Based Platforms" | [Certificate](./images/cases2016_award.jpg) | [[Paper]](./publications/caffepresso_cases2016.pdf) | 
 | Sep 2015 | FPL 2015 Michael Servit Best Paper Award for "Hoplite: Building Austere Overly NoCs for FPGAs" | [Certificate](./images/fpl2015_award.jpg) | [[Paper]](./publications/hoplite_fpl2015.pdf) 
 | Apr 2013 | FCCM20 25-Most Significant Papers Award for "Packet Switched vs. Time Multiplexed FPGA Overlay Networks" | [Certificate](./images/fccm20_award.pdf) | [[Paper]](./publications/ps-tm-networks_fccm-2006.pdf) 
