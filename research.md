@@ -5,7 +5,7 @@ pandoc research.md -s -c stylesheets/styles.css -o research.html
 -->
 
 <header>
-#Research
+# Research
 </header>
 
 <section>
@@ -13,13 +13,14 @@ In the Waterloo Configurable Architectures Group (WatCAG), we are broadly
 interested in understanding and exploiting the potential of spatial
 parallelism for implementing computation using reconfigurable architectures
 such as FPGAs.  Reconfigurable computing has now come of age with the
-multi-billion dollar acquisition of Altera by Intel, and rapid adoption of
-FPGAs in the cloud at Amazon, Huawei, Baidu, Alibaba among other cloud
+multi-billion dollar acquisition of Altera by Intel, and rapid adoption of FPGAs
+in the cloud at Microsoft, Amazon, Huawei, Baidu, Alibaba among other cloud
 providers. With the rising computing demands of machine learning workloads
 coupled with the pending demise of Moore's Law, there has never been a more
 exciting time to work in this field than today.
 
 In the WatCAG group, we ask the following big questions:
+
 - What might reconfigurable computing architectures of the future look like, and how will be program them?
 - What computing problems are reconfigurable architectures useful for, and how do we seamlessly integrate them in mainstream computing systems (cloud, embedded)?
 - Can we rethink the programming abstractions for reconfigurable hardware by emphasizing communication and energy awareness at different levels in the compilation stack?
@@ -28,7 +29,7 @@ Specifically, the group looks at a combination of *Architecture*, *Compilation*,
 </section>
 
 <section>
-##Architecture
+## Architecture
 
 The group has investigated the design and engineering of token dataflow
 overlays, vector processor characterization, embedded system evaluation,
@@ -42,7 +43,7 @@ use in accelerators.
 - [[PDF]](./publications/soft-vector_trets2016.pdf) **Optimizing Soft Vector Processing in FPGA-based Embedded Systems**, TRETS 2016
 - [[PDF]](./publications/dataflow-limits_dfm2014.pdf) **"Limits of Statically Scheduled Token Dataflow Processing"**, DFM2014
 
-##Applications
+## Applications
 
 We are excited about novel uses of FPGAs in emerging application scenarios in the cloud as well as embedded contexts. The group has published papers in machine learning, 
 
@@ -52,7 +53,7 @@ We are excited about novel uses of FPGAs in emerging application scenarios in th
 - [[PDF]](./publications/green_fpl2015.pdf) **Limits of FPGA Acceleration of 3D Green’s Function Computation for Geophysical Applications**, FPL 2015
 - [[PDF]](./publications/opencv-saliency_fccm2015.pdf) **Energy-Efficient Acceleration of OpenCV Saliency Computation using Soft Vector Processors**, FCCM 2015
 
-##Compilation
+## Compilation
 
 The group has developed various automation tools, compiler passes, and
 frameworks for use with FPGAs. In particular, we have tools to perform

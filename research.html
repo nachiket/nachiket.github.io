@@ -1,12 +1,20 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
-  <title></title>
-  <style type="text/css">code{white-space: pre;}</style>
-  <link rel="stylesheet" href="stylesheets/styles.css" type="text/css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>research</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="stylesheets/styles.css">
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
 </head>
 <body>
 <div class="wrapper">
@@ -17,29 +25,28 @@ pandoc research.md -s -c stylesheets/styles.css -o research.html
 <h1 id="research">Research</h1>
 </header>
 <section>
-<p>In the Waterloo Configurable Architectures Group (WatCAG), we are broadly interested in understanding and exploiting the potential of spatial parallelism for implementing computation using reconfigurable architectures such as FPGAs. Reconfigurable computing has now come of age with the multi-billion dollar acquisition of Altera by Intel, and rapid adoption of FPGAs in the cloud at Amazon, Huawei, Baidu, Alibaba among other cloud providers. With the rising computing demands of machine learning workloads coupled with the pending demise of Moore's Law, there has never been a more exciting time to work in this field than today.</p>
-<p>In the WatCAG group, we ask the following big questions: - What might reconfigurable computing architectures of the future look like, and how will be program them? - What computing problems are reconfigurable architectures useful for, and how do we seamlessly integrate them in mainstream computing systems (cloud, embedded)? - Can we rethink the programming abstractions for reconfigurable hardware by emphasizing communication and energy awareness at different levels in the compilation stack?</p>
+<p>In the Waterloo Configurable Architectures Group (WatCAG), we are broadly interested in understanding and exploiting the potential of spatial parallelism for implementing computation using reconfigurable architectures such as FPGAs. Reconfigurable computing has now come of age with the multi-billion dollar acquisition of Altera by Intel, and rapid adoption of FPGAs in the cloud at Microsoft, Amazon, Huawei, Baidu, Alibaba among other cloud providers. With the rising computing demands of machine learning workloads coupled with the pending demise of Moore’s Law, there has never been a more exciting time to work in this field than today.</p>
+<p>In the WatCAG group, we ask the following big questions:</p>
+<ul>
+<li>What might reconfigurable computing architectures of the future look like, and how will be program them?</li>
+<li>What computing problems are reconfigurable architectures useful for, and how do we seamlessly integrate them in mainstream computing systems (cloud, embedded)?</li>
+<li>Can we rethink the programming abstractions for reconfigurable hardware by emphasizing communication and energy awareness at different levels in the compilation stack?</li>
+</ul>
 Specifically, the group looks at a combination of <em>Architecture</em>, <em>Compilation</em>, and <em>Application</em> domains to work towards answering these questions.
 </section>
 <section>
 <h2 id="architecture">Architecture</h2>
 <p>The group has investigated the design and engineering of token dataflow overlays, vector processor characterization, embedded system evaluation, real-time systems, and FPGA-specific network-on-chip architectures for use in accelerators.</p>
-<div class="figure">
-<img src="images/bft.png" />
-
-</div>
+<p><img src="images/bft.png" /></p>
 <ul>
-<li><a href="./publications/deflection-bft_fpl-2017.pdf">[PDF]</a> <strong>&quot;Deflection Routed Butterfly Fat Trees on FPGAs&quot;</strong>, FPL 2017</li>
+<li><a href="./publications/deflection-bft_fpl-2017.pdf">[PDF]</a> <strong>“Deflection Routed Butterfly Fat Trees on FPGAs”</strong>, FPL 2017</li>
 <li><a href="./publications/hoplite_trets2017.pdf">[PDF]</a> <strong>Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs</strong>, TRETS 2017</li>
 <li><a href="./publications/soft-vector_trets2016.pdf">[PDF]</a> <strong>Optimizing Soft Vector Processing in FPGA-based Embedded Systems</strong>, TRETS 2016</li>
-<li><a href="./publications/dataflow-limits_dfm2014.pdf">[PDF]</a> <strong>&quot;Limits of Statically Scheduled Token Dataflow Processing&quot;</strong>, DFM2014</li>
+<li><a href="./publications/dataflow-limits_dfm2014.pdf">[PDF]</a> <strong>“Limits of Statically Scheduled Token Dataflow Processing”</strong>, DFM2014</li>
 </ul>
 <h2 id="applications">Applications</h2>
 <p>We are excited about novel uses of FPGAs in emerging application scenarios in the cloud as well as embedded contexts. The group has published papers in machine learning,</p>
-<div class="figure">
-<img src="images/caffepresso.png" />
-
-</div>
+<p><img src="images/caffepresso.png" /></p>
 <ul>
 <li><a href="./publications/caffepresso_cases2016.pdf">[PDF]</a> <strong>CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based platforms</strong>, CASES 2016</li>
 <li><a href="./publications/green_fpl2015.pdf">[PDF]</a> <strong>Limits of FPGA Acceleration of 3D Green’s Function Computation for Geophysical Applications</strong>, FPL 2015</li>
@@ -47,10 +54,7 @@ Specifically, the group looks at a combination of <em>Architecture</em>, <em>Com
 </ul>
 <h2 id="compilation">Compilation</h2>
 <p>The group has developed various automation tools, compiler passes, and frameworks for use with FPGAs. In particular, we have tools to perform precision analysis, performance tuning, machine-learning driven FPGA compilation, among other solutions.</p>
-<div class="figure">
-<img src="images/intime.png" />
-
-</div>
+<p><img src="images/intime.png" /></p>
 <ul>
 <li><a href="./publications/intime_fccm2015.pdf">[PDF]</a> <strong>Driving Timing Convergence of FPGA Designs through Machine Learning and Cloud Computing</strong>, FCCM 2015</li>
 <li><a href="./publications/ebsp_date2017.pdf">[PDF]</a> <strong>eBSP: Managing NoC traffic for BSP workloads on the 16-core Adapteva Epiphany-III Processor</strong>, DATE 2017</li>

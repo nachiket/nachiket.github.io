@@ -105,6 +105,17 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 ## Conference/Workshop Publications (Full papers)
 
+[[PDF]](./publications/nengo-embedded_fpt-2018.pdf) 
+**"Implementing NEF Neural Networks on Embedded FPGAs"** <br>
+Benjamin Morcos, Terrence Stewart, Chris Eliasmith, <u>Nachiket Kapre</u><br>
+*International Conference on Field-Programmable Technology*, December 2018 <br> 
+
+[[PDF]](./publications/dataflow-overlay_fpt-2018.pdf) 
+**"DaCO: A High-Performance Token Dataflow Coprocessor Overlay for FPGAs"** <br>
+Siddhartha, <u>Nachiket Kapre</u><br>
+*International Conference on Field-Programmable Technology*, December 2018 <br> 
+
+
 [[PDF]](./publications/fasttrack_isca-2018.pdf)
 **"FastTrack: Leveraging Heterogeneous FPGA Wires to Design Low-cost High-performance Soft NoCs"**<br>
 <u>Nachiket Kapre</u>, Tushar Krishna <br>
@@ -124,7 +135,6 @@ Siddhartha, <u> Nachiket Kapre</u><br>
 **"HopliteRT: An Efficient FPGA NoC for Real-Time Applications"** <br>
 Saud Al Wasly, Rodolfo Pellizzoni, <u>Nachiket Kapre</u><br>
 *International Conference on Field-Programmable Technology*, December 2017 <br> 
-(upcoming)
 
 [[PDF]](./publications/deflection-bft_fpl-2017.pdf) 
 **"Deflection Routed Butterfly Fat Trees on FPGAs"** <br>
