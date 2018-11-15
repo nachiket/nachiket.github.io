@@ -105,6 +105,12 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 ## Conference/Workshop Publications (Full papers)
 
+
+[[PDF]](./publications/hoplitebuf_fpga-2019.pdf)
+**"HopliteBuf: FPGA NoCs with Provably Stall-Free FIFOs"** <br>
+Tushar Garg, Saud Al Wasly, Rodolfo Pellizzoni, <u>Nachiket Kapre</u> <br>
+*International Symposium on Field-Programmable Gate Arrays*, Feb 2019<br>
+
 [[PDF]](./publications/nengo-embedded_fpt-2018.pdf) 
 **"Implementing NEF Neural Networks on Embedded FPGAs"** <br>
 Benjamin Morcos, Terrence Stewart, Chris Eliasmith, <u>Nachiket Kapre</u><br>
