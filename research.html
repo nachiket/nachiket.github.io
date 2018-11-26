@@ -11,7 +11,7 @@
       span.underline{text-decoration: underline;}
       div.column{display: inline-block; vertical-align: top; width: 50%;}
   </style>
-  <link rel="stylesheet" href="stylesheets/styles.css">
+  <link rel="stylesheet" href="stylesheets/styles.css" />
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
@@ -42,6 +42,13 @@ Specifically, the group looks at a combination of <em>Architecture</em>, <em>Com
 <li><a href="./publications/deflection-bft_fpl-2017.pdf">[PDF]</a> <strong>“Deflection Routed Butterfly Fat Trees on FPGAs”</strong>, FPL 2017</li>
 <li><a href="./publications/hoplite_trets2017.pdf">[PDF]</a> <strong>Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs</strong>, TRETS 2017</li>
 <li><a href="./publications/soft-vector_trets2016.pdf">[PDF]</a> <strong>Optimizing Soft Vector Processing in FPGA-based Embedded Systems</strong>, TRETS 2016</li>
+</ul>
+<h3 id="dataflow-architectures">Dataflow Architectures</h3>
+<p>Token dataflow architectures exploit application parallelism dynamically at the granularity of individual instructions. Each instruction implements a dataflow firing rule that replaces a program counter used in conventional sequential CPU processing. The dataflow dependencies are routed over a operand routing network-on-chip to rapidly move data to parallel compute blocks within the chip. The design and engineering of hardware-friendly dataflow building blocks for FPGAs has been a focus of our group.</p>
+<p><img src="images/dataflow.png" /></p>
+<ul>
+<li><a href="./publications/dataflow-overlay_fpt-2018.pdf">[PDF]</a> <strong>”DaCO: A High-Performance Token Dataflow Coprocessor Overlay for FPGAs”</strong>, FPT 2018</li>
+<li><a href="./publications/hopliteq_fccm-2018.pdf">[PDF]</a> <strong>“HopliteQ: Priority-Aware Routing in FPGA Overlay NoCs”</strong>, FCCM2018</li>
 <li><a href="./publications/dataflow-limits_dfm2014.pdf">[PDF]</a> <strong>“Limits of Statically Scheduled Token Dataflow Processing”</strong>, DFM2014</li>
 </ul>
 <h2 id="applications">Applications</h2>

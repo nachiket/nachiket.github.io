@@ -41,6 +41,14 @@ use in accelerators.
 - [[PDF]](./publications/deflection-bft_fpl-2017.pdf) **"Deflection Routed Butterfly Fat Trees on FPGAs"**, FPL 2017
 - [[PDF]](./publications/hoplite_trets2017.pdf) **Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs**, TRETS 2017
 - [[PDF]](./publications/soft-vector_trets2016.pdf) **Optimizing Soft Vector Processing in FPGA-based Embedded Systems**, TRETS 2016
+
+### Dataflow Architectures
+Token dataflow architectures exploit application parallelism dynamically at the granularity of individual instructions. Each instruction implements a dataflow firing rule that replaces a program counter used in conventional sequential CPU processing. The dataflow dependencies are routed over a operand routing network-on-chip to rapidly move data to parallel compute blocks within the chip. The design and engineering of hardware-friendly dataflow building blocks for FPGAs has been a focus of our group.
+
+![](images/dataflow.png)
+
+- [[PDF]](./publications/dataflow-overlay_fpt-2018.pdf) **”DaCO: A High-Performance Token Dataflow Coprocessor Overlay for FPGAs”**, FPT 2018
+- [[PDF]](./publications/hopliteq_fccm-2018.pdf) **"HopliteQ: Priority-Aware Routing in FPGA Overlay NoCs"**, FCCM2018
 - [[PDF]](./publications/dataflow-limits_dfm2014.pdf) **"Limits of Statically Scheduled Token Dataflow Processing"**, DFM2014
 
 ## Applications
