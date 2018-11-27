@@ -45,7 +45,7 @@ use in accelerators.
 ### Dataflow Architectures
 Token dataflow architectures exploit application parallelism dynamically at the granularity of individual instructions. Each instruction implements a dataflow firing rule that replaces a program counter used in conventional sequential CPU processing. The dataflow dependencies are routed over a operand routing network-on-chip to rapidly move data to parallel compute blocks within the chip. The design and engineering of hardware-friendly dataflow building blocks for FPGAs has been a focus of our group.
 
-![](images/dataflow.png)
+![](images/dataflow.jpg)
 
 - [[PDF]](./publications/dataflow-overlay_fpt-2018.pdf) **”DaCO: A High-Performance Token Dataflow Coprocessor Overlay for FPGAs”**, FPT 2018
 - [[PDF]](./publications/hopliteq_fccm-2018.pdf) **"HopliteQ: Priority-Aware Routing in FPGA Overlay NoCs"**, FCCM2018
