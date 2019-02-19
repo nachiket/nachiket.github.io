@@ -3,7 +3,7 @@
 <div class="wrapper">
 
 <!-- Compilation Instructions
-pandoc \-\-columns=160 cv.md -s -c stylesheets/styles.css -o cv.html
+pandoc \-\-columns=160 cv.md -s -c stylesheets/styles.css -o cv.html \-\-metadata pagetitle="Curriculum Vitae"
 pandoc  -V geometry:margin=1in -f markdown+hard_line_breaks cv.md -o cv.pdf
 -->
 
