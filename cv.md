@@ -105,6 +105,10 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 ## Conference/Workshop Publications (Full papers)
 
+[[PDF]](./publications/enhanced-bft_fccm-2019.pdf)
+**"Enhancing Butterfly Fat Tree NoCs for FPGAs with lightweight flow control"** <br>
+Gurshaant Malik, <u>Nachiket Kapre</u> <br>
+*International Conference on Field Programmable Custom Computing Machines*, Apr 2019 <br>
 
 [[PDF]](./publications/hoplitebuf_fpga-2019.pdf)
 **"HopliteBuf: FPGA NoCs with Provably Stall-Free FIFOs"** **<font color="red">(Best Paper Nominee)</font>**<br>
@@ -348,6 +352,12 @@ André DeHon, Joshua Adams, Michael deLorimier, <u>Nachiket Kapre</u>, Yuki Mats
 *IEEE Symposium on Field-Programmable Custom Computing Machines*, April 2004. <br>
 
 ## Conference Publications (Short Papers)
+
+[[PDF]](./publications/rapid-route_fccm-2019.pdf)
+**"RapidRoute: Fast Assembly of Communication Structures for FPGA Overlays"** <br>
+Leo Liu, Jay Weng, <u>Nachiket Kapre</u> <br>
+*International Conference on Field Programmable Custom Computing Machines*, Apr 2019 <br>
+
 
 [[PDF]](./publications/openclpipe_iwocl-2017.pdf)
 **"Applying Models of Computation to OpenCL Pipes for FPGA Computing"** <br>
