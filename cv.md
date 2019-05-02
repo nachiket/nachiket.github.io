@@ -354,7 +354,7 @@ André DeHon, Joshua Adams, Michael deLorimier, <u>Nachiket Kapre</u>, Yuki Mats
 ## Conference Publications (Short Papers)
 
 [[PDF]](./publications/rapid-route_fccm-2019.pdf)
-**"RapidRoute: Fast Assembly of Communication Structures for FPGA Overlays"** <br>
+**"RapidRoute: Fast Assembly of Communication Structures for FPGA Overlays"** **<font color="red">(Best Short Paper Runner-up)</font>** <br>
 Leo Liu, Jay Weng, <u>Nachiket Kapre</u> <br>
 *International Conference on Field Programmable Custom Computing Machines*, Apr 2019 <br>
 
