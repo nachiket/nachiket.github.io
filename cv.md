@@ -105,6 +105,16 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 ## Conference/Workshop Publications (Full papers)
 
+[[PDF]](./publications/stc_fpl-2019.pdf)
+**"Scaling the Cascades: Interconnect-aware FPGA implementation of Machine Learning problems"** <br>
+Ananda Samajdar, Tushar Garg, Tushar Krishna, <u>Nachiket Kapre</u> <br>
+*29th International Conference on Field-Programmable Logic and Applications*, Sep 2019 <br>
+
+[[PDF]](./publications/rapidroute-timing_fpl-2019.pdf)
+**"Timing-aware routing in the RapidWright framework"** <br>
+Leo Liu, <u>Nachiket Kapre</u> <br>
+*29th International Conference on Field-Programmable Logic and Applications*, Sep 2019 <br>
+
 [[PDF]](./publications/enhanced-bft_fccm-2019.pdf)
 **"Enhancing Butterfly Fat Tree NoCs for FPGAs with lightweight flow control"** <br>
 Gurshaant Malik, <u>Nachiket Kapre</u> <br>
