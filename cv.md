@@ -106,7 +106,7 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 ## Conference/Workshop Publications (Full papers)
 
 [[PDF]](./publications/part-systolic_fpt-2019.pdf)
-**"Partitioning Systolic Arrays for Fun and Profit"** <br>
+**"Partitioning Systolic Arrays for Fun and Profit"** **<font color="red">(Best Paper Nominee)</font>**<br><br>
 Harry Chan, Gurshaant Malik, <u>Nachiket Kapre</u> <br>
 *International Conference on Field-Programmable Technology*, Dec 2019 <br> (upcoming)
 
