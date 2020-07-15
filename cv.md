@@ -60,7 +60,7 @@ NTU SCE Startup Grant S$100K (3 years)  <br>
 
 [[PDF]](./publications/hoplitebuf_trets2020.pdf)
 **"HopliteBuf: Network Calculus-Based Design of FPGA NoCs with Provably Stall-Free FIFOs"<br>
-Tushar Gard, Saud Wasly, Rodolfo Pellizzoni, <u>Nachiket Kapre</u><br>
+Tushar Gard, Saud Wasly, Rodolfo Pellizoni, <u>Nachiket Kapre</u><br>
 *ACM Transactions on Reconfigurable Technology and Applications* (Special Issue FPGA 2019) <br>
 
 [[PDF]](./publications/caffepresso_tecs2017.pdf)
@@ -116,6 +116,11 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 Niansong Zhang, Xiang Chen, <u>Nachiket Kapre</u> <br>
 *International Conference on Field-Programmable Logic and Applications*, Sep 202- <br>
 
+[[PDF]](./publications/hoplite-ml_fpl-2020.pdf)
+**"Learn the Switches: Evolving FPGA NoCs with Stall-Free and Backpressure based Routers"** <br>
+Gurshaant Malik, Ian Elmor Lang, Rodolfo Pellizoni, <u>Nachiket Kapre</u> <br>
+*International Conference on Field-Programmable Logic and Applications*, Sep 202- <br>
+
 [[PDF]](./publications/part-systolic_fpt-2019.pdf)
 **"Partitioning Systolic Arrays for Fun and Profit"** **<font color="red">(Best Paper Award)</font>**<br>
 Harry Chan, Gurshaant Malik, <u>Nachiket Kapre</u> <br>
@@ -138,7 +143,7 @@ Gurshaant Malik, <u>Nachiket Kapre</u> <br>
 
 [[PDF]](./publications/hoplitebuf_fpga-2019.pdf)
 **"HopliteBuf: FPGA NoCs with Provably Stall-Free FIFOs"** **<font color="red">(Best Paper Nominee)</font>**<br>
-Tushar Garg, Saud Al Wasly, Rodolfo Pellizzoni, <u>Nachiket Kapre</u> <br>
+Tushar Garg, Saud Al Wasly, Rodolfo Pellizoni, <u>Nachiket Kapre</u> <br>
 *International Symposium on Field-Programmable Gate Arrays*, Feb 2019<br>
 
 [[PDF]](./publications/nengo-embedded_fpt-2018.pdf) 
@@ -169,7 +174,7 @@ Siddhartha, <u> Nachiket Kapre</u><br>
 
 [[PDF]](./publications/hoplitert_fpt-2017.pdf) 
 **"HopliteRT: An Efficient FPGA NoC for Real-Time Applications"** <br>
-Saud Al Wasly, Rodolfo Pellizzoni, <u>Nachiket Kapre</u><br>
+Saud Al Wasly, Rodolfo Pellizoni, <u>Nachiket Kapre</u><br>
 *International Conference on Field-Programmable Technology*, December 2017 <br> 
 
 [[PDF]](./publications/deflection-bft_fpl-2017.pdf) 
