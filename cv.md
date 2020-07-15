@@ -57,6 +57,12 @@ NTU SCE Startup Grant S$100K (3 years)  <br>
 
 ## Journal Publications
 
+
+[[PDF]](./publications/hoplitebuf_trets2020.pdf)
+**"HopliteBuf: Network Calculus-Based Design of FPGA NoCs with Provably Stall-Free FIFOs"<br>
+Tushar Gard, Saud Wasly, Rodolfo Pellizzoni, <u>Nachiket Kapre</u><br>
+*ACM Transactions on Reconfigurable Technology and Applications* (Special Issue FPGA 2019) <br>
+
 [[PDF]](./publications/caffepresso_tecs2017.pdf)
 **CaffePresso: Accelerating Convolutional Networks on Embedded SoCs** <br>
 Gopalakrishna Hegde, Siddhartha, <u>Nachiket Kapre</u> <br>
@@ -105,10 +111,15 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 ## Conference/Workshop Publications (Full papers)
 
+[[PDF]](./publications/rapidlayout_fpl-2020.pdf)
+**"RapidLayout: Fast Hard Block Placement of FPGA-optimized Systolic Arrays using Evolutionary Algorithms"** <br>
+Niansong Zhang, Xiang Chen, <u>Nachiket Kapre</u> <br>
+*International Conference on Field-Programmable Logic and Applications*, Sep 202- <br>
+
 [[PDF]](./publications/part-systolic_fpt-2019.pdf)
 **"Partitioning Systolic Arrays for Fun and Profit"** **<font color="red">(Best Paper Award)</font>**<br>
 Harry Chan, Gurshaant Malik, <u>Nachiket Kapre</u> <br>
-*International Conference on Field-Programmable Technology*, Dec 2019 <br> (upcoming)
+*International Conference on Field-Programmable Technology*, Dec 2019 <br>
 
 [[PDF]](./publications/stc_fpl-2019.pdf)
 **"Scaling the Cascades: Interconnect-aware FPGA implementation of Machine Learning problems"** <br>
