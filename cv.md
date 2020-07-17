@@ -59,7 +59,7 @@ NTU SCE Startup Grant S$100K (3 years)  <br>
 
 
 [[PDF]](./publications/hoplitebuf_trets2020.pdf)
-**"HopliteBuf: Network Calculus-Based Design of FPGA NoCs with Provably Stall-Free FIFOs"<br>
+**"HopliteBuf: Network Calculus-Based Design of FPGA NoCs with Provably Stall-Free FIFOs"**<br>
 Tushar Gard, Saud Wasly, Rodolfo Pellizoni, <u>Nachiket Kapre</u><br>
 *ACM Transactions on Reconfigurable Technology and Applications* (Special Issue FPGA 2019) <br>
 
