@@ -114,12 +114,12 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 [[PDF]](./publications/rapidlayout_fpl-2020.pdf)
 **"RapidLayout: Fast Hard Block Placement of FPGA-optimized Systolic Arrays using Evolutionary Algorithms"** <br>
 Niansong Zhang, Xiang Chen, <u>Nachiket Kapre</u> <br>
-*International Conference on Field-Programmable Logic and Applications*, Sep 2020 <font color="red"> Candidate for Michal Servit Memorial Award</font> <br>
+*International Conference on Field-Programmable Logic and Applicatione*, Sep 2020 **<font color="red"> Candidate for Michal Servit Memorial Award</font>** <br>
 
 [[PDF]](./publications/hoplite-ml_fpl-2020.pdf)
 **"Learn the Switches: Evolving FPGA NoCs with Stall-Free and Backpressure based Routers"** <br>
 Gurshaant Malik, Ian Elmor Lang, Rodolfo Pellizoni, <u>Nachiket Kapre</u> <br>
-*International Conference on Field-Programmable Logic and Applications*, Sep 2020 <font color="red"> Candidate for Stamatis Vassiliadis Memorial Award </font> <br>
+*International Conference on Field-Programmable Logic and Applications*, Sep 2020 **<font color="red"> Candidate for Stamatis Vassiliadis Memorial Award </font>** <br>
 
 [[PDF]](./publications/part-systolic_fpt-2019.pdf)
 **"Partitioning Systolic Arrays for Fun and Profit"** **<font color="red">(Best Paper Award)</font>**<br>
