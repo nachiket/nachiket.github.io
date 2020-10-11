@@ -531,6 +531,10 @@ Pradeep Moorthy, Siddhartha, <u>Nachiket Kapre</u><br>
 André DeHon and Nachiket Kapre<br>
 Publication Number US7991817 B2, Applied Jan 2007, Granted Aug 2011.<br>
 
+"Digital circuits for evaluating neural engineering framework style neural networks",
+Benjamin Morcos, Chris Eliasmith, and Nachiket Kapre<br>
+Publication Number 20200050926, Applied Aug 2019.<br>
+
 ## Advising
 
 **Waterloo PhD**<br>
