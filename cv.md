@@ -111,6 +111,12 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 ## Conference/Workshop Publications (Full papers)
 
+[[PDF]](./publications/mocarabe_fccm-2021.pdf)
+**"Mocarabe: High-Performance Time-Multiplexed Overlays for FPGAs"** <br>
+Frederick Tombs, Alireza Mellat, <u>Nachiket Kapre</u> <br>
+*International Conference on Field-Programmable Custom Computing Machines*, May 2021 ** <br>
+
+
 [[PDF]](./publications/rapidlayout_fpl-2020.pdf)
 **"RapidLayout: Fast Hard Block Placement of FPGA-optimized Systolic Arrays using Evolutionary Algorithms"** <br>
 Niansong Zhang, Xiang Chen, <u>Nachiket Kapre</u> <br>
