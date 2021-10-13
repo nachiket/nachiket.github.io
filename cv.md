@@ -124,7 +124,7 @@ Niansong Zhang, Xiang Chen, <u>Nachiket Kapre</u> <br>
 
 [[PDF]](./publications/hoplite-ml_fpl-2020.pdf)
 **"Learn the Switches: Evolving FPGA NoCs with Stall-Free and Backpressure based Routers"** <br>
-Gurshaant Malik, Ian Elmor Lang, Rodolfo Pellizoni, <u>Nachiket Kapre</u> <br>
+Gurshaant Malik, Ian Lang, Rodolfo Pellizoni, <u>Nachiket Kapre</u> <br>
 *International Conference on Field-Programmable Logic and Applications*, Sep 2020 **<font color="red"> (Candidate for Stamatis Vassiliadis Memorial Award) </font>** <br>
 
 [[PDF]](./publications/part-systolic_fpt-2019.pdf)
@@ -392,13 +392,13 @@ André DeHon, Joshua Adams, Michael deLorimier, <u>Nachiket Kapre</u>, Yuki Mats
 
 [[PDF]](./publications/worst-case-versal_nocs-2021.pdf)
 **"Worst-Case Latency Analysis for the Versal NoC Network Packet Switch"** <br>
-Ian Elmor Lang, <u>Nachiket Kapre</u>, Rodolfo Pellizzoni <br>
+Ian Lang, <u>Nachiket Kapre</u>, Rodolfo Pellizzoni <br>
 *IEEE/ACM Symposium on Networks-on-Chip*, Oct 2021 <br>
 
 
 [[PDF]](./publications/bft-arity4_fccm-2020.pdf)
 **"Exploring the Impact of Switch Arity on Butterfly Fat Tree FPGA NoCs"** <br>
-Ian Elmor Lang, Ziqiang Huang, <u>Nachiket Kapre</u> <br>
+Ian Lang, Ziqiang Huang, <u>Nachiket Kapre</u> <br>
 *International Conference on Field Programmable Custom Computing Machines*, Apr 2020 <br>
 
 
