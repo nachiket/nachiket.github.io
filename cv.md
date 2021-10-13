@@ -390,6 +390,11 @@ André DeHon, Joshua Adams, Michael deLorimier, <u>Nachiket Kapre</u>, Yuki Mats
 
 ## Conference Publications (Short Papers)
 
+[[PDF]](./publications/worst-case-versal_nocs-2021.pdf)
+**"Worst-Case Latency Analysis for the Versal NoC Network Packet Switch"** <br>
+Ian Elmor Lang, <u>Nachiket Kapre</u>, Rodolfo Pellizzoni <br>
+*IEEE/ACM Symposium on Networks-on-Chip*, Oct 2021 <br>
+
 
 [[PDF]](./publications/bft-arity4_fccm-2020.pdf)
 **"Exploring the Impact of Switch Arity on Butterfly Fat Tree FPGA NoCs"** <br>
