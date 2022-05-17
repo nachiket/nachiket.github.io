@@ -57,10 +57,20 @@ NTU SCE Startup Grant S$100K (3 years)  <br>
 
 ## Journal Publications
 
+[[PDF]](./publications/hopliteml_trets2022.pdf)
+**"HopliteML: Evolving application customized FPGA NoCs with adaptable routers
+and regulators"**<br>
+Gurshaant Malik, Ian Elmor Lang, Rodolfo Pellizzoni, <u>Nachiket Kapre</u><br>
+*ACM Transactions on Reconfigurable Technology and Applications* (Special Issue FPL 2020) <br>
+
+[[PDF]](./publications/rapidlayout_trets2021.pdf)
+**"RapidLayout: Fast Hard Block Placement of FPGA-optimized Systolic Arrays using Evolutionary Algorithms"**<br>
+Niansong Zhang, Xiang Chen, <u>Nachiket Kapre</u><br>
+*ACM Transactions on Reconfigurable Technology and Applications* (Special Issue FPL 2020) <br>
 
 [[PDF]](./publications/hoplitebuf_trets2020.pdf)
 **"HopliteBuf: Network Calculus-Based Design of FPGA NoCs with Provably Stall-Free FIFOs"**<br>
-Tushar Gard, Saud Wasly, Rodolfo Pellizoni, <u>Nachiket Kapre</u><br>
+Tushar Garg, Saud Wasly, Rodolfo Pellizoni, <u>Nachiket Kapre</u><br>
 *ACM Transactions on Reconfigurable Technology and Applications* (Special Issue FPGA 2019) <br>
 
 [[PDF]](./publications/caffepresso_tecs2017.pdf)
@@ -110,6 +120,12 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 *IEEE Transactions on Computers*, February 2009.  <br>
 
 ## Conference/Workshop Publications (Full papers)
+
+[[PDF]](./publications/hbm-noc_fccm-2022.pdf)
+**"Managing HBM Bandwidth on Multi-Die FPGAs with FPGA Overlay NoCs"** <br>
+Srinirdheeshwar Kuttuva Prakash, Hiren Patel, <u>Nachiket Kapre</u> <br>
+*International Conference on Field-Programmable Custom Computing Machines*, May 2022 <br>
+
 
 [[PDF]](./publications/mocarabe_fccm-2021.pdf)
 **"Mocarabe: High-Performance Time-Multiplexed Overlays for FPGAs"** <br>
