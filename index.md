@@ -28,6 +28,9 @@ pandoc \-\-columns=160 index.md -s -c stylesheets/styles.css \-\-metadata pageti
 
 | |     |
 | :----- | :--------- |
+| **2023**  | | 
+| 05/08 | Finished duties as Program Chair of FCCM 2023. | 
+| 03/01 | Returned to Canada. | 
 | **2022**  | | 
 | 01/03 | I am on a leave of absence from Waterloo. I will be working at Xilinx Labs Singapore as Research Director. | 
 | **2021**  | | 

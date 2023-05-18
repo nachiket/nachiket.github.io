@@ -6,10 +6,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>Teaching</title>
   <style>
-      code{white-space: pre-wrap;}
-      span.smallcaps{font-variant: small-caps;}
-      span.underline{text-decoration: underline;}
-      div.column{display: inline-block; vertical-align: top; width: 50%;}
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="stylesheets/styles.css" />
   <!--[if lt IE 9]>
@@ -19,6 +27,7 @@
 <body>
 <div class="wrapper">
 <!-- Compilation Instructions
+pandoc \-\-columns=160 teaching.md -s -c stylesheets/styles.css -o teaching.html \-\-metadata pagetitle="Teaching"
 pandoc teaching.md -s -c stylesheets/styles.css -o teaching.html
 -->
 <header>
@@ -26,6 +35,11 @@ pandoc teaching.md -s -c stylesheets/styles.css -o teaching.html
 </header>
 <section>
 <table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -33,101 +47,129 @@ pandoc teaching.md -s -c stylesheets/styles.css -o teaching.html
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
+<td style="text-align: left;">ECE327</td>
+<td style="text-align: left;">Spring 2023</td>
+<td style="text-align: left;"><a href="https://piazza.com/class/lh9ev5oetsb1i">Digital Systems Engineering</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ECE722</td>
+<td style="text-align: left;">Winter 2021</td>
+<td style="text-align: left;"><a href="https://piazza.com/class/kjiwua8nzacs7">Reconfigurable Computing</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ECE627</td>
+<td style="text-align: left;">Fall 2021</td>
+<td style="text-align: left;"><a href="https://piazza.com/class/kta3qgr34fh25v">Register-transfer-level Digital Systems</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ECE327</td>
+<td style="text-align: left;">Spring 2021</td>
+<td style="text-align: left;"><a href="https://piazza.com/class/ko00c644lz71aw">Digital Systems Engineering</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ECE327</td>
+<td style="text-align: left;">Spring 2020</td>
+<td style="text-align: left;"><a href="https://piazza.com/class/k8qztz9qc4q5k0">Digital Systems Engineering</a></td>
+</tr>
+<tr class="odd">
 <td style="text-align: left;">ECE627</td>
 <td style="text-align: left;">Fall 2019</td>
 <td style="text-align: left;"><a href="https://learn.uwaterloo.ca/d2l/home/487650">Register-transfer-level Digital Systems</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">ECE327</td>
 <td style="text-align: left;">Spring 2019</td>
 <td style="text-align: left;"><a href="https://learn.uwaterloo.ca/d2l/home/459397">Digital Systems Engineering</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">ECE627</td>
 <td style="text-align: left;">Winter 2019</td>
 <td style="text-align: left;"><a href="https://learn.uwaterloo.ca/d2l/home/434743">Register-transfer-level Digital Systems</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">ECE627</td>
 <td style="text-align: left;">Winter 2018</td>
 <td style="text-align: left;"><a href="https://piazza.com/class/jbp42stksst10c">Register-transfer-level Digital Systems</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">ECE720T6</td>
 <td style="text-align: left;">Winter 2018</td>
 <td style="text-align: left;"><a href="https://piazza.com/class/jbp4cp74tof6bp">Trends in Reconfigurable Computing</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">ECE327</td>
 <td style="text-align: left;">Spring 2018</td>
 <td style="text-align: left;"><a href="https://learn.uwaterloo.ca/d2l/home/387453">Digital Systems Engineering</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">ECE327</td>
 <td style="text-align: left;">Spring 2017</td>
 <td style="text-align: left;"><a href="https://piazza.com/class/j1s41dc1hkd1yq">Digital Systems Engineering</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">ECE720T6</td>
 <td style="text-align: left;">Winter 2017</td>
-<td style="text-align: left;"><a href="https://uwaterloo.ca/electrical-computer-engineering/current-graduate-students/courses/winter-2017-courses/ece-720-topic-6-winter-2017">Trends in Reconfigurable Computing</a></td>
+<td style="text-align: left;"><a
+href="https://uwaterloo.ca/electrical-computer-engineering/current-graduate-students/courses/winter-2017-courses/ece-720-topic-6-winter-2017">Trends in
+Reconfigurable Computing</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><strong>Nanyang Technological University</strong></td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">CE4054</td>
 <td style="text-align: left;">Semester 2 2016</td>
 <td style="text-align: left;"><a href="http://codeventure.sce.ntu.edu.sg/teaching/2016/ce4054_psoc/index.html">Programmable System-on-Chip</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">CE4052</td>
 <td style="text-align: left;">Semester 1 2015</td>
 <td style="text-align: left;"><a href="http://codeventure.sce.ntu.edu.sg/teaching/2015/ce4052_embsysdev/index.html">Embedded Software Development</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">CE3001</td>
 <td style="text-align: left;">Semester 1 2015</td>
 <td style="text-align: left;"><a href="http://codeventure.sce.ntu.edu.sg/teaching/2015/ce3001_advcomparch/index.html">Advanced Computer Architecture</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">CE4054</td>
 <td style="text-align: left;">Semester 2 2015</td>
 <td style="text-align: left;"><a href="http://codeventure.sce.ntu.edu.sg/teaching/2015/ce4054_psoc/index.html">Programmable System-on-Chip</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">CE4052</td>
 <td style="text-align: left;">Semester 1 2014</td>
 <td style="text-align: left;"><a href="http://codeventure.sce.ntu.edu.sg/teaching/2014/ce4052_embsysdev/index.html">Embedded Software Development</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">CE1005</td>
 <td style="text-align: left;">Semester 1 2014</td>
 <td style="text-align: left;"><a href="http://codeventure.sce.ntu.edu.sg/teaching/2014/ce1005_digital_logic/index.html">Digital Logic</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">CE4054</td>
 <td style="text-align: left;">Semester 2 2014</td>
 <td style="text-align: left;"><a href="http://yarvard.sce.ntu.edu.sg/teaching/2014/ce4054_psoc/index.html">Programmable System-on-Chip</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">CE7451</td>
 <td style="text-align: left;">Semester 1 2013</td>
-<td style="text-align: left;"><a href="http://yarvard.sce.ntu.edu.sg/teaching/2013/ce7451_resmeth/index.html">Research Methods in Computer Science &amp; Engineering</a></td>
+<td style="text-align: left;"><a href="http://yarvard.sce.ntu.edu.sg/teaching/2013/ce7451_resmeth/index.html">Research Methods in Computer Science &amp;
+Engineering</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">CE4052</td>
 <td style="text-align: left;">Semester 1 2013</td>
 <td style="text-align: left;"><a href="http://yarvard.sce.ntu.edu.sg/teaching/2013/ce4052_embsysdev/index.html">Embedded Software Development</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">ES7501</td>
 <td style="text-align: left;">Semester 1 2013</td>
 <td style="text-align: left;"><a href="http://yarvard.sce.ntu.edu.sg/teaching/2013/es7501_eda/index.html">Electronic Design Automation</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
@@ -136,5 +178,14 @@ pandoc teaching.md -s -c stylesheets/styles.css -o teaching.html
 </table>
 </section>
 </div>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L5JLNXPW8C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-L5JLNXPW8C');
+</script>
 </body>
 </html>

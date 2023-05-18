@@ -1,6 +1,7 @@
 <div class="wrapper">
 
 <!-- Compilation Instructions
+pandoc \-\-columns=160 teaching.md -s -c stylesheets/styles.css -o teaching.html \-\-metadata pagetitle="Teaching"
 pandoc teaching.md -s -c stylesheets/styles.css -o teaching.html
 -->
 
@@ -12,6 +13,11 @@ pandoc teaching.md -s -c stylesheets/styles.css -o teaching.html
 | | | |
 |:--|:--|:--|
 |  | **University of Waterloo** |
+|ECE327 | Spring 2023 | [Digital Systems Engineering](https://piazza.com/class/lh9ev5oetsb1i) 
+|ECE722 | Winter 2021 | [Reconfigurable Computing](https://piazza.com/class/kjiwua8nzacs7)
+|ECE627 | Fall 2021 | [Register-transfer-level Digital Systems](https://piazza.com/class/kta3qgr34fh25v) 
+|ECE327 | Spring 2021 | [Digital Systems Engineering](https://piazza.com/class/ko00c644lz71aw) 
+|ECE327 | Spring 2020 | [Digital Systems Engineering](https://piazza.com/class/k8qztz9qc4q5k0) 
 |ECE627 | Fall 2019 | [Register-transfer-level Digital Systems](https://learn.uwaterloo.ca/d2l/home/487650) 
 |ECE327 | Spring 2019 | [Digital Systems Engineering](https://learn.uwaterloo.ca/d2l/home/459397) 
 |ECE627 | Winter 2019 | [Register-transfer-level Digital Systems](https://learn.uwaterloo.ca/d2l/home/434743) 
