@@ -9,7 +9,7 @@ pandoc \-\-columns=160 research.md -s -c stylesheets/styles.css \-\-metadata pag
 </header>
 
 <section>
-[CV](./cv.html) | [Research](./research.html) | [Teaching](./teaching.html) | [Awards](./awards.html) <br>
+[Main](./index.html) | [CV](./cv.html) | [Research](./research.html) | [Teaching](./teaching.html) | [Awards](./awards.html) <br>
 
 In the Waterloo Configurable Architectures Group (WatCAG), we are broadly
 interested in understanding and exploiting the potential of spatial

@@ -18,7 +18,7 @@ Email: nachiket at uwaterloo dot ca<br>
 </header>
 
 <section>
-[CV](./cv.html) | [Research](./research.html) | [Teaching](./teaching.html) | [Awards](./awards.html) <br>
+[Main](./index.html) | [CV](./cv.html) | [Research](./research.html) | [Teaching](./teaching.html) | [Awards](./awards.html) <br>
 
 ## Education
 

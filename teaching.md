@@ -9,7 +9,7 @@ pandoc teaching.md -s -c stylesheets/styles.css -o teaching.html --metadata page
 </header>
 
 <section>
-[CV](./cv.html) | [Research](./research.html) | [Teaching](./teaching.html) | [Awards](./awards.html) <br>
+[Main](./index.html) | [CV](./cv.html) | [Research](./research.html) | [Teaching](./teaching.html) | [Awards](./awards.html) <br>
 	
 | | | |
 |:--|:--|:--|

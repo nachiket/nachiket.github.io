@@ -10,7 +10,7 @@ pandoc --columns=160 index.md -s -c stylesheets/styles.css --metadata pagetitle=
 	
 <section>
 
-[CV](./cv.html) | [Research](./research.html) | [Teaching](./teaching.html) | [Awards](./awards.html) <br>
+[Main](./index.html) | [CV](./cv.html) | [Research](./research.html) | [Teaching](./teaching.html) | [Awards](./awards.html) <br>
 
 ![](nachiket.jpg)
 
