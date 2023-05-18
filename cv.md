@@ -14,11 +14,6 @@ pandoc  -V geometry:margin=1in -f markdown+hard_line_breaks cv.md -o cv.pdf
 <section>
 [Main](./index.html) | [CV](./cv.html) | [Research](./research.html) | [Teaching](./teaching.html) | [Awards](./awards.html) <br>
 
-Nachiket Kapre
-Electrical and Computer Engineering <br>
-University of Waterloo<br>
-Canada <br>
-Email: nachiket at uwaterloo dot ca<br>
 ## Education
 
 **Ph.D. California Institute of Technology (USA),** Computer Science<br> 
