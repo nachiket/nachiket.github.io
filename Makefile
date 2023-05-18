@@ -1,4 +1,4 @@
-all:
+all: awards.html cv.html fpga_tracker.html index.html research.html teaching.html
 
 awards.html: awards.md
 	pandoc --columns=160 awards.md -s -c stylesheets/styles.css -o awards.html --metadata pagetitle="Awards"
