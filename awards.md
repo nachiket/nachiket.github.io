@@ -8,9 +8,9 @@ pandoc awards.md -s -c stylesheets/styles.css -o awards.html --metadata pagetitl
 # Awards
 </header>
 
+<section>
 [CV](./cv.html) | [Research](./research.html) | [Teaching](./teaching.html) | [Awards](./awards.html) <br>
 	
-<section>
 | | | | |
 |:--|:--|:--|:--|
 | July 2020 | EngSoc Teaching Excellence Award for Spring 2020 | [link](https://www.engsoc.uwaterloo.ca/about-us/awards/faculty-awards/) | 

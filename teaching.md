@@ -8,9 +8,9 @@ pandoc teaching.md -s -c stylesheets/styles.css -o teaching.html --metadata page
 # Teaching
 </header>
 
+<section>
 [CV](./cv.html) | [Research](./research.html) | [Teaching](./teaching.html) | [Awards](./awards.html) <br>
 	
-<section>
 | | | |
 |:--|:--|:--|
 |  | **University of Waterloo** |
