@@ -1,7 +1,7 @@
 <div class="wrapper">
 
 <!-- Compilation Instructions
-pandoc fpga_tracker.md -s -c stylesheets/styles.css -o fpga_tracker.html
+pandoc fpga_tracker.md -s -c stylesheets/styles.css -o fpga_tracker.html --metadata pagetitle="FPGA Tracker"
 -->
 
 <header>
@@ -36,6 +36,8 @@ Legend: F=full paper, S=short paper, P=poster
 | 2019 | 1F+1P | 1F+1S | 2F | 1F |
 | 2020 | | 1S | 2F | |
 | 2021 | | 1F | | |
+| 2022 (Leave) | |  | | |
+| 2023 | |  | | |
 </section>
 
 </div>

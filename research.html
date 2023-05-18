@@ -27,108 +27,74 @@
 <body>
 <div class="wrapper">
 <!-- Compilation Instructions
-pandoc research.md -s -c stylesheets/styles.css \-\-metadata pagetitle="Research" -o research.html
+pandoc \-\-columns=160 research.md -s -c stylesheets/styles.css \-\-metadata pagetitle="Research" -o research.html
 -->
 <header>
 <h1 id="research">Research</h1>
 </header>
 <section>
-<p>In the Waterloo Configurable Architectures Group (WatCAG), we are
-broadly interested in understanding and exploiting the potential of
-spatial parallelism for implementing computation using reconfigurable
-architectures such as FPGAs. Reconfigurable computing has now come of
-age with the multi-billion dollar acquisition of Altera by Intel, and
-rapid adoption of FPGAs in the cloud at Microsoft, Amazon, Huawei,
-Baidu, Alibaba among other cloud providers. With the rising computing
-demands of machine learning workloads coupled with the pending demise of
-Moore’s Law, there has never been a more exciting time to work in this
+<p>In the Waterloo Configurable Architectures Group (WatCAG), we are broadly interested in understanding and exploiting the potential of spatial parallelism for
+implementing computation using reconfigurable architectures such as FPGAs. Reconfigurable computing has now come of age with the multi-billion dollar
+acquisition of Altera by Intel, and rapid adoption of FPGAs in the cloud at Microsoft, Amazon, Huawei, Baidu, Alibaba among other cloud providers. With the
+rising computing demands of machine learning workloads coupled with the pending demise of Moore’s Law, there has never been a more exciting time to work in this
 field than today.</p>
 <p>In the WatCAG group, we ask the following big questions:</p>
 <ul>
-<li>What might reconfigurable computing architectures of the future look
-like, and how will be program them?</li>
-<li>What computing problems are reconfigurable architectures useful for,
-and how do we seamlessly integrate them in mainstream computing systems
-(cloud, embedded)?</li>
-<li>Can we rethink the programming abstractions for reconfigurable
-hardware by emphasizing communication and energy awareness at different
-levels in the compilation stack?</li>
+<li>What might reconfigurable computing architectures of the future look like, and how will be program them?</li>
+<li>What computing problems are reconfigurable architectures useful for, and how do we seamlessly integrate them in mainstream computing systems (cloud,
+embedded)?</li>
+<li>Can we rethink the programming abstractions for reconfigurable hardware by emphasizing communication and energy awareness at different levels in the
+compilation stack?</li>
 </ul>
-Specifically, the group looks at a combination of <em>Architecture</em>,
-<em>Compilation</em>, and <em>Application</em> domains to work towards
-answering these questions.
+Specifically, the group looks at a combination of <em>Architecture</em>, <em>Compilation</em>, and <em>Application</em> domains to work towards answering these
+questions.
 </section>
 <section>
 <h2 id="architecture">Architecture</h2>
-<p>The group has investigated the design and engineering of token
-dataflow overlays, vector processor characterization, embedded system
-evaluation, real-time systems, and FPGA-specific network-on-chip
-architectures for use in accelerators.</p>
+<p>The group has investigated the design and engineering of token dataflow overlays, vector processor characterization, embedded system evaluation, real-time
+systems, and FPGA-specific network-on-chip architectures for use in accelerators.</p>
 <p><img src="images/bft.png" /></p>
 <ul>
-<li><a href="./publications/deflection-bft_fpl-2017.pdf">[PDF]</a>
-<strong>“Deflection Routed Butterfly Fat Trees on FPGAs”</strong>, FPL
-2017</li>
-<li><a href="./publications/hoplite_trets2017.pdf">[PDF]</a>
-<strong>Hoplite: A Deflection-Routed Directional Torus NoC for
-FPGAs</strong>, TRETS 2017</li>
-<li><a href="./publications/soft-vector_trets2016.pdf">[PDF]</a>
-<strong>Optimizing Soft Vector Processing in FPGA-based Embedded
-Systems</strong>, TRETS 2016</li>
+<li><a href="./publications/deflection-bft_fpl-2017.pdf">[PDF]</a> <strong>“Deflection Routed Butterfly Fat Trees on FPGAs”</strong>, FPL 2017</li>
+<li><a href="./publications/hoplite_trets2017.pdf">[PDF]</a> <strong>Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs</strong>, TRETS 2017</li>
+<li><a href="./publications/soft-vector_trets2016.pdf">[PDF]</a> <strong>Optimizing Soft Vector Processing in FPGA-based Embedded Systems</strong>, TRETS
+2016</li>
 </ul>
 <h3 id="dataflow-architectures">Dataflow Architectures</h3>
-<p>Token dataflow architectures exploit application parallelism
-dynamically at the granularity of individual instructions. Each
-instruction implements a dataflow firing rule that replaces a program
-counter used in conventional sequential CPU processing. The dataflow
-dependencies are routed over a operand routing network-on-chip to
-rapidly move data to parallel compute blocks within the chip. The design
-and engineering of hardware-friendly dataflow building blocks for FPGAs
-has been a focus of our group.</p>
+<p>Token dataflow architectures exploit application parallelism dynamically at the granularity of individual instructions. Each instruction implements a
+dataflow firing rule that replaces a program counter used in conventional sequential CPU processing. The dataflow dependencies are routed over a operand routing
+network-on-chip to rapidly move data to parallel compute blocks within the chip. The design and engineering of hardware-friendly dataflow building blocks for
+FPGAs has been a focus of our group.</p>
 <p><img src="images/dataflow.jpg" /></p>
 <ul>
-<li><a href="./publications/dataflow-overlay_fpt-2018.pdf">[PDF]</a>
-<strong>”DaCO: A High-Performance Token Dataflow Coprocessor Overlay for
-FPGAs”</strong>, FPT 2018</li>
-<li><a href="./publications/hopliteq_fccm-2018.pdf">[PDF]</a>
-<strong>“HopliteQ: Priority-Aware Routing in FPGA Overlay
-NoCs”</strong>, FCCM2018</li>
-<li><a href="./publications/dataflow-limits_dfm2014.pdf">[PDF]</a>
-<strong>“Limits of Statically Scheduled Token Dataflow
-Processing”</strong>, DFM2014</li>
+<li><a href="./publications/dataflow-overlay_fpt-2018.pdf">[PDF]</a> <strong>”DaCO: A High-Performance Token Dataflow Coprocessor Overlay for FPGAs”</strong>,
+FPT 2018</li>
+<li><a href="./publications/hopliteq_fccm-2018.pdf">[PDF]</a> <strong>“HopliteQ: Priority-Aware Routing in FPGA Overlay NoCs”</strong>, FCCM2018</li>
+<li><a href="./publications/dataflow-limits_dfm2014.pdf">[PDF]</a> <strong>“Limits of Statically Scheduled Token Dataflow Processing”</strong>, DFM2014</li>
 </ul>
 <h2 id="applications">Applications</h2>
-<p>We are excited about novel uses of FPGAs in emerging application
-scenarios in the cloud as well as embedded contexts. The group has
-published papers in machine learning,</p>
+<p>We are excited about novel uses of FPGAs in emerging application scenarios in the cloud as well as embedded contexts. The group has published papers in
+machine learning,</p>
 <p><img src="images/caffepresso.png" /></p>
 <ul>
-<li><a href="./publications/caffepresso_cases2016.pdf">[PDF]</a>
-<strong>CaffePresso: An Optimized Library for Deep Learning on Embedded
-Accelerator-based platforms</strong>, CASES 2016</li>
-<li><a href="./publications/green_fpl2015.pdf">[PDF]</a> <strong>Limits
-of FPGA Acceleration of 3D Green’s Function Computation for Geophysical
+<li><a href="./publications/caffepresso_cases2016.pdf">[PDF]</a> <strong>CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based
+platforms</strong>, CASES 2016</li>
+<li><a href="./publications/green_fpl2015.pdf">[PDF]</a> <strong>Limits of FPGA Acceleration of 3D Green’s Function Computation for Geophysical
 Applications</strong>, FPL 2015</li>
-<li><a href="./publications/opencv-saliency_fccm2015.pdf">[PDF]</a>
-<strong>Energy-Efficient Acceleration of OpenCV Saliency Computation
-using Soft Vector Processors</strong>, FCCM 2015</li>
+<li><a href="./publications/opencv-saliency_fccm2015.pdf">[PDF]</a> <strong>Energy-Efficient Acceleration of OpenCV Saliency Computation using Soft Vector
+Processors</strong>, FCCM 2015</li>
 </ul>
 <h2 id="compilation">Compilation</h2>
-<p>The group has developed various automation tools, compiler passes,
-and frameworks for use with FPGAs. In particular, we have tools to
-perform precision analysis, performance tuning, machine-learning driven
-FPGA compilation, among other solutions.</p>
+<p>The group has developed various automation tools, compiler passes, and frameworks for use with FPGAs. In particular, we have tools to perform precision
+analysis, performance tuning, machine-learning driven FPGA compilation, among other solutions.</p>
 <p><img src="images/intime.png" /></p>
 <ul>
-<li><a href="./publications/intime_fccm2015.pdf">[PDF]</a>
-<strong>Driving Timing Convergence of FPGA Designs through Machine
-Learning and Cloud Computing</strong>, FCCM 2015</li>
-<li><a href="./publications/ebsp_date2017.pdf">[PDF]</a> <strong>eBSP:
-Managing NoC traffic for BSP workloads on the 16-core Adapteva
-Epiphany-III Processor</strong>, DATE 2017</li>
-<li><a href="./publications/gpu-bitwidth_fpga2016.pdf">[PDF]</a>
-<strong>GPU-Accelerated High-Level Synthesis for Bitwidth Optimization
-of FPGA Datapaths</strong>, FPGA 2016</li>
+<li><a href="./publications/intime_fccm2015.pdf">[PDF]</a> <strong>Driving Timing Convergence of FPGA Designs through Machine Learning and Cloud
+Computing</strong>, FCCM 2015</li>
+<li><a href="./publications/ebsp_date2017.pdf">[PDF]</a> <strong>eBSP: Managing NoC traffic for BSP workloads on the 16-core Adapteva Epiphany-III
+Processor</strong>, DATE 2017</li>
+<li><a href="./publications/gpu-bitwidth_fpga2016.pdf">[PDF]</a> <strong>GPU-Accelerated High-Level Synthesis for Bitwidth Optimization of FPGA
+Datapaths</strong>, FPGA 2016</li>
 </ul>
 </section>
 </div>
