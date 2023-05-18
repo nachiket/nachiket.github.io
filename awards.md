@@ -1,7 +1,7 @@
 <div class="wrapper">
 
 <!-- Compilation Instructions
-pandoc awards.md -s -c stylesheets/styles.css -o awards.html
+pandoc awards.md -s -c stylesheets/styles.css -o awards.html --metadata pagetitle="Awards"
 -->
 
 <header>
