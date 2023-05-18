@@ -1,8 +1,7 @@
 <div class="wrapper">
 
 <!-- Compilation Instructions
-pandoc \-\-columns=160 teaching.md -s -c stylesheets/styles.css -o teaching.html \-\-metadata pagetitle="Teaching"
-pandoc teaching.md -s -c stylesheets/styles.css -o teaching.html
+pandoc teaching.md -s -c stylesheets/styles.css -o teaching.html --metadata pagetitle="Teaching"
 -->
 
 <header>
