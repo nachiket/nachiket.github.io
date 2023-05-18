@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="../cycling/cycling.css" type="text/css" />
+</head>
+<body>
+<h1 id="score-framework-landing-page">SCORE Framework Landing Page</h1>
+<p>Created: 18/December/2012 <br> Last Update: 5/May/2014</p>
+<p><a href="http://brass.cs.berkeley.edu/SCORE">SCORE</a> originally developed by the <a href="http://brass.cs.berkeley.edu/index.html">BRASS</a> group at UC Berkeley under the leadership of Andre DeHon and John Wawryznek. Andre DeHon and Eylon Caspi helped revive the code-base and students and interns at Imperial College supported this with excellent software skills. It is currently being maintained and modified by Nachiket Kapre at Nanyang Technological University.</p>
+<p>Software on this page is made available and distributed under <a href="license.txt">license</a>.</p>
+<h2 id="documents">Documents</h2>
+<ol style="list-style-type: decimal">
+<li><p>The best introduction to SCORE is the JMM journal <a href="score_jmm.pdf">article</a>.</p></li>
+<li><p>To start writing SCORE code, refer to the <a href="score_tutorial.pdf">tutorial</a>.</p></li>
+<li><p>The FPT 2011 best paper winner: <a href="../publications/vliw-score_fpt2011.pdf">VLIW-SCORE</a> showed how to compile SCORE state-machines into statically-scheduled VLIW engines.</p></li>
+<li><p>The FCCM 2012 <a href="../publications/fxscore_fccm-2012.pdf">FX-SCORE</a>, 2013 <a href="../publications/uncertainty_fccm-2013.pdf">Uncertainty-SCORE</a> and 2014 <a href="../publications/mixfxscore_fccm-2014.pdf">MixFX-SCORE</a> describe a framework for generating fixed-point bitwidths for streaming programs using Gappa++.</p></li>
+</ol>
+<h2 id="compiler">Compiler</h2>
+<p>The current working copy of source code for the compiler is hosted on Assembla. The compiler accepts <code>.tdf</code> input files and generates a variety of outputs including <code>.v</code>, <code>.cc</code>, among others.</p>
+<p><code>git@bitbucket.org:nachiketkapre/tdfc.git</code></p>
+<p>It compiles with g++-4.4 and requires LEDA 6.3 library to work correctly.</p>
+<h2 id="runtime">Runtime</h2>
+<p>The current working copy of source code for the C++ CPU runtime is also hosted on Assembla. The runtime is required to provide an implementation of streams and other SCORE objects for C++ simulations.</p>
+<p><code>git@bitbucket.org:nachiketkapre/scoreruntime.git</code></p>
+<p>It compiles with g++-4.4 and requires LEDA 6.3 library to work correctly.</p>
+<h2 id="vim-syntax-highlighting">Vim Syntax Highlighting</h2>
+<p>If you're a VIM user, you will love <a href="tdf.vim">syntax</a> highlighting configuration for TDF.</p>
+<h2 id="one-line-install-script-for-score">One-Line Install Script for SCORE</h2>
+<blockquote>
+<p>sudo apt-get install g++4.4 bison flex; cd /opt; wget http://www.algorithmic-solutions.info/free/Packages/LEDA-6.3-free-fedora-core-8-64-g++-4.1.2.tar.gz; gunzip LEDA-6.3-free-fedora-core-8-64-g++-4.1.2.tar.gz; tar xvf LEDA-6.3-free-fedora-core-8-64-g++-4.1.2.tar; mv LEDA-6.3-free-fedora-core-8-64-g++-4.1.2 leda; git clone git@bitbucket.org:nachiketkapre/tdfc.git; git clone git@bitbucket.org:nachiketkapre/scoreruntime.git; mv scoreruntime ScoreRuntime; cd tdfc; make; cd ../ScoreRuntime; make</p>
+</blockquote>
+<h2 id="minimal-instructions">Minimal Instructions</h2>
+<ol style="list-style-type: decimal">
+<li>Download <strong>LEDA 6.3</strong> (free edition, NOT the multi-threaded version as it segfaults) from <a href="http://www.algorithmic-solutions.com/leda">here</a> and install in <code>/opt/leda</code>. Add <code>/opt/leda</code> to <strong>LD_LIBRARY_PATH</strong>.</li>
+<li>Checkout the compiler <strong>tdfc</strong> and runtime <strong>ScoreRuntime</strong> into <code>/opt/tdfc</code> and <code>/opt/ScoreRuntime</code> respectively.</li>
+<li>If using Ubuntu, you may have to install <strong>flex</strong>, <strong>bison</strong>, <strong>g++-4.4</strong> and possibly other missing Ubuntu packages.</li>
+<li>Compile simple examples in <code>/opt/tdfc/examples</code>. When building code, make sure you add the proper <code>-lleda -lScoreRuntime</code> and <code>-L/opt/ScoreRuntime</code> and <code>-L/opt/leda</code> switches as required.</li>
+</ol>
+</body>
+</html>

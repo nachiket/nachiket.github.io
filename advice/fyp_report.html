@@ -1,0 +1,98 @@
+<h1 id="ntu-sce-final-year-project---report">NTU SCE Final Year Project - Report</h1>
+<!--[NTU Shield](ntu.jpg)-->
+<p><img src="ntu.jpg" alt="NTU Shield" style="width: 250px;"/></p>
+<p><strong>Student</strong>: Donald Duck <br> <strong>Supervisor</strong>: Dr. Nachiket Kapre <br> <strong>Date</strong>: 9th August 2013 <br></p>
+<p>Download Markdown template fyp_report.md.html <br></p>
+<blockquote>
+<p>wget http://nachiket.github.io/advice/fyp_report.md</p>
+</blockquote>
+<p>To compile on Mac OS X or Ubuntu Linux with <a href="http://johnmacfarlane.net/pandoc">Pandoc</a> installed, use</p>
+<blockquote>
+<p>pandoc fyp_report.md -o fyp_report.pdf</p>
+</blockquote>
+<hr>
+<h1 id="advice">Advice</h1>
+<ul>
+<li>Use active voice.
+<ul>
+<li>e.g. We show how to speedup computations (<strong>correct</strong>)</li>
+<li>e.g. It is shown that speedup can be achieved.. (<strong>wrong</strong>)</li>
+</ul></li>
+<li><p>Good engineering students should <em>quantify</em> all aspects of their design. Vague claims &quot;this is good, this is bad&quot; will not be appreciated.</p></li>
+<li>Check the source of claim. Did someone reputable say that? Find out. Make sure you cite any technical claims or arguments. It improves confidence in understanding and trusting your report.
+<ul>
+<li>e.g. cite passage from a book or an article.</li>
+</ul></li>
+<li><p>Proof-read for grammatical errors. Try to get someone with a decent command of English to read your report first before showing your advisor/examiner.</p></li>
+<li><p>Use examples to explain difficult concepts. Simply writing equations or program pseudo-code is <em>not</em> enough. Try to convey the intuition behind the problem you are solving.</p></li>
+<li><p>Compare your results with someone else... preferably published in a technical article or a textbook.</p></li>
+<li><p>Use Markdown+Pandoc to format text better. Microsoft Word is pathetic. I will only accept PDF submission and highly encourage the use of Markdown. If you are adventurous (or want to do a PhD later), definitely use Latex.</p></li>
+<li><p>Use less jargon. Explain jargon whenever you use it. TLAs are stupid and must be avoided in technical discussions. People may be unfamiliar with terminology that you may take for granted.</p></li>
+<li><p>Novelty (what is new here?) should be clearly stated. FYP reports generally do not have to be novel, but if they do make sure you mention it as it looks good.</p></li>
+<li><p>Do not attach the complete project code. Your examiners do not carry a visual compiler in their neuromorphic pathways. I will instantly deduct points for anyone trying to shamelessly inflate the page count of the FYP report with meaningless code listings. It is, however, ok to show code fragments if you are explaining an algorithm. These are typically &lt;1 page.</p></li>
+<li><p>Pictures are good but do not overdo pictures! You are not drafting a photography/national geographic magazine. You are writing a technical report.</p></li>
+<li><p>Think about designing good experiments. It is not sufficient to merely get your idea working. It is not a binary system of evaluation - works vs does not work. In fact, there is a lot you can learn even if your ideas do not work. How well does your system perform? What are its operating limits/weaknesses? Can it be improved and by how much?</p></li>
+<li><p>Tell a good story. Ultimately, we all like to listen to a carefully constructed narrative. Make it interesting for everyone.</p></li>
+</ul>
+<hr>
+<p>Here is a recommended structure for organizing a good FYP report. Page counts are for 10-point, double-column, double-sided A4 pages.</p>
+<h1 id="abstract-1-page">Abstract (1 page)</h1>
+<ul>
+<li>Crisp, quantitative Claim of what you have achieved (quantitative=numerical statement)
+<ul>
+<li>e.g. We can make SPICE run 10 times faster using cheap off-the-shelf hardware (<strong>correct</strong>)</li>
+<li>e.g. SPICE runs faster when using our ideas (<strong>wrong</strong>)</li>
+</ul></li>
+<li><p>Explain the idea behind your project effort. Why does your idea work (or not?).</p></li>
+<li><p>Elaborate the idea with <em>insightful</em> comments about the instinct behind the idea.</p></li>
+<li><p>If this is an unexpected result, say what the typical expectation is...</p></li>
+</ul>
+<h1 id="introduction-1.5-pages">Introduction (1.5 pages)</h1>
+<ul>
+<li><p>Gentle introduction of the subject under discussion. Writing introductions is an art. Try to think of how a popular science article is written. It should almost be something that your mom can read and understand.</p></li>
+<li><p>A nice iconic picture that captures your problem/system would be perfect here. This may or may be possible in your project. This will help the reader associate your report with this first visual impression.</p></li>
+<li><p>At the end, summarize a list of key claims/deliverables of the report.</p></li>
+</ul>
+<h1 id="background-2-pages">Background (2 pages)</h1>
+<ul>
+<li>What new knowledge did you need to learn to implement your project? These should strictly be scientific/technical ideas and not really based on <em>personal experience</em>
+<ul>
+<li>e.g. I had to learn Linux (<strong>wrong</strong>)</li>
+<li>e.g. If your friend from a different specialization were to read your report, what key concepts from your area should he/she know. Think of that and write down self-contained high-level summaries of these concepts. (<strong>correct</strong>)</li>
+</ul></li>
+</ul>
+<h1 id="literature-review-1-page">Literature review (1 page)</h1>
+<ul>
+<li><p>No scientific scholarly work is complete without context. It is important that you talk to your advisor to get a broader perspective of the area. Your work will sound a lot more intelligent when you show that you have made an effort to highlight the contrast between your report and other efforts.</p></li>
+<li><p>A tabular taxonomy/classification of existing ideas can be helpful. Again shows that you are a systematic person who knows how to visually place his work in the world.</p></li>
+</ul>
+<h1 id="idea-3-4-pages">Idea (3-4 pages)</h1>
+<ul>
+<li><p>This is all up to you. Good students distinguish themselves from others by using examples to walk a reader thought the mechanics of the internals of the project.</p></li>
+<li><p>Meaningless laborious complex details do not impress anyone. Think hard about what details to leave out. Just because you spent a lot of time being stuck at a particular step of the problem does not mean you have to devote a proportional amount of space in text.</p></li>
+<li><p>Make it interesting to read. Examiners have to read dozens of reports. Cute analogies, pretty pictures, good examples will stand out and be remembered. Boring details and hard-to-understand descriptions will be forgotten.</p></li>
+</ul>
+<h1 id="experiments-5-6-pages">Experiments (5-6 pages)</h1>
+<ul>
+<li><p>Most students ignore this component. They stop at the &quot;it is working&quot; phase. I really only start to evaluate the student project when I start seeing numbers and quantification of the project.</p></li>
+<li><p>Design good experiments. Put your scientist hats on and try to think of how you can show off your achievements.</p></li>
+<li><p>Learn to use plotting/graphing tools. Use labels and text that is actually visible properly. Examiners do not carry around magnifying glasses on a typical workday.</p></li>
+<li><p>Provide a head-to-head comparison with a competing system if it exists. This will further reaffirm the quality and scholarly nature of your work.</p></li>
+</ul>
+<h1 id="conclusions-1-page">Conclusions (1 page)</h1>
+<ul>
+<li><p>Restate the quantitative claim from the abstract. Tell the examiner what you have already told him before (repeat for clarity).</p></li>
+<li><p>DO NOT INTRODUCE A NEW IDEA IN THE CONCLUSIONS. All concepts should have been covered earlier.</p></li>
+<li><p>Conclusions are only a place to collate the 'aha' moments you had when writing the report or conducting your experiments.</p></li>
+</ul>
+<h1 id="future-work-1-page">Future Work (1 page)</h1>
+<ul>
+<li><p>No project is complete without a forward direction. Do not be afraid to think of the weaknesses of your project.</p></li>
+<li><p>Think about what you did not have time to complete but your advisor wanted to see completed.</p></li>
+</ul>
+<h1 id="references-1-2-pages">References (1-2 pages)</h1>
+<ul>
+<li>Use a nice bibliography manager to format references and citations.</li>
+</ul>
+<hr>
+<p><font color="red"> Updated: 9th August 2013 </font></p>
