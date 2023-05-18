@@ -7,6 +7,8 @@ pandoc awards.md -s -c stylesheets/styles.css -o awards.html --metadata pagetitl
 <header>
 # Awards
 </header>
+
+[CV](./cv.html) | [Research](./research.html) | [Teaching](./teaching.html) | [Awards](./awards.html) <br>
 	
 <section>
 | | | | |
