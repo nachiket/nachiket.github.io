@@ -15,7 +15,7 @@ pandoc --columns=160 index.md -s -c stylesheets/styles.css --metadata pagetitle=
 ![](nachiket.jpg)
 
 **Associate Professor**, Electrical and Computer Engineering, University of Waterloo, Canada (2023-present) <br>
-**Leave of absence**, Research Director, Xilinx Labs Singapore (2022-2023) <br>
+**Leave of absence**, Research Director, Xilinx Labs (now AMD Research) Singapore (2022-2023) <br>
 **Associate Professor**, Electrical and Computer Engineering, University of Waterloo, Canada (2016-2021) <br>
 **Chief Technology Officer**, [Plunify](http://www.plunify.com) Inc. <br>
 **Assistant Professor**, School of Computer Engineering, NTU (2012-2016) <br>
@@ -33,7 +33,7 @@ pandoc --columns=160 index.md -s -c stylesheets/styles.css --metadata pagetitle=
 | 05/08 | Finished duties as Program Chair of FCCM 2023. | 
 | 03/01 | Returned to Canada. | 
 | **2022**  | | 
-| 01/03 | I am on a leave of absence from Waterloo. I will be working at Xilinx Labs Singapore as Research Director. | 
+| 01/03 | I am on a leave of absence from Waterloo. I will be working at Xilinx Labs (now AMD Research) Singapore as Research Director. | 
 | **2021**  | | 
 | 05/10 | One FCCM 2021 full paper presented. | 
 | **2020**  | | 
