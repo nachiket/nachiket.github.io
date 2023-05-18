@@ -111,7 +111,6 @@ pandoc --columns=160 index.md -s -c stylesheets/styles.css --metadata pagetitle=
 | **2012**  | | 
 |17/12 | I'm a PI on our successful S$50K NTU College of Engineering Seed Fund grant (Co-PI: Kyle Rupnow). <br>
 |1/10  | I've started as an Assistant Professor at SCE, NTU. <br>
-| |     |
 
 
 ### Misc ###
