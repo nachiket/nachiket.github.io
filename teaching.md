@@ -5,7 +5,7 @@ pandoc teaching.md -s -c stylesheets/styles.css -o teaching.html --metadata page
 -->
 
 <header>
-#Teaching
+# Teaching
 </header>
 	
 <section>
