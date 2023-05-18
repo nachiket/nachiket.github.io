@@ -71,12 +71,8 @@ pandoc --columns=160 index.md -s -c stylesheets/styles.css --metadata pagetitle=
 |2/7| One full paper accepted to CASES 2016.|
 |20/6| Three full, one short accepted to FPL 2016.|
 |2/3| One full, one short and two posters accepted to FCCM 2016.|
-| |     |
-
-| |     |
-| :-- | :-- |
 | **2015**  | | 
-|15/11| One full, one short and one poster accepted to FPGA 2016.                                                                                                                                 |
+|15/11| One full, one short and one poster accepted to FPGA 2016.|
 |2/11| One journal article accepted to Supercomputing Frontiers.|
 |17/9| One journal article accepted to TRETS.|
 |3/9| <font color="red">The Hoplite NoC paper with Jan Gray won Michal Servit Best Paper award at FPL 2015 </font>, [Certificate](./images/fpl2015_award.jpg), [Photo](./images/21145343661_eb2fef0d35_o.jpg).   |
@@ -88,11 +84,6 @@ pandoc --columns=160 index.md -s -c stylesheets/styles.css --metadata pagetitle=
 |3/3| Three full papers, one poster selected for FCCM 2015.                          |
 |17/2| Paper selected for Supercomputing Frontiers 2015 (organized by A\*Star, Singapore).                         |
 |16/2| Two full papers accepted to RAW 2015 (co-located with IPDPS 2015).                          |
-| |     |
-
-
-| |     |
-| :-- | :-- |
 | **2014**  | | 
 |15/12| I will be the Technical Program Co-Chair for FPT 2015 next year in Queenstown, New Zealand. \[[link](http://fpt.massey.ac.nz)\]                                                |
 |24/11| My third Edex (Excellence in Education) grant as PI accepted S$37K (**Co-PI**: Anupam Chattopadhyay).                                                                       |
@@ -104,11 +95,6 @@ pandoc --columns=160 index.md -s -c stylesheets/styles.css --metadata pagetitle=
 |25/6| One FPL 2014 full paper (Best Paper Nominee) and poster accepted.                                                                                                                         |
 |13/3| Three FCCM 2014 short papers accepted.                                                                                                                                                    |
 |20/2| CE4054 [Hackathon](./teaching/ce4054_hackathon_2014.png) announced.                                                                                                                       |
-| |     |
-
-
-| |     |
-| :-- | :-- |
 | **2013**  | | 
 |6/12  | Abid's TPDS 2013 journal article accepted .                                                                                                                                                |
 |30/11 | AcRF Tier 1 Grant as PI accepted S$150K.                                                                                                                                                   |
@@ -122,11 +108,6 @@ pandoc --columns=160 index.md -s -c stylesheets/styles.css --metadata pagetitle=
 |18/3  | I'm the PI/PL on our successfully CELT Edex (Excellence in Education) Grant S$25K (**Team**: Kyle Rupnow, Iris Lee Chai Hong, Raphael Rubin). <br>
 |2/3   | I'm organising the 2013 NTU Roadmapping Workshop on the Future of Spatial Architectures [Flyer](./images/reconfig_workshop.jpg), [Participants](./images/workshop_participants.jpg). <br>
 |2/3   | Two FCCM 2013 full papers accepted. <br>
-| |     |
-
-
-| |     |
-| :-- | :-- |
 | **2012**  | | 
 |17/12 | I'm a PI on our successful S$50K NTU College of Engineering Seed Fund grant (Co-PI: Kyle Rupnow). <br>
 |1/10  | I've started as an Assistant Professor at SCE, NTU. <br>
