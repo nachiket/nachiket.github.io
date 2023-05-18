@@ -14,8 +14,9 @@ pandoc \-\-columns=160 index.md -s -c stylesheets/styles.css \-\-metadata pageti
 
 ![](nachiket.jpg)
 
-**Leave of absence**, Research Director, Xilinx Labs Singapore <br>
-**Associate Professor**, Electrical and Computer Engineering, University of Waterloo, Canada <br>
+**Associate Professor**, Electrical and Computer Engineering, University of Waterloo, Canada (2023-present) <br>
+**Leave of absence**, Research Director, Xilinx Labs Singapore (2022-2023) <br>
+**Associate Professor**, Electrical and Computer Engineering, University of Waterloo, Canada (2016-2021) <br>
 **Chief Technology Officer**, [Plunify](http://www.plunify.com) Inc. <br>
 **Assistant Professor**, School of Computer Engineering, NTU (2012-2016) <br>
 **Junior Research Fellow**, Imperial College London (2010-2012) <br>
