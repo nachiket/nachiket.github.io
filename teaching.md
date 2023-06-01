@@ -44,11 +44,11 @@ pandoc teaching.md -s -c stylesheets/styles.css -o teaching.html --metadata page
 </div>
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-L5JLNXPW8C"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66521302-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-L5JLNXPW8C');
+  gtag('config', 'UA-66521302-1');
 </script>
