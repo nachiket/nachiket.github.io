@@ -11,7 +11,7 @@
   [Video](http://www.youtube.com/watch?v=qNCmQi_UBLM&index=12&list=PLh2JZR7It5HMLynehdZm3Fh_cbEaOPsw6)
 
 - **Presentation**: Oral communication skills are vital in the competitive job market. Links:<br>
-  [Presentation Guide](2013/ce7451_resmeth/lectures/13_presentation_guide.pptx)</br>
+  [Presentation Guide](2013/ce7451_resmeth/lectures/13_presentation_guide.pdf)</br>
   [Video](http://www.youtube.com/watch?v=Qhzz-v1bAH8&list=PLh2JZR7It5HMLynehdZm3Fh_cbEaOPsw6&index=11)
 
 - **Playlist**: A playlist of all videos of research-related skills development are available here:<br>
