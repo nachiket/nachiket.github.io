@@ -1,4 +1,4 @@
-# Common Research Tasks -- Guides to Reviewing Papers, Writing Reports and doing Oral Presentations
+# Common Research Tasks:  Guides to Reviewing Papers, Writing Reports and doing Oral Presentations
 
 - **Paper Reviews**: You will be reading and reviewing multiple papers during your degree. Links:<br>
   [Technical Reviews](2013/ce7451_resmeth/lectures/04_technical_review.pdf)</br>
