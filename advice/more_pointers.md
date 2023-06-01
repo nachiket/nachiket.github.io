@@ -2,7 +2,7 @@
 
 - **Paper Reviews**: You will be reading and reviewing multiple papers during your degree. Links:<br>
   [Technical Reviews](2013/ce7451_resmeth/lectures/04_technical_review.pdf)</br>
-  [Research Article Reviews](./teaching/2013/ce7451_resmeth/lectures/07_reviewing_research_articles.pdf)</br>
+  [Research Article Reviews](2013/ce7451_resmeth/lectures/07_reviewing_research_articles.pdf)</br>
   [Video](http://www.youtube.com/watch?v=lbUo8ehDfvY&list=PLh2JZR7It5HMLynehdZm3Fh_cbEaOPsw6&index=13)
 
 - **Paper Writing**: Writing and presenting technical content are important ways
