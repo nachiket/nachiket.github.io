@@ -18,5 +18,5 @@
   [Youtube Playlist](http://www.youtube.com/playlist?list=PLh2JZR7It5HMLynehdZm3Fh_cbEaOPsw6)
 
 <hr>
-<font color="red"> Updated: 18th September 2014 </font>
+<font color="red"> Updated: 18th September 2014 </font> <br>
 <font color="red"> Updated: 1st June 2023 </font>
