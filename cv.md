@@ -58,7 +58,7 @@ and regulators"**<br>
 Gurshaant Malik, Ian Elmor Lang, Rodolfo Pellizzoni, <u>Nachiket Kapre</u><br>
 *ACM Transactions on Reconfigurable Technology and Applications* (Special Issue FPL 2020) <br>
 
-[[PDF]](./publications/rapidlayout_trets2021.pdf)
+[[PDF]](./publications/rapidlayout_trets2022.pdf)
 **"RapidLayout: Fast Hard Block Placement of FPGA-optimized Systolic Arrays using Evolutionary Algorithms"**<br>
 Niansong Zhang, Xiang Chen, <u>Nachiket Kapre</u><br>
 *ACM Transactions on Reconfigurable Technology and Applications* (Special Issue FPL 2020) <br>

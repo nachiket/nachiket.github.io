@@ -13,6 +13,7 @@ pandoc awards.md -s -c stylesheets/styles.css -o awards.html --metadata pagetitl
 	
 | | | | |
 |:--|:--|:--|:--|
+| July 2023 | TRETS 2023 Best Paper Award for "RapidLayout: Fast Hard Block Placement of FPGA-optimized Systolic Arrays using Evolutionary Algorithms" | [Certificate](./images/trets2023_award.jpg) | [[Paper]](./publications/rapidlayout_trets2022.pdf) | 
 | July 2020 | EngSoc Teaching Excellence Award for Spring 2020 | [link](https://www.engsoc.uwaterloo.ca/about-us/awards/faculty-awards/) | 
 | Dec 2019 | FPT 2019 Best Paper Award for "Partitioning FPGA-Optimized Systolic Arrays for Fun and Profit" | [Certificate](./images/fpt2019_award.jpg) | [[Paper]](./publications/part-systolic_fpt-2019.pdf.pdf) | 
 | May 2018 | TRETS 2017 Best Paper Award for "Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs" | [Certificate](./images/trets2017_award.jpg) | [[Paper]](./publications/hoplite_trets2017.pdf) | 
