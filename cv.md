@@ -74,7 +74,7 @@ Gopalakrishna Hegde, Siddhartha, <u>Nachiket Kapre</u> <br>
 *ACM Transactions on Embedded Computing Systems* (Special Issue on ESWEEK 2016) <br>
 
 [[PDF]](./publications/hoplite_trets2017.pdf)
-**"Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs"** **<font color="red">(ACM TRETS 2017 Best Paper Award)</font>** <br>
+**"Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs"** <br> **<font color="red">(ACM TRETS 2017 Best Paper Award)</font>** <br>
 <u>Nachiket Kapre</u>, Jan Gray <br>
 *ACM Transactions on Reconfigurable Technology and Applications* (Special Issue FPL 2015) <br>
 
