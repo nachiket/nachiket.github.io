@@ -59,7 +59,7 @@ Gurshaant Malik, Ian Elmor Lang, Rodolfo Pellizzoni, <u>Nachiket Kapre</u><br>
 *ACM Transactions on Reconfigurable Technology and Applications* (Special Issue FPL 2020) <br>
 
 [[PDF]](./publications/rapidlayout_trets2022.pdf)
-**"RapidLayout: Fast Hard Block Placement of FPGA-optimized Systolic Arrays using Evolutionary Algorithms"**<br>
+**"RapidLayout: Fast Hard Block Placement of FPGA-optimized Systolic Arrays using Evolutionary Algorithms"**<br> **<font color="red">(ACM TRETS 2023 Best Paper Award)</font>** <br>
 Niansong Zhang, Xiang Chen, <u>Nachiket Kapre</u><br>
 *ACM Transactions on Reconfigurable Technology and Applications* (Special Issue FPL 2020) <br>
 
@@ -74,7 +74,7 @@ Gopalakrishna Hegde, Siddhartha, <u>Nachiket Kapre</u> <br>
 *ACM Transactions on Embedded Computing Systems* (Special Issue on ESWEEK 2016) <br>
 
 [[PDF]](./publications/hoplite_trets2017.pdf)
-**"Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs"** **<font color="red">(Best Paper Award)</font>** <br>
+**"Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs"** **<font color="red">(ACM TRETS 2017 Best Paper Award)</font>** <br>
 <u>Nachiket Kapre</u>, Jan Gray <br>
 *ACM Transactions on Reconfigurable Technology and Applications* (Special Issue FPL 2015) <br>
 
