@@ -345,7 +345,7 @@ Helene Martorell and <u>Nachiket Kapre</u><br>
 *International Symposium on Field-Programmable Custom Computing Machines*, April 2012 <br> 
 
 [[PDF]](./publications/spice_iterctrl_fpt-2011.pdf) 
-**"VLIW-SCORE: Beyond C for Sequential Control of SPICE FPGA Acceleration" <font color="red"> (Best Paper Award)</font>** <br>
+**"VLIW-SCORE: Beyond C for Sequential Control of SPICE FPGA Acceleration"** <br> **<font color="red"> (Best Paper Award)</font>** <br>
 <u>Nachiket Kapre</u> and André DeHon<br> 
 *International Conference on Field-Programmable Technology*, December 2011 <br>
 	
