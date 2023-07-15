@@ -131,15 +131,15 @@ Frederick Tombs, Alireza Mellat, <u>Nachiket Kapre</u> <br>
 [[PDF]](./publications/rapidlayout_fpl-2020.pdf)
 **"RapidLayout: Fast Hard Block Placement of FPGA-optimized Systolic Arrays using Evolutionary Algorithms"** <br>
 Niansong Zhang, Xiang Chen, <u>Nachiket Kapre</u> <br>
-*International Conference on Field-Programmable Logic and Applicatione*, Sep 2020 **<font color="red"> (Nominee for Michal Servit Memorial Award) </font>** <br>
+*International Conference on Field-Programmable Logic and Applicatione*, Sep 2020 <br> **<font color="red"> (Nominee for Michal Servit Memorial Award) </font>** <br>
 
 [[PDF]](./publications/hoplite-ml_fpl-2020.pdf)
 **"Learn the Switches: Evolving FPGA NoCs with Stall-Free and Backpressure based Routers"** <br>
 Gurshaant Malik, Ian Lang, Rodolfo Pellizoni, <u>Nachiket Kapre</u> <br>
-*International Conference on Field-Programmable Logic and Applications*, Sep 2020 **<font color="red"> (Nominee for Stamatis Vassiliadis Memorial Award) </font>** <br>
+*International Conference on Field-Programmable Logic and Applications*, Sep 2020 <br> **<font color="red"> (Nominee for Stamatis Vassiliadis Memorial Award) </font>** <br>
 
 [[PDF]](./publications/part-systolic_fpt-2019.pdf)
-**"Partitioning Systolic Arrays for Fun and Profit"** **<font color="red">(Best Paper Award)</font>**<br>
+**"Partitioning Systolic Arrays for Fun and Profit"** <br> **<font color="red">(Best Paper Award)</font>**<br>
 Harry Chan, Gurshaant Malik, <u>Nachiket Kapre</u> <br>
 *International Conference on Field-Programmable Technology*, Dec 2019 <br>
 
@@ -159,7 +159,7 @@ Gurshaant Malik, <u>Nachiket Kapre</u> <br>
 *International Conference on Field Programmable Custom Computing Machines*, Apr 2019 <br>
 
 [[PDF]](./publications/hoplitebuf_fpga-2019.pdf)
-**"HopliteBuf: FPGA NoCs with Provably Stall-Free FIFOs"** **<font color="red">(Best Paper Nominee)</font>**<br>
+**"HopliteBuf: FPGA NoCs with Provably Stall-Free FIFOs"** <br> **<font color="red">(Best Paper Nominee)</font>**<br>
 Tushar Garg, Saud Al Wasly, Rodolfo Pellizoni, <u>Nachiket Kapre</u> <br>
 *International Symposium on Field-Programmable Gate Arrays*, Feb 2019<br>
 
@@ -230,7 +230,7 @@ Prashant Ravi, Uma Syam, <u>Nachiket Kapre</u><br>
 *Seventh ACM Symposium on Computing and Development*, Nov 2016 <br>
 
 [[PDF]](./publications/caffepresso_cases2016.pdf) 
-**"CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based platforms"** **<font color="red">(Best Paper Award)</font>** <br>
+**"CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based platforms"** <br> **<font color="red">(Best Paper Award)</font>** <br>
 Gopalakrishna Hegde, Siddhartha, Nachiappan Ramasamy, <u>Nachiket Kapre</u><br>
 *International Conference on Compilers, Architecture, and Synthesis for Embedded Systems*, Oct 2016 <br>
 
@@ -260,7 +260,7 @@ Que Yanghua, Harnhua Ng, <u>Nachiket Kapre</u><br>
 *International Symposium on Field-Programmable Gate Arrays*, Feb 2016 <br>
 
 [[PDF]](./publications/hoplite_fpl2015.pdf) 
-**"Hoplite: Building Austere Overlay NoCs for FPGAs"** **<font color="red">(Best Paper Award)</font>** <br>
+**"Hoplite: Building Austere Overlay NoCs for FPGAs"** <br> **<font color="red">(Best Paper Award)</font>** <br>
 <u>Nachiket Kapre</u>, Jan Gray<br>
 *25th International Conference on Field-Programmable Logic and Applications*, Sep 2015 <br>
 
@@ -310,7 +310,7 @@ Sagar Masuti, Sylvain Barbot, and <u>Nachiket Kapre</u><br>
 *International Conference on High Performance Computing*, December 2014 <br> 
 
 [[PDF]](./publications/limits-vector_fpl2014.pdf) 
-**"Comparing Soft and Hard Vector Processing in FPGA-based Embedded Systems" <font color="red">(Best Paper Nominee)</font>** <br> 
+**"Comparing Soft and Hard Vector Processing in FPGA-based Embedded Systems"** <br> **<font color="red">(Best Paper Nominee)</font>** <br> 
 Soh Jun Jie, and <u>Nachiket Kapre</u><br>
 *International Conference on Field-Programmable Logic and Applications*, September 2014 <br> 
 
@@ -330,7 +330,7 @@ Vipin Kizhepatt, Shreejit Shanker, Dulitha Gunasekara, Suhaib A Fahmy, <u>Nachik
 *International Symposium on Field-Programmable Custom Computing Machines*, April 2013 <br> 
 
 [[PDF]](./publications/appcompose_fccm-2013.pdf) 
-**"Application Composition and Communication Optimization of Iterative Solvers using FPGAs" <font color="red"> (HiPEAC Paper Award)</font>** <br>
+**"Application Composition and Communication Optimization of Iterative Solvers using FPGAs"** <br> **<font color="red"> (HiPEAC Paper Award)</font>** <br>
 Abid Rafique, <u>Nachiket Kapre</u> and George Constantinides<br> 
 *International Symposium on Field-Programmable Custom Computing Machines*, April 2013 <br> 
 
