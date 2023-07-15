@@ -30,7 +30,8 @@ pandoc --columns=160 index.md -s -c stylesheets/styles.css --metadata pagetitle=
 | |     |
 | :----- | :--------- |
 | **2023**  | | 
-| 07/14 | TRETS Best Paper Award 2023 for the RapidLayout paper. | 
+| 07/14 | <font color="red"> TRETS Best Paper Award 2023 for the RapidLayout paper. </font> [Certificate](./images/trets2023_award.jpg) | 
+
 | 05/08 | Finished duties as Program Chair of FCCM 2023. | 
 | 03/01 | Returned to Canada. | 
 | **2022**  | | 
