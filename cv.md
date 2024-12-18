@@ -116,6 +116,12 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 ## Conference/Workshop Publications (Full papers)
 
+[[PDF]](./publications/graph-noc_fpt2024.pdf)
+**"GraphNoC: Graph Neural Networks for Application-Specific FPGA NoC Performance Prediction"** <br>
+Gurshaant Malik, <u>Nachiket Kapre</u> <br>
+*International Conference on Field-Programmable Technology*, Dec 2024 <br>
+
+
 [[PDF]](./publications/hbm-noc_fccm-2022.pdf)
 **"Managing HBM Bandwidth on Multi-Die FPGAs with FPGA Overlay NoCs"** <br>
 Srinirdheeshwar Kuttuva Prakash, Hiren Patel, <u>Nachiket Kapre</u> <br>
