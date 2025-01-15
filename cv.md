@@ -120,6 +120,7 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 **"GraphNoC: Graph Neural Networks for Application-Specific FPGA NoC Performance Prediction"** <br>
 Gurshaant Malik, <u>Nachiket Kapre</u> <br>
 *International Conference on Field-Programmable Technology*, Dec 2024 <br>
+**<font color="red">(Best Paper Award)</font>**<br>
 
 
 [[PDF]](./publications/hbm-noc_fccm-2022.pdf)
@@ -137,7 +138,7 @@ Frederick Tombs, Alireza Mellat, <u>Nachiket Kapre</u> <br>
 [[PDF]](./publications/rapidlayout_fpl-2020.pdf)
 **"RapidLayout: Fast Hard Block Placement of FPGA-optimized Systolic Arrays using Evolutionary Algorithms"** <br>
 Niansong Zhang, Xiang Chen, <u>Nachiket Kapre</u> <br>
-*International Conference on Field-Programmable Logic and Applicatione*, Sep 2020 <br> **<font color="red"> (Nominee for Michal Servit Memorial Award) </font>** <br>
+*International Conference on Field-Programmable Logic and Application*, Sep 2020 <br> **<font color="red"> (Nominee for Michal Servit Memorial Award) </font>** <br>
 
 [[PDF]](./publications/hoplite-ml_fpl-2020.pdf)
 **"Learn the Switches: Evolving FPGA NoCs with Stall-Free and Backpressure based Routers"** <br>
