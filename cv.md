@@ -109,7 +109,7 @@ Special Issue*, September 2011 <br>
 <u>Nachiket Kapre</u> and André DeHon <br>
 *International Journal of Reconfigurable Computing* Volume 2011 Article ID 745147<br>
 
-[[PDF]](./publications/sataccum_jrnl.pdf)
+[[PDF]](./publications/sat-accum_trcomp-2009.pdf)
 **"Pipelined Saturated Accumulation"** <br>
 Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br>
 *IEEE Transactions on Computers*, February 2009.  <br>
