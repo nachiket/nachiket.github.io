@@ -30,7 +30,7 @@ Thesis: *Packet-Switched FPGA-Overlay Networks*  [[Link]](./publications/ms-thes
 Degree Conferred: June 2005
 
 **B.E., University of Pune (India),** Electronics and Telecommunication Engineering<br>
-Project: *FPGA based testing system for Siemens Railway Signalling Relayss*  [[Link]](./publications/be_project.pdf)
+Project: *FPGA based testing system for Siemens Railway Signalling Relays*  [[Link]](./publications/be_project.pdf)
 [[slides]](./publications/be_oral.swf) [[guide]](./publications/be_guide.swf)</br>
 Degree Conferred: August 2002
 
@@ -409,7 +409,8 @@ André DeHon, Joshua Adams, Michael deLorimier, <u>Nachiket Kapre</u>, Yuki Mats
 ## Conference Publications (Short Papers)
 
 [[PDF]](./publications/cocotb-pynq_fpl-2025.pdf)
-**"Worst-Case Latency Analysis for the Versal NoC Network Packet Switch"** <br>
+**"Cocotb-Pynq: Co-simulating Python+RTL
+applications targeting Pynq platforms with Cocotb"** <br>
 Gavin Lusby, <u>Nachiket Kapre</u> <br>
 *International Conference on Field-Programmable Logic and Applications*, Sep 2025 <br>
 
