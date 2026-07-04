@@ -14,7 +14,9 @@ pandoc --columns=160 index.md -s -c stylesheets/styles.css --metadata pagetitle=
 
 ![](nachiket.jpg)
 
-**Associate Professor**, Electrical and Computer Engineering, University of Waterloo, Canada (2023-present) <br>
+**Professor**, Electrical and Computer Engineering, University of Waterloo, Canada (1st July 2026-onwards) <br>
+**Visiting Fellow**, Tenstorrent LLC (2026) <br>
+**Associate Professor**, Electrical and Computer Engineering, University of Waterloo, Canada (2023-2026) <br>
 **Leave of absence**, Research Director, Xilinx Labs (now AMD Research) Singapore (2022-2023) <br>
 **Associate Professor**, Electrical and Computer Engineering, University of Waterloo, Canada (2016-2021) <br>
 **Chief Technology Officer**, [Plunify](http://www.plunify.com) Inc (2014-2016) <br>
