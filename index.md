@@ -125,7 +125,8 @@ pandoc --columns=160 index.md -s -c stylesheets/styles.css --metadata pagetitle=
 Class/Group Presentations:
 [Pointers to Talks/Slides on Useful Research Skills](./advice/more_pointers.html)
 
-<hr>
+---
+
 ### Memories
 
 Singapore Retrospective
@@ -140,6 +141,7 @@ Pasadena Retrospective
 [2003-2006](./images/pasadena_retrospective/index.html)
 
 </section>
+
 </div>
 
 <!-- Google tag (gtag.js) -->
@@ -151,4 +153,3 @@ Pasadena Retrospective
 
   gtag('config', 'UA-66521302-1');
 </script>
-
