@@ -63,23 +63,23 @@ _arXiv:2605.02210_, May 2026 <br>
 
 ## Journal Publications
 
-[[PDF]](./publications/hopliteml_trets-2022.pdf)
+[[PDF]](./publications/hopliteml_trets-2022.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/hoplite-ml){: .cv-code-link aria-label="GitHub repository: HopliteML" }
 **"HopliteML: Evolving application customized FPGA NoCs with adaptable routers
 and regulators"**<br>
 Gurshaant Malik, Ian Elmor Lang, Rodolfo Pellizzoni, <u>Nachiket Kapre</u><br>
 _ACM Transactions on Reconfigurable Technology and Applications_ (Special Issue FPL 2020) <br>
 
-[[PDF]](./publications/rapidlayout_trets-2022.pdf)
+[[PDF]](./publications/rapidlayout_trets-2022.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/RapidLayout){: .cv-code-link aria-label="GitHub repository: RapidLayout" }
 **"RapidLayout: Fast Hard Block Placement of FPGA-optimized Systolic Arrays using Evolutionary Algorithms"**<br> **<span class="award-note">(ACM TRETS 2023 Best Paper Award)</span>** <br>
 Niansong Zhang, Xiang Chen, <u>Nachiket Kapre</u><br>
 _ACM Transactions on Reconfigurable Technology and Applications_ (Special Issue FPL 2020) <br>
 
-[[PDF]](./publications/hoplitebuf_trets-2020.pdf)
+[[PDF]](./publications/hoplitebuf_trets-2020.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/hoplitebuf-bounds){: .cv-code-link aria-label="GitHub repository: HopliteBuf" }
 **"HopliteBuf: Network Calculus-Based Design of FPGA NoCs with Provably Stall-Free FIFOs"**<br>
 Tushar Garg, Saud Wasly, Rodolfo Pellizzoni, <u>Nachiket Kapre</u><br>
 _ACM Transactions on Reconfigurable Technology and Applications_ (Special Issue FPGA 2019) <br>
 
-[[PDF]](./publications/caffepresso_tecs-2017.pdf)
+[[PDF]](./publications/caffepresso_tecs-2017.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/gplhegde/caffepresso){: .cv-code-link aria-label="GitHub repository: CaffePresso" }
 **CaffePresso: Accelerating Convolutional Networks on Embedded SoCs** <br>
 Gopalakrishna Hegde, Siddhartha, <u>Nachiket Kapre</u> <br>
 _ACM Transactions on Embedded Computing Systems_ (Special Issue on ESWEEK 2016) <br>
@@ -89,7 +89,7 @@ _ACM Transactions on Embedded Computing Systems_ (Special Issue on ESWEEK 2016) 
 <u>Nachiket Kapre</u>, Jan Gray <br>
 _ACM Transactions on Reconfigurable Technology and Applications_ (Special Issue FPL 2015) <br>
 
-[[PDF]](./publications/soft-vector_trets-2016.pdf)
+[[PDF]](./publications/soft-vector_trets-2016.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/nachiket/tdfc){: .cv-code-link aria-label="GitHub repository: TDFC" }
 **"Optimizing Soft Vector Processing in FPGA-based Embedded Systems"** <br>
 <u>Nachiket Kapre</u> <br>
 _ACM Transactions on Reconfigurable Technology and Applications_ (Special Issue FPL 2014), Published: 2016<br>
@@ -127,45 +127,45 @@ _IEEE Transactions on Computers_, February 2009. <br>
 
 ## Conference/Workshop Publications (Full Papers)
 
-[[PDF]](./publications/jack-of-all-scales_fpl-2026.pdf)
+[[PDF]](./publications/jack-of-all-scales_fpl-2026.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/boutros-lab/fpga-mxfp){: .cv-code-link aria-label="GitHub repository: FPGA MXFP" }
 **"Jack of All Scales: A Versatile FPGA Tensor Block for MXFP Precisions"** <br>
 Marwan Mekhemer, Ahmed Elsousy, Balaji Venkatesh, Raphael Rowley, Vaughn Betz, <u>Nachiket Kapre</u>, Andrew Boutros <br>
 _International Conference on Field-Programmable Logic and Applications_, Sep 2026 <br>
 
-[[PDF]](./publications/cocotb-pynq-pr_fpl-2026.pdf)
+[[PDF]](./publications/cocotb-pynq-pr_fpl-2026.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/pynq-pr){: .cv-code-link aria-label="GitHub repository: Cocotb-PYNQ-PR" }
 **"Cocotb-PYNQ-PR: From Co-Simulation to Deployment, A Unified DFX Framework for PYNQ"** <br>
 Emir Guevara, Chaitanya Sharma, Gavin Lusby, <u>Nachiket Kapre</u> <br>
 _International Conference on Field-Programmable Logic and Applications_, Sep 2026 <br>
 **<span class="award-note">(Stamatis Vassiliadis Memorial Best Paper Award)</span>**<br>
 
-[[PDF]](./publications/graph-noc_fpt-2024.pdf)
+[[PDF]](./publications/graph-noc_fpt-2024.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/graphnoc){: .cv-code-link aria-label="GitHub repository: GraphNoC" }
 **"GraphNoC: Graph Neural Networks for Application-Specific FPGA NoC Performance Prediction"** <br>
 Gurshaant Malik, <u>Nachiket Kapre</u> <br>
 _International Conference on Field-Programmable Technology_, Dec 2024 <br>
 **<span class="award-note">(Best Paper Award)</span>**<br>
 
-[[PDF]](./publications/ditty_date-2023.pdf)
+[[PDF]](./publications/ditty_date-2023.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/caesr-uwaterloo/Ditty){: .cv-code-link aria-label="GitHub repository: Ditty" }
 **"Ditty: Directory-based Cache Coherence for Multicore Safety-critical Systems"** <br>
 Zhuanhao Wu, Marat Bekmyrza, <u>Nachiket Kapre</u>, Hiren Patel <br>
 _Design, Automation, and Test in Europe_, Apr 2023 <br>
 **<span class="award-note">(Best Paper Nominee)</span>**<br>
 
-[[PDF]](./publications/hbm-noc_fccm-2022.pdf)
+[[PDF]](./publications/hbm-noc_fccm-2022.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/hbm-fpga-noc){: .cv-code-link aria-label="GitHub repository: HBM FPGA NoC" }
 **"Managing HBM Bandwidth on Multi-Die FPGAs with FPGA Overlay NoCs"** <br>
 Srinirdheeshwar Kuttuva Prakash, Hiren Patel, <u>Nachiket Kapre</u> <br>
 _International Conference on Field-Programmable Custom Computing Machines_, May 2022 <br>
 
-[[PDF]](./publications/mocarabe_fccm-2021.pdf)
+[[PDF]](./publications/mocarabe_fccm-2021.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/mocarabe){: .cv-code-link aria-label="GitHub repository: Mocarabe" }
 **"Mocarabe: High-Performance Time-Multiplexed Overlays for FPGAs"** <br>
 Frederick Tombs, Alireza Mellat, <u>Nachiket Kapre</u> <br>
 _International Conference on Field-Programmable Custom Computing Machines_, May 2021 <br>
 
-[[PDF]](./publications/rapidlayout_fpl-2020.pdf)
+[[PDF]](./publications/rapidlayout_fpl-2020.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/RapidLayout){: .cv-code-link aria-label="GitHub repository: RapidLayout" }
 **"RapidLayout: Fast Hard Block Placement of FPGA-optimized Systolic Arrays using Evolutionary Algorithms"** <br>
 Niansong Zhang, Xiang Chen, <u>Nachiket Kapre</u> <br>
 _International Conference on Field-Programmable Logic and Applications_, Sep 2020 <br> **<span class="award-note"> (Nominee for Michal Servit Memorial Award) </span>** <br>
 
-[[PDF]](./publications/hoplite-ml_fpl-2020.pdf)
+[[PDF]](./publications/hoplite-ml_fpl-2020.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/hoplite-ml){: .cv-code-link aria-label="GitHub repository: HopliteML" }
 **"Learn the Switches: Evolving FPGA NoCs with Stall-Free and Backpressure based Routers"** <br>
 Gurshaant Malik, Ian Lang, Rodolfo Pellizzoni, <u>Nachiket Kapre</u> <br>
 _International Conference on Field-Programmable Logic and Applications_, Sep 2020 <br> **<span class="award-note"> (Nominee for Stamatis Vassiliadis Memorial Award) </span>** <br>
@@ -175,22 +175,22 @@ _International Conference on Field-Programmable Logic and Applications_, Sep 202
 Harry Chan, Gurshaant Malik, <u>Nachiket Kapre</u> <br>
 _International Conference on Field-Programmable Technology_, Dec 2019 <br>
 
-[[PDF]](./publications/stc_fpl-2019.pdf)
+[[PDF]](./publications/stc_fpl-2019.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/fpga-cascades-scalesim){: .cv-code-link aria-label="GitHub repository: FPGA Cascades ScaleSim" }
 **"Scaling the Cascades: Interconnect-aware FPGA implementation of Machine Learning problems"** <br>
 Ananda Samajdar, Tushar Garg, Tushar Krishna, <u>Nachiket Kapre</u> <br>
 _29th International Conference on Field-Programmable Logic and Applications_, Sep 2019 <br>
 
-[[PDF]](./publications/rapidroute-timing_fpl-2019.pdf)
+[[PDF]](./publications/rapidroute-timing_fpl-2019.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/RapidRoute-TimExt){: .cv-code-link aria-label="GitHub repository: RapidRoute timing extraction" }
 **"Timing-aware routing in the RapidWright framework"** <br>
 Leo Liu, <u>Nachiket Kapre</u> <br>
 _29th International Conference on Field-Programmable Logic and Applications_, Sep 2019 <br>
 
-[[PDF]](./publications/enhanced-bft_fccm-2019.pdf)
+[[PDF]](./publications/enhanced-bft_fccm-2019.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/bft-flow){: .cv-code-link aria-label="GitHub repository: BFT Flow" }
 **"Enhancing Butterfly Fat Tree NoCs for FPGAs with lightweight flow control"** <br>
 Gurshaant Malik, <u>Nachiket Kapre</u> <br>
 _International Conference on Field-Programmable Custom Computing Machines_, Apr 2019 <br>
 
-[[PDF]](./publications/hoplitebuf_fpga-2019.pdf)
+[[PDF]](./publications/hoplitebuf_fpga-2019.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/hoplitebuf-bounds){: .cv-code-link aria-label="GitHub repository: HopliteBuf" }
 **"HopliteBuf: FPGA NoCs with Provably Stall-Free FIFOs"** <br> **<span class="award-note">(Best Paper Nominee)</span>**<br>
 Tushar Garg, Saud Al Wasly, Rodolfo Pellizzoni, <u>Nachiket Kapre</u> <br>
 _International Symposium on Field-Programmable Gate Arrays_, Feb 2019<br>
@@ -220,7 +220,7 @@ _International Symposium on Field-Programmable Custom Computing Machines_, April
 Siddhartha, <u> Nachiket Kapre</u><br>
 _International Symposium on Field-Programmable Custom Computing Machines_, April-May 2018 <br>
 
-[[PDF]](./publications/hoplitert_fpt-2017.pdf)
+[[PDF]](./publications/hoplitert_fpt-2017.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/hoplitert-bounds){: .cv-code-link aria-label="GitHub repository: HopliteRT" }
 **"HopliteRT: An Efficient FPGA NoC for Real-Time Applications"** <br>
 Saud Al Wasly, Rodolfo Pellizzoni, <u>Nachiket Kapre</u><br>
 _International Conference on Field-Programmable Technology_, December 2017 <br>
@@ -245,7 +245,7 @@ _International Symposium on Field-Programmable Custom Computing Machines_, May 2
 <u>Nachiket Kapre</u><br>
 _International Symposium on Field-Programmable Custom Computing Machines_, May 2017 <br>
 
-[[PDF]](./publications/ebsp_date-2017.pdf)
+[[PDF]](./publications/ebsp_date-2017.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/sidmontu/ebsp){: .cv-code-link aria-label="GitHub repository: eBSP" }
 **"eBSP: Managing NoC traffic for BSP workloads on the 16-core Adapteva Epiphany-III Processor"** <br>
 Siddhartha, <u>Nachiket Kapre</u><br>
 _Design, Automation, and Test in Europe_, March 2017 <br>
@@ -260,7 +260,7 @@ _International Conference on Field-Programmable Technology_, December 2016 <br>
 Prashant Ravi, Uma Syam, <u>Nachiket Kapre</u><br>
 _Seventh ACM Symposium on Computing and Development_, Nov 2016 <br>
 
-[[PDF]](./publications/caffepresso_cases-2016.pdf)
+[[PDF]](./publications/caffepresso_cases-2016.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/gplhegde/caffepresso){: .cv-code-link aria-label="GitHub repository: CaffePresso" }
 **"CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based platforms"** <br> **<span class="award-note">(Best Paper Award)</span>** <br>
 Gopalakrishna Hegde, Siddhartha, Nachiappan Ramasamy, <u>Nachiket Kapre</u><br>
 _International Conference on Compilers, Architecture, and Synthesis for Embedded Systems_, Oct 2016 <br>
@@ -350,12 +350,12 @@ _International Conference on Field-Programmable Logic and Applications_, Septemb
 <u>Nachiket Kapre</u>, and Siddhartha<br>
 _4th International Workshop on Data-Flow Execution Models for Extreme Scale Computing_ (co-located with PACT 2014), August 2014 <br>
 
-[[PDF]](./publications/fpga-driver_fpt-2013.pdf)
+[[PDF]](./publications/fpga-driver_fpt-2013.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/vipinkmenon/fpgadriver){: .cv-code-link aria-label="GitHub repository: FPGA Driver" }
 **"System-Level FPGA Device Driver with High-Level Synthesis Support"** <br>
 Vipin Kizhepatt, Shreejit Shanker, Dulitha Gunasekara, Suhaib A Fahmy, <u>Nachiket Kapre</u><br>
 _International Conference on Field-Programmable Technology_, December 2013 <br>
 
-[[PDF]](./publications/uncertainty_fccm-2013.pdf)
+[[PDF]](./publications/uncertainty_fccm-2013.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/nachiket/tdfc){: .cv-code-link aria-label="GitHub repository: TDFC" }
 **"Exploiting Input Parameter Uncertainty for Reducing Datapath Precision of SPICE Device Models"** <br>
 <u>Nachiket Kapre</u> <br>
 _International Symposium on Field-Programmable Custom Computing Machines_, April 2013 <br>
@@ -370,7 +370,7 @@ _International Symposium on Field-Programmable Custom Computing Machines_, April
 Abid Rafique, <u>Nachiket Kapre</u> and George Constantinides<br>
 _International Conference on Field-Programmable Logic and Applications_, August 2012 <br>
 
-[[PDF]](./publications/fxscore_fccm-2012.pdf)
+[[PDF]](./publications/fxscore_fccm-2012.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/nachiket/tdfc){: .cv-code-link aria-label="GitHub repository: TDFC" }
 **"FX-SCORE: A Framework for Fixed-Point Compilation of SPICE Device Models using Gappa++"** <br>
 Helene Martorell and <u>Nachiket Kapre</u><br>
 _International Symposium on Field-Programmable Custom Computing Machines_, April 2012 <br>
@@ -380,7 +380,7 @@ _International Symposium on Field-Programmable Custom Computing Machines_, April
 Abid Rafique, <u>Nachiket Kapre</u>, and George Constantinides<br>
 _International Symposium on Applied Reconfigurable Computing_, March 2012 <br>
 
-[[PDF]](./publications/spice-iterctrl_fpt-2011.pdf)
+[[PDF]](./publications/spice-iterctrl_fpt-2011.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/nachiket/tdfc){: .cv-code-link aria-label="GitHub repository: TDFC" }
 **"VLIW-SCORE: Beyond C for Sequential Control of SPICE FPGA Acceleration"** <br> **<span class="award-note"> (Best Paper Award)</span>** <br>
 <u>Nachiket Kapre</u> and André DeHon<br>
 _International Conference on Field-Programmable Technology_, December 2011 <br>
@@ -437,7 +437,7 @@ _IEEE Symposium on Field-Programmable Custom Computing Machines_, April 2004. <b
 
 ## Conference Publications (Short Papers)
 
-[[PDF]](./publications/cocotb-pynq_fpl-2025.pdf)
+[[PDF]](./publications/cocotb-pynq_fpl-2025.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/cocotbpynq){: .cv-code-link aria-label="GitHub repository: Cocotb-PYNQ" }
 **"Cocotb-Pynq: Co-simulating Python+RTL
 applications targeting Pynq platforms with Cocotb"** <br>
 Gavin Lusby, <u>Nachiket Kapre</u> <br>
@@ -448,12 +448,12 @@ _International Conference on Field-Programmable Logic and Applications_, Sep 202
 Ian Lang, <u>Nachiket Kapre</u>, Rodolfo Pellizzoni <br>
 _IEEE/ACM Symposium on Networks-on-Chip_, Oct 2021 <br>
 
-[[PDF]](./publications/bft-arity4_fccm-2020.pdf)
+[[PDF]](./publications/bft-arity4_fccm-2020.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/bft-flow-arity4){: .cv-code-link aria-label="GitHub repository: BFT Flow arity 4" }
 **"Exploring the Impact of Switch Arity on Butterfly Fat Tree FPGA NoCs"** <br>
 Ian Lang, Ziqiang Huang, <u>Nachiket Kapre</u> <br>
 _International Conference on Field-Programmable Custom Computing Machines_, Apr 2020 <br>
 
-[[PDF]](./publications/rapid-route_fccm-2019.pdf)
+[[PDF]](./publications/rapid-route_fccm-2019.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/RapidRoute){: .cv-code-link aria-label="GitHub repository: RapidRoute" }
 **"RapidRoute: Fast Assembly of Communication Structures for FPGA Overlays"** **<span class="award-note">(Best Short Paper Runner-up)</span>** <br>
 Leo Liu, Jay Weng, <u>Nachiket Kapre</u> <br>
 _International Conference on Field-Programmable Custom Computing Machines_, Apr 2019 <br>

@@ -34,11 +34,17 @@ html[data-theme="dark"] {
   white-space: nowrap;
 }
 
-.affiliation-glyph {
-  color: var(--global-theme-color);
-  font-size: 0.88em;
-  margin-right: 0.16em;
-  vertical-align: 0.04em;
+.affiliation-logo {
+  display: inline-block;
+  height: 1.05em;
+  margin-right: 0.18em;
+  object-fit: contain;
+  vertical-align: -0.16em;
+  width: 1.05em;
+}
+
+.affiliation-logo-amd {
+  width: 1.3em;
 }
 
 .contact-icons a.internal-gitlab-link {
@@ -56,6 +62,14 @@ html[data-theme="dark"] {
   letter-spacing: 0;
   margin-top: 0.28rem;
   white-space: nowrap;
+}
+
+.cv-code-link {
+  display: inline-block;
+  font-size: 1.05em;
+  line-height: 1;
+  margin-left: 0.22em;
+  vertical-align: -0.04em;
 }
 
 .focus-grid {
