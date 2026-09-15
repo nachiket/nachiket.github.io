@@ -1,0 +1,125 @@
+:root {
+  --global-theme-color: #8a5a00;
+  --global-hover-color: #5f3d00;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #f4c44e;
+  --global-hover-color: #ffda7a;
+}
+
+.quick-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin: 1.5rem 0 2.25rem;
+}
+
+.quick-links a {
+  border: 1px solid var(--global-theme-color);
+  border-radius: 999px;
+  padding: 0.4rem 0.85rem;
+  text-decoration: none;
+}
+
+.focus-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2.5rem;
+}
+
+.focus-grid article {
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.65rem;
+  padding: 1rem 1.05rem;
+}
+
+.focus-grid h3 {
+  font-size: 1.05rem;
+  line-height: 1.35;
+  margin: 0 0 0.55rem;
+}
+
+.focus-grid p {
+  font-size: 0.94rem;
+  line-height: 1.55;
+  margin: 0;
+}
+
+.news-list {
+  margin: 0.75rem 0 1.25rem;
+}
+
+.news-year {
+  border-bottom: 1px solid var(--global-divider-color);
+  font-size: 1.35rem;
+  margin: 2rem 0 0.45rem;
+  padding-bottom: 0.3rem;
+}
+
+.news-list-home .news-year {
+  font-size: 1.15rem;
+  margin-top: 1.4rem;
+}
+
+.news-row {
+  display: grid;
+  grid-template-columns: 5.5rem minmax(0, 1fr);
+  gap: 1rem;
+  padding: 0.55rem 0;
+}
+
+.news-row time,
+.award-date {
+  color: var(--global-text-color-light);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.news-copy > :first-child {
+  margin-top: 0;
+}
+
+.news-copy > :last-child {
+  margin-bottom: 0;
+}
+
+.archive-link {
+  display: inline-block;
+  font-weight: 500;
+  margin-bottom: 2rem;
+}
+
+.award-list {
+  margin-top: 1rem;
+}
+
+.award-note {
+  color: var(--global-theme-color);
+  font-weight: 600;
+}
+
+.award-row {
+  border-bottom: 1px solid var(--global-divider-color);
+  display: grid;
+  gap: 1.25rem;
+  grid-template-columns: 7rem minmax(0, 1fr);
+  padding: 1rem 0;
+}
+
+@media (max-width: 720px) {
+  .focus-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .news-row {
+    gap: 0.6rem;
+    grid-template-columns: 4.5rem minmax(0, 1fr);
+  }
+
+  .award-row {
+    gap: 0.35rem;
+    grid-template-columns: 1fr;
+  }
+}
