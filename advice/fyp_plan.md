@@ -8,10 +8,10 @@
 
 Download Markdown template fyp_plan.md <br>
 
-> wget http://nachiket.github.io/advice/fyp_plan.md
+> wget https://nachiket.github.io/advice/fyp_plan.md
 
 To compile on Mac OS X or Ubuntu Linux with
-[Pandoc](http://johnmacfarlane.net/pandoc) installed, use
+[Pandoc](https://pandoc.org/) installed, use
 
 > pandoc fyp_plan.md -o fyp_plan.pdf
 
@@ -22,8 +22,8 @@ To compile on Mac OS X or Ubuntu Linux with
 | | | |
 |:--|:--|:--|
 |10% | Regular 1:1 meetings | The process of conducting yourself through the FYP is as important as the final product. You will be expected to attend all 1:1 weekly meetings. Exceptions only with MCs. |
-|10% | Draft plan | A good engineer knows how to provision the most important resource: **time**, for his project. I will expect at least a rough plan outline that we revise as we execute the project. | 
-|20% | Regular 15-minute group presentations (once a month) | A good engineer is also a good oral communicator. I will expect short 15-minute presentations to my research group once a month. Ultimately, I want you to become confident speakers and great communicators.. |
+|10% | Draft plan | A good engineer knows how to provision the most important resource: **time**, for his project. I will expect at least a rough plan outline that we revise as we execute the project. |
+|20% | Regular 15-minute group presentations (once a month) | A good engineer is also a good oral communicator. I will expect short 15-minute presentations to my research group once a month. Ultimately, I want you to become a confident speaker and a great communicator. |
 |30% | Final report | Technical report writing is very different from writing an exam. In industry, you will be expected to be precise with your specifications and communications. At the same time, you need to tell a **good story**. You need to connect with your reader at several levels. |
 |20% | Final presentation | This should be the ultimate/improved version of your regular group presentations |
 
@@ -31,7 +31,7 @@ To compile on Mac OS X or Ubuntu Linux with
 
 # Abstract (200 words)
 
-- Crisp, quantitative Claim of what you are planning to show
+- A crisp, quantitative claim describing what you plan to show
 	- e.g. We can make SPICE run 10 times faster using cheap off-the-shelf hardware (**correct**) 
 	- e.g. SPICE runs faster when using our ideas (**wrong**)
 
@@ -43,8 +43,8 @@ To compile on Mac OS X or Ubuntu Linux with
 
 # Planning (2 pages)
 
-- Include your term calendar. The advisor should have an idea of how loaded you are during the semester and how much effort/work can you put in. It is ok to attach just a JPG or screenshot of your StudentLink calendar.
-- Also attach a rough sketch of your proposed plan. Try to use a simple Table format organized by month.
+- Include your term calendar. The advisor should have an idea of how busy you are during the semester and how much effort you can put in. It is OK to attach a JPG or screenshot of your StudentLink calendar.
+- Also attach a rough sketch of your proposed plan. Try to use a simple table organized by month.
 - When you are actually done, attach another plan of actual execution.
 	- This should hopefully teach you to plan your projects better for the future.
 
@@ -63,9 +63,9 @@ To compile on Mac OS X or Ubuntu Linux with
 - What hardware/software infrastructure do you need for your project?
 - Are you comfortable with these platforms? How will you learn about these new platforms?
 
-# Reading List (1 pages)
+# Reading List (1 page)
 
-- Talk to your advisor to get a reading list. By the end of the project, each of the suggested references should become short paragraphs of description.
+- Talk to your advisor to get a reading list. By the end of the project, each suggested reference should have a short descriptive paragraph.
 
 <hr>
 

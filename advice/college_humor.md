@@ -1,5 +1,5 @@
 # College Humor (NTU Edition)
-<!--[NTU Sheild](ntu.jpg)-->
+<!--[NTU Shield](ntu.jpg)-->
 <img src="ntu.jpg" alt="NTU Shield" style="width: 250px;"/>
 
 A growing compendium of real events that have happened to me at NTU when
@@ -17,7 +17,7 @@ interacting with students. Lightly edited. -- *Nachiket*
 
 **Student**: *(via email)* "... P.S. Do you happen to know Dr. Sheldon Cooper from Caltech?" <br>
 
-**Student**: *(via email)* "... P.S. Bazinga" <br> 
+**Student**: *(via email)* "... P.S. Bazinga" <br>
 
 **Student**: *(walks into office)* "Is this where the tea ceremony is going to be?" <br>
 
@@ -38,8 +38,6 @@ graduates any blushes :).
 
 <hr>
 **16th January 2015** <br>
-After a particularaly grueling MSc final exam for ES6152, my students posted this image on the class wiki.<br>
-![Mr. Bean](es6152_2014.jpg "Bean Bean Bean..")
+After a particularly gruelling MSc final exam for ES6152, my students posted this image on the class wiki.<br>
+![Mr. Bean](es6152_2014.jpg "Bean Bean Bean...")
 <br>
-
-

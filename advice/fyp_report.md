@@ -9,10 +9,10 @@
 
 Download Markdown template fyp_report.md.html <br>
 
-> wget http://nachiket.github.io/advice/fyp_report.md
+> wget https://nachiket.github.io/advice/fyp_report.md
 
 To compile on Mac OS X or Ubuntu Linux with
-[Pandoc](http://johnmacfarlane.net/pandoc) installed, use 
+[Pandoc](https://pandoc.org/) installed, use
 
 > pandoc fyp_report.md -o fyp_report.pdf
 
@@ -20,18 +20,18 @@ To compile on Mac OS X or Ubuntu Linux with
 
 # Advice 
 - Use active voice.
-	- e.g. We show how to speedup computations (**correct**)
-	- e.g. It is shown that speedup can be achieved.. (**wrong**)
+	- e.g. We show how to speed up computations (**correct**)
+	- e.g. It is shown that speedup can be achieved. (**wrong**)
 
 - Good engineering students should *quantify* all aspects of their design. Vague
   claims "this is good, this is bad" will not be appreciated.
 
-- Check the source of claim. Did someone reputable say that? Find out. Make sure
+- Check the source of each claim. Did someone reputable say that? Find out. Make sure
   you cite any technical claims or arguments. It improves confidence in
   understanding and trusting your report.
 	- e.g. cite passage from a book or an article.
 
-- Proof-read for grammatical errors. Try to get someone with a decent command of English to read your report first before showing your advisor/examiner.
+- Proofread for grammatical errors. Try to get someone with a decent command of English to read your report before showing it to your advisor or examiner.
 
 - Use examples to explain difficult concepts. Simply writing equations or
   program pseudo-code is *not* enough. Try to convey the intuition behind the
@@ -40,16 +40,16 @@ To compile on Mac OS X or Ubuntu Linux with
 - Compare your results with someone else... preferably published in a
   technical article or a textbook.
 
-- Use Markdown+Pandoc to format text better. Microsoft Word is pathetic. I
+- Use Markdown and Pandoc to format text better. Microsoft Word is pathetic. I
   will only accept PDF submission and highly encourage the use of Markdown. If
-  you are adventurous (or want to do a PhD later), definitely use Latex.
+  you are adventurous (or want to do a PhD later), definitely use LaTeX.
 
 - Use less jargon. Explain jargon whenever you use it. TLAs are stupid and
   must be avoided in technical discussions. People may be unfamiliar with
   terminology that you may take for granted.
 
 - Novelty (what is new here?) should be clearly stated. FYP reports generally
-  do not have to be novel, but if they do make sure you mention it as it looks
+  do not have to be novel, but if they are, make sure you mention it; it looks
   good.
 
 - Do not attach the complete project code. Your examiners do not carry a visual
@@ -59,10 +59,10 @@ To compile on Mac OS X or Ubuntu Linux with
   are explaining an algorithm. These are typically <1 page.
 
 - Pictures are good but do not overdo pictures! You are not drafting a
-  photography/national geographic magazine. You are writing a technical report.
+  photography or National Geographic magazine. You are writing a technical report.
 
 - Think about designing good experiments. It is not sufficient to merely get
-  your idea working. It is not a binary system of evaluation - works vs does
+  your idea working. Evaluation is not binary -- works versus does
   not work. In fact, there is a lot you can learn even if your ideas do not
   work. How well does your system perform? What are its operating
   limits/weaknesses? Can it be improved and by how much?
@@ -77,7 +77,7 @@ are for 10-point, double-column, double-sided A4 pages.
 
 # Abstract (1 page)
 
-- Crisp, quantitative Claim of what you have achieved (quantitative=numerical statement) 
+- Crisp, quantitative claim of what you have achieved (quantitative = numerical statement)
 	- e.g. We can make SPICE run 10 times faster using cheap off-the-shelf hardware (**correct**) 
 	- e.g. SPICE runs faster when using our ideas (**wrong**)
 
@@ -94,7 +94,7 @@ are for 10-point, double-column, double-sided A4 pages.
   should almost be something that your mom can read and understand.
 
 - A nice iconic picture that captures your problem/system would be perfect
-  here. This may or may be possible in your project. This will help the reader
+  here. This may or may not be possible in your project. This will help the reader
   associate your report with this first visual impression.
 
 - At the end, summarize a list of key claims/deliverables of the report.
@@ -124,10 +124,10 @@ are for 10-point, double-column, double-sided A4 pages.
 # Idea (3-4 pages)
 
 - This is all up to you. Good students distinguish themselves from others by
-  using examples to walk a reader thought the mechanics of the internals of
+  using examples to walk a reader through the mechanics of the internals of
   the project.
 
-- Meaningless laborious complex details do not impress anyone. Think hard about
+- Meaningless, laborious, complex details do not impress anyone. Think hard about
   what details to leave out. Just because you spent a lot of time being stuck
   at a particular step of the problem does not mean you have to devote a
   proportional amount of space in text.
@@ -142,11 +142,11 @@ are for 10-point, double-column, double-sided A4 pages.
   I really only start to evaluate the student project when I start seeing
   numbers and quantification of the project.
 
-- Design good experiments. Put your scientist hats on and try to think of how
+- Design good experiments. Put on your scientist's hat and think about how
   you can show off your achievements.
 
-- Learn to use plotting/graphing tools. Use labels and text that is actually
-  visible properly. Examiners do not carry around magnifying glasses on a
+- Learn to use plotting and graphing tools. Use labels and text that are
+  clearly visible. Examiners do not carry around magnifying glasses on a
   typical workday.
 
 - Provide a head-to-head comparison with a competing system if it exists. This
@@ -155,7 +155,7 @@ are for 10-point, double-column, double-sided A4 pages.
 # Conclusions (1 page)
 
 - Restate the quantitative claim from the abstract. Tell the examiner what
-  you have already told him before (repeat for clarity).
+  you have already explained (repeat it for clarity).
 
 - DO NOT INTRODUCE A NEW IDEA IN THE CONCLUSIONS. All concepts should have been
   covered earlier. 
@@ -165,11 +165,11 @@ are for 10-point, double-column, double-sided A4 pages.
 
 # Future Work (1 page)
 
-- No project is complete without a forward direction. Do not be afraid to think
+- No project is complete without a path forward. Do not be afraid to think
   of the weaknesses of your project. 
 
 - Think about what you did not have time to complete but your advisor wanted to
-see completed.
+  see completed.
 
 # References (1-2 pages)
 

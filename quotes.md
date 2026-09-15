@@ -10,7 +10,7 @@ better and best people, robots and software everywhere. Obviously, this makes
 it more vital than ever that we have schools elevating and inspiring more of
 our young people into that better and best category, because even good might
 not cut it anymore and average is definitely over.* - Thomas Friedman <br>
-**[How Did the Robot End Up With My Job?](http://www.nytimes.com/2011/10/02/opinion/sunday/friedman-how-did-the-robot-end-up-with-my-job.html)**
+**[How Did the Robot End Up With My Job?](https://www.nytimes.com/2011/10/02/opinion/sunday/friedman-how-did-the-robot-end-up-with-my-job.html)**
 
 *Modern Computer Architecture is the art and science of sculpting chips
 without all the requisite tools; to run programs we cannot precisely
@@ -34,7 +34,7 @@ of copies in wood.  Why?* <br>
 *"Always try to associate yourself with and learn as much as you can
 from those who know more than you do, who do better than you, who see
 more clearly than you."* <br>
-**Eisenhower via David Brooks* [The Follower Problem](http://www.nytimes.com/2012/06/12/opinion/brooks-the-follower-problem.html)**
+**Eisenhower via David Brooks* [The Follower Problem](https://www.nytimes.com/2012/06/12/opinion/brooks-the-follower-problem.html)**
 
 *"Take no man's word for it"*<br>
 **Robert Hooke**
@@ -73,7 +73,7 @@ billions of years in transit. And the message, echoing across the ages,
 is clear. Sometimes nature guards her secrets with the unbreakable grip
 of physical law. Sometimes the true nature of reality beckons from just
 beyond the horizon.*<br>
-**'Darkeness on the edge of the universe' - NYTimes 2011**
+**'Darkness on the Edge of the Universe' - The New York Times, 2011**
 
 *Instead of designing beautiful data-structures and elegant algorithms, we're
 looking up the EnterpriseFactoryBeanMaker class in the 3,456-page Bumper Tome
@@ -99,7 +99,7 @@ tastes like a duck, then, for all practical purposes, it is a duck*<br>
 	
 *Genius is by nature temperamental. Only the rarest of rare can temper
 it to become predictable.*<br>
-**[Cricinfo](http://www.espncricinfo.com/new-zealand-v-india-2014/content/story/711333.html)**
+**[Cricinfo](https://www.espncricinfo.com/new-zealand-v-india-2014/content/story/711333.html)**
 
 </section>
 </div>

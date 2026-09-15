@@ -14,6 +14,13 @@ pandoc teaching.md -s -c stylesheets/styles.css -o teaching.html --metadata page
 | | | |
 |:--|:--|:--|
 |  | **University of Waterloo** |
+|ECE327 | 2025 | [Digital Hardware Systems](https://uwaterloo.ca/electrical-computer-engineering/profile/nachiket) |
+|ECE493 | 2025 | [Special Topics in Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-engineering/profile/nachiket) |
+|ECE627 | 2025 | [Register-transfer-level Digital Systems](https://uwaterloo.ca/electrical-computer-engineering/profile/nachiket) |
+|ECE720 | 2025 | [Special Topics in Computers and Digital Systems Software](https://uwaterloo.ca/electrical-computer-engineering/profile/nachiket) |
+|ECE722 | 2025 | [Reconfigurable Computing](https://uwaterloo.ca/electrical-computer-engineering/profile/nachiket) |
+|ECE327 | 2024 | [Digital Hardware Systems](https://uwaterloo.ca/electrical-computer-engineering/profile/nachiket) |
+|ECE720 | 2024 | [Special Topics in Computers and Digital Systems Software](https://uwaterloo.ca/electrical-computer-engineering/profile/nachiket) |
 |ECE327 | Spring 2023 | [Digital Systems Engineering](https://piazza.com/class/lh9ev5oetsb1i) 
 |ECE722 | Winter 2021 | [Reconfigurable Computing](https://piazza.com/class/kjiwua8nzacs7)
 |ECE627 | Fall 2021 | [Register-transfer-level Digital Systems](https://piazza.com/class/kta3qgr34fh25v) 
@@ -28,16 +35,16 @@ pandoc teaching.md -s -c stylesheets/styles.css -o teaching.html --metadata page
 |ECE327 | Spring 2017 | [Digital Systems Engineering](https://piazza.com/class/j1s41dc1hkd1yq) 
 |ECE720T6 | Winter 2017 | [Trends in Reconfigurable Computing](https://uwaterloo.ca/electrical-computer-engineering/current-graduate-students/courses/winter-2017-courses/ece-720-topic-6-winter-2017) 
 | | **Nanyang Technological University** |
-|CE4054 | Semester 2 2016 | [Programmable System-on-Chip](http://codeventure.sce.ntu.edu.sg/teaching/2016/ce4054_psoc/index.html) 
-|CE4052 | Semester 1 2015 | [Embedded Software Development](http://codeventure.sce.ntu.edu.sg/teaching/2015/ce4052_embsysdev/index.html) 
-|CE3001 | Semester 1 2015 | [Advanced Computer Architecture](http://codeventure.sce.ntu.edu.sg/teaching/2015/ce3001_advcomparch/index.html) 
-|CE4054 | Semester 2 2015 | [Programmable System-on-Chip](http://codeventure.sce.ntu.edu.sg/teaching/2015/ce4054_psoc/index.html) 
-|CE4052 | Semester 1 2014 | [Embedded Software Development](http://codeventure.sce.ntu.edu.sg/teaching/2014/ce4052_embsysdev/index.html) 
-|CE1005 | Semester 1 2014 | [Digital Logic](http://codeventure.sce.ntu.edu.sg/teaching/2014/ce1005_digital_logic/index.html) 
-|CE4054 | Semester 2 2014 | [Programmable System-on-Chip](http://yarvard.sce.ntu.edu.sg/teaching/2014/ce4054_psoc/index.html) 
-|CE7451 | Semester 1 2013 | [Research Methods in Computer Science & Engineering](http://yarvard.sce.ntu.edu.sg/teaching/2013/ce7451_resmeth/index.html) 
-|CE4052 | Semester 1 2013 | [Embedded Software Development](http://yarvard.sce.ntu.edu.sg/teaching/2013/ce4052_embsysdev/index.html) 
-|ES7501 | Semester 1 2013 | [Electronic Design Automation](http://yarvard.sce.ntu.edu.sg/teaching/2013/es7501_eda/index.html) 
+|CE4054 | Semester 2 2016 | Programmable System-on-Chip |
+|CE4052 | Semester 1 2015 | Embedded Software Development |
+|CE3001 | Semester 1 2015 | Advanced Computer Architecture |
+|CE4054 | Semester 2 2015 | Programmable System-on-Chip |
+|CE4052 | Semester 1 2014 | Embedded Software Development |
+|CE1005 | Semester 1 2014 | Digital Logic |
+|CE4054 | Semester 2 2014 | Programmable System-on-Chip |
+|CE7451 | Semester 1 2013 | Research Methods in Computer Science & Engineering |
+|CE4052 | Semester 1 2013 | Embedded Software Development |
+|ES7501 | Semester 1 2013 | Electronic Design Automation |
 | | |
 </section>
 

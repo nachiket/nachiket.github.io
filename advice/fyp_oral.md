@@ -10,7 +10,7 @@
 <hr>
 
 # Advice 
-- Use the bare-bones/vanilla Powerpoint template
+- Use the bare-bones/vanilla PowerPoint template
 	- Students spend too much time changing fonts, font colors, setting up animations and poorly distributing presentation elements.
 	- You should focus on the key message and not the avoidable, poorly-orchestrated theatrics.
 
@@ -23,21 +23,21 @@
 
 - Use quantitative evidence in the presentation
 	- In an engineering-oriented presentation, technical arguments should be made with evidence
-	- Always show numbers, measurements, to make a point
+	- Always show numbers and measurements to make a point
 	- Quantify, quantify, quantify
 
 - Use simple examples
 	- It is highly unlikely that the examiner has the time/attention span to deeply understand your core problem 
-	- Avoid conveying incorrect message by constructing too simplistic an example
+	- Avoid conveying an incorrect message by constructing an overly simplistic example
 		- The example should be selected to identify the challenges you have faced/solved
 
-- Use Powerpoint objects directly when drawing plots or diagrams
-	- Sloppy students will simply copy-paste plots from report -- these will be lower resolution and inappropriate for a large screen
+- Use PowerPoint objects directly when drawing plots or diagrams
+	- Sloppy students will simply copy and paste plots from their reports -- these will be lower resolution and inappropriate for a large screen
 	- Do not just show data tables... Visualizations of data in tables are more easily comprehensible.
 	- Lead your audience through the visuals
 		- What question does this plot answer?
 		- What is interesting about this plot?
-		- Define the axes and explain what part of the plot represents good results and what part is bad..
+		- Define the axes and explain which part of the plot represents good results and which part represents bad results.
 
 - Practice once or twice
 	- I've seen presentations go haywire for frivolous reasons
@@ -53,7 +53,7 @@
 
 <hr>
 
-Here is a recommended structure for organizing a good FYP presentation. Stick to the default Powerpoint template and font sizes and layout -- do not waste time trying to be cute.
+Here is a recommended structure for organizing a good FYP presentation. Stick to the default PowerPoint template, font sizes, and layout -- do not waste time trying to be cute.
 
 # Problem (1 slide)
 - What problem are you solving? What is your **claim**?
@@ -64,40 +64,40 @@ Here is a recommended structure for organizing a good FYP presentation. Stick to
 # Introduction (2-3 slides)
 - Use an example to motivate the challenge in the FYP project.
 	- Feel free to use/draw pictures when illustrating the properties of the problem challenge
-	- Build intuition behind what is going on..
+	- Build intuition about what is going on.
 	- Maybe OK to show a sneak preview of what the *solved* final result looks like 
 		- Just show a glimpse to keep us excited
 
 # Idea (3-4 slides)
 - What are the key building blocks of your system or idea?
 	- Any engineering system has moving parts that must work together in tandem to demonstrate a final solution
-	- What are inputs and outputs of such a system and what properties are expected to be enforced 
+	- What are the inputs and outputs of such a system, and what properties must it enforce?
 	- Are there constraints to be considered when searching for the solution to your problem?
 - Reuse the example to show how you solve the identified problem
-	- The beauty of simple examples is they are easy to solve on a piece of paper
+	- The beauty of simple examples is that they are easy to solve on a piece of paper
 		- Hence, ideal for slide-based communication
 	- Imagine you are explaining your FYP project to your classmate 
 		- Instinctively, you will resort to examples and be all animated and excited
 		- Talk to me like you are talking to a friend. I want to feel the excitement you feel for your project.
 
 # Experiment Design (1-2 slides)
-- What aspects of your system did you test? How did you setup the test?
+- What aspects of your system did you test? How did you set up the test?
 - How did you make sure your results are trustworthy?
 - What key engineering questions do these tests answer?
 	- These may be best answered in consultation with your supervisor
 
 # Results (3-4 slides)
 - Show pretty graphs and plots
-	- A trick I use extensively is incremental reveal of results for a 2D plot...
+	- A trick I use extensively is the incremental reveal of results in a 2D plot...
 	- Show the axes-only first... Then show one curve... Then animate the second curve and so on...
 	- This strategy keeps visual clutter to a minimum and as an audience I know what to focus on
-		- *Caution*: This is the only place where "Appear" animation in Powerpoint is OK. Animation in general is a poor way to communicate an idea. You're talking to a mostly-technical audience and you do not need to treat us like kids addicted to moving objects.
+		- *Caution*: This is the only place where the "Appear" animation in PowerPoint is OK. Animation in general is a poor way to communicate an idea. You're talking to a mostly technical audience and you do not need to treat us like kids addicted to moving objects.
 
 # Conclusions (1 slide)
-- What claims you made at the start did your FYP project achieve?
+- Which claims from the start did your FYP project substantiate?
 	- Without quantifiable outcomes, your project is not an engineering project.
 - Were you surprised by any roadblock or did everything go smoothly?
-- Review the technical skills you learned..
+- Review the technical skills you learned.
 
 <font color="red">DO NOT HAVE AN IDIOTIC THANK YOU SLIDE </font>
 

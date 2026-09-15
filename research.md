@@ -14,20 +14,20 @@ pandoc \-\-columns=160 research.md -s -c stylesheets/styles.css \-\-metadata pag
 In the Waterloo Configurable Architectures Group (WatCAG), we are broadly
 interested in understanding and exploiting the potential of spatial
 parallelism for implementing computation using reconfigurable architectures
-such as FPGAs.  Reconfigurable computing has now come of age with the
-multi-billion dollar acquisition of Altera by Intel, and rapid adoption of FPGAs
-in the cloud at Microsoft, Amazon, Huawei, Baidu, Alibaba among other cloud
-providers. With the rising computing demands of machine learning workloads
-coupled with the pending demise of Moore's Law, there has never been a more
-exciting time to work in this field than today.
+such as FPGAs. Reconfigurable computing has come of age through major industry
+investment, Altera's return to operational independence, and the rapid adoption
+of FPGAs by cloud providers including Microsoft, Amazon, Huawei, Baidu, and
+Alibaba. With the rising computing demands of machine-learning workloads and
+the slowing of Moore's Law, this is an especially exciting time to work in the
+field.
 
 In the WatCAG group, we ask the following big questions:
 
-- What might reconfigurable computing architectures of the future look like, and how will be program them?
+- What might reconfigurable computing architectures of the future look like, and how will we program them?
 - What computing problems are reconfigurable architectures useful for, and how do we seamlessly integrate them in mainstream computing systems (cloud, embedded)?
 - Can we rethink the programming abstractions for reconfigurable hardware by emphasizing communication and energy awareness at different levels in the compilation stack?
 
-Specifically, the group looks at a combination of *Architecture*, *Compilation*, and *Application* domains to work towards answering these questions.
+Specifically, the group works across *Architecture*, *Compilation*, and *Application* domains to answer these questions.
 </section>
 
 <section>
@@ -45,17 +45,17 @@ use in accelerators.
 - [[PDF]](./publications/soft-vector_trets-2016.pdf) **Optimizing Soft Vector Processing in FPGA-based Embedded Systems**, TRETS 2016
 
 ### Dataflow Architectures
-Token dataflow architectures exploit application parallelism dynamically at the granularity of individual instructions. Each instruction implements a dataflow firing rule that replaces a program counter used in conventional sequential CPU processing. The dataflow dependencies are routed over a operand routing network-on-chip to rapidly move data to parallel compute blocks within the chip. The design and engineering of hardware-friendly dataflow building blocks for FPGAs has been a focus of our group.
+Token dataflow architectures exploit application parallelism dynamically at the granularity of individual instructions. Each instruction implements a dataflow firing rule that replaces the program counter used in conventional sequential CPU processing. Data dependencies are routed over an operand-routing network-on-chip to move data rapidly to parallel compute blocks within the chip. The design and engineering of hardware-friendly dataflow building blocks for FPGAs have been a focus of our group.
 
 ![](images/dataflow.jpg)
 
 - [[PDF]](./publications/dataflow-overlay_fpt-2018.pdf) **”DaCO: A High-Performance Token Dataflow Coprocessor Overlay for FPGAs”**, FPT 2018
-- [[PDF]](./publications/hopliteq_fccm-2018.pdf) **"HopliteQ: Priority-Aware Routing in FPGA Overlay NoCs"**, FCCM2018
-- [[PDF]](./publications/dataflow-limits_dfm-2014.pdf) **"Limits of Statically Scheduled Token Dataflow Processing"**, DFM2014
+- [[PDF]](./publications/hopliteq_fccm-2018.pdf) **"HopliteQ: Priority-Aware Routing in FPGA Overlay NoCs"**, FCCM 2018
+- [[PDF]](./publications/dataflow-limits_dfm-2014.pdf) **"Limits of Statically Scheduled Token Dataflow Processing"**, DFM 2014
 
 ## Applications
 
-We are excited about novel uses of FPGAs in emerging application scenarios in the cloud as well as embedded contexts. The group has published papers in machine learning, 
+We are excited about novel uses of FPGAs in emerging application scenarios in both cloud and embedded contexts. The group has published papers on machine learning, geophysical modelling, and computer vision.
 
 ![](images/caffepresso.png)
 
@@ -67,8 +67,8 @@ We are excited about novel uses of FPGAs in emerging application scenarios in th
 
 The group has developed various automation tools, compiler passes, and
 frameworks for use with FPGAs. In particular, we have tools to perform
-precision analysis, performance tuning, machine-learning driven FPGA
-compilation, among other solutions.
+precision analysis, performance tuning, and machine-learning-driven FPGA
+compilation, among other tasks.
 
 ![](images/intime.png)
 

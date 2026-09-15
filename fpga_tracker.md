@@ -5,12 +5,12 @@ pandoc fpga_tracker.md -s -c stylesheets/styles.css -o fpga_tracker.html --metad
 -->
 
 <header>
-#Papers at 4F (FPGA, FCCM, FPL, FPT) Conferences
+# Papers at the Four Major FPGA Conferences (FPGA, FCCM, FPL, and FPT)
 </header>
 	
 <section>
 
-Legend: F=full paper, S=short paper, P=poster
+Legend: F = full paper, S = short paper, P = poster
 
 | | | | | | 
 |:--|:--|:--| :--|:--|

@@ -39,20 +39,18 @@ pandoc \-\-columns=160 research.md -s -c stylesheets/styles.css \-\-metadata pag
 <p><a href="./index.html">Main</a> | <a href="./cv.html">CV</a> | <a href="./research.html">Research</a> | <a href="./teaching.html">Teaching</a> | <a
 href="./awards.html">Awards</a> <br></p>
 <p>In the Waterloo Configurable Architectures Group (WatCAG), we are broadly interested in understanding and exploiting the potential of spatial parallelism for
-implementing computation using reconfigurable architectures such as FPGAs. Reconfigurable computing has now come of age with the multi-billion dollar
-acquisition of Altera by Intel, and rapid adoption of FPGAs in the cloud at Microsoft, Amazon, Huawei, Baidu, Alibaba among other cloud providers. With the
-rising computing demands of machine learning workloads coupled with the pending demise of Moore’s Law, there has never been a more exciting time to work in this
-field than today.</p>
+implementing computation using reconfigurable architectures such as FPGAs. Reconfigurable computing has come of age through major industry investment, Altera’s
+return to operational independence, and the rapid adoption of FPGAs by cloud providers including Microsoft, Amazon, Huawei, Baidu, and Alibaba. With the rising
+computing demands of machine-learning workloads and the slowing of Moore’s Law, this is an especially exciting time to work in the field.</p>
 <p>In the WatCAG group, we ask the following big questions:</p>
 <ul>
-<li>What might reconfigurable computing architectures of the future look like, and how will be program them?</li>
+<li>What might reconfigurable computing architectures of the future look like, and how will we program them?</li>
 <li>What computing problems are reconfigurable architectures useful for, and how do we seamlessly integrate them in mainstream computing systems (cloud,
 embedded)?</li>
 <li>Can we rethink the programming abstractions for reconfigurable hardware by emphasizing communication and energy awareness at different levels in the
 compilation stack?</li>
 </ul>
-Specifically, the group looks at a combination of <em>Architecture</em>, <em>Compilation</em>, and <em>Application</em> domains to work towards answering these
-questions.
+Specifically, the group works across <em>Architecture</em>, <em>Compilation</em>, and <em>Application</em> domains to answer these questions.
 </section>
 <section>
 <h2 id="architecture">Architecture</h2>
@@ -67,19 +65,19 @@ systems, and FPGA-specific network-on-chip architectures for use in accelerators
 </ul>
 <h3 id="dataflow-architectures">Dataflow Architectures</h3>
 <p>Token dataflow architectures exploit application parallelism dynamically at the granularity of individual instructions. Each instruction implements a
-dataflow firing rule that replaces a program counter used in conventional sequential CPU processing. The dataflow dependencies are routed over a operand routing
-network-on-chip to rapidly move data to parallel compute blocks within the chip. The design and engineering of hardware-friendly dataflow building blocks for
-FPGAs has been a focus of our group.</p>
+dataflow firing rule that replaces the program counter used in conventional sequential CPU processing. Data dependencies are routed over an operand-routing
+network-on-chip to move data rapidly to parallel compute blocks within the chip. The design and engineering of hardware-friendly dataflow building blocks for
+FPGAs have been a focus of our group.</p>
 <p><img src="images/dataflow.jpg" /></p>
 <ul>
 <li><a href="./publications/dataflow-overlay_fpt-2018.pdf">[PDF]</a> <strong>”DaCO: A High-Performance Token Dataflow Coprocessor Overlay for FPGAs”</strong>,
 FPT 2018</li>
-<li><a href="./publications/hopliteq_fccm-2018.pdf">[PDF]</a> <strong>“HopliteQ: Priority-Aware Routing in FPGA Overlay NoCs”</strong>, FCCM2018</li>
-<li><a href="./publications/dataflow-limits_dfm-2014.pdf">[PDF]</a> <strong>“Limits of Statically Scheduled Token Dataflow Processing”</strong>, DFM2014</li>
+<li><a href="./publications/hopliteq_fccm-2018.pdf">[PDF]</a> <strong>“HopliteQ: Priority-Aware Routing in FPGA Overlay NoCs”</strong>, FCCM 2018</li>
+<li><a href="./publications/dataflow-limits_dfm-2014.pdf">[PDF]</a> <strong>“Limits of Statically Scheduled Token Dataflow Processing”</strong>, DFM 2014</li>
 </ul>
 <h2 id="applications">Applications</h2>
-<p>We are excited about novel uses of FPGAs in emerging application scenarios in the cloud as well as embedded contexts. The group has published papers in
-machine learning,</p>
+<p>We are excited about novel uses of FPGAs in emerging application scenarios in both cloud and embedded contexts. The group has published papers on machine
+learning, geophysical modelling, and computer vision.</p>
 <p><img src="images/caffepresso.png" /></p>
 <ul>
 <li><a href="./publications/caffepresso_cases-2016.pdf">[PDF]</a> <strong>CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based
@@ -91,7 +89,7 @@ Processors</strong>, FCCM 2015</li>
 </ul>
 <h2 id="compilation">Compilation</h2>
 <p>The group has developed various automation tools, compiler passes, and frameworks for use with FPGAs. In particular, we have tools to perform precision
-analysis, performance tuning, machine-learning driven FPGA compilation, among other solutions.</p>
+analysis, performance tuning, and machine-learning-driven FPGA compilation, among other tasks.</p>
 <p><img src="images/intime.png" /></p>
 <ul>
 <li><a href="./publications/intime_fccm-2015.pdf">[PDF]</a> <strong>Driving Timing Convergence of FPGA Designs through Machine Learning and Cloud

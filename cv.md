@@ -30,25 +30,32 @@ Thesis: *Packet-Switched FPGA-Overlay Networks*  [[Link]](./publications/ms-thes
 Degree Conferred: June 2005
 
 **B.E., University of Pune (India),** Electronics and Telecommunication Engineering<br>
-Project: *FPGA based testing system for Siemens Railway Signalling Relays*  [[Link]](./publications/be-project.pdf)
-[[slides]](./publications/be_oral.swf) [[guide]](./publications/be_guide.swf)</br>
+Project: *FPGA-based testing system for Siemens Railway Signalling Relays*  [[Link]](./publications/be-project.pdf)
+[[slides]](./publications/be_oral.swf) [[guide]](./publications/be_guide.swf)<br>
 Degree Conferred: August 2002
 
 ## Research Interests
 Concurrent and Spatial Architectures, Parallel Processing, Heterogeneous Architectures and Compilation Tools, Communication-Centric Design
 
-## Grants
+## Selected Grants
 
-NSERC Discovery Grant (2017) CAD$33K/yr (5 years) <br>
-AcRf Tier 1 Grant (Nov 2015) S$100K (1 year) <br>
-Delta Electronics Grant (Co-PI) (August 2015) S$100K (Co-PI) (2 years) <br>
-MIT SMART Innovation Grant (Co-PI) (August 2015) S$50K (Co-PI) (2 years) <br>
+NSERC Discovery Grant (2017) CAD $33K/year (5 years) <br>
+AcRF Tier 1 Grant (Nov 2015) S$100K (1 year) <br>
+Delta Electronics Grant (Co-PI) (August 2015) S$100K (2 years) <br>
+MIT SMART Innovation Grant (Co-PI) (August 2015) S$60K (2 years) <br>
 NTU CELT Excellence in Education Grant (November 2014) S$37K (1 year) <br>
-AcRf Tier 1 Grant (March 2014) S$150K (2 years) <br>
+AcRF Tier 1 Grant (March 2014) S$150K (2 years) <br>
 NTU CELT Excellence in Education Grant (October 2013) S$40K (1 year) <br>
-NTU CELT Excellence in Education Grant (March 2013) S$30K (1 year) <br>
+NTU CELT Excellence in Education Grant (March 2013) S$25K (1 year) <br>
 NTU CoE Competitive Seed Grant S$50K (Jan-March 2013) <br>
 NTU SCE Startup Grant S$100K (3 years)  <br>
+
+## Preprints
+
+[[PDF]](./publications/protocol-independent-transport_arxiv-2026.pdf)
+**"A Protocol-Independent Transport Architecture"** <br>
+Kimiya Mohammadtaheri, David Gao, Samuel Zhang, Matthew Chen, Eric Su, Pengyu Ji, Saad Syed, Chris Neely, Mario Baldi, <u>Nachiket Kapre</u>, Mina Tahmasbi Arashloo <br>
+*arXiv:2605.02210*, May 2026 <br>
 
 ## Journal Publications
 
@@ -65,7 +72,7 @@ Niansong Zhang, Xiang Chen, <u>Nachiket Kapre</u><br>
 
 [[PDF]](./publications/hoplitebuf_trets-2020.pdf)
 **"HopliteBuf: Network Calculus-Based Design of FPGA NoCs with Provably Stall-Free FIFOs"**<br>
-Tushar Garg, Saud Wasly, Rodolfo Pellizoni, <u>Nachiket Kapre</u><br>
+Tushar Garg, Saud Wasly, Rodolfo Pellizzoni, <u>Nachiket Kapre</u><br>
 *ACM Transactions on Reconfigurable Technology and Applications* (Special Issue FPGA 2019) <br>
 
 [[PDF]](./publications/caffepresso_tecs-2017.pdf)
@@ -104,7 +111,7 @@ Michael deLorimier, <u>Nachiket Kapre</u>, Nikil Mehta and André DeHon <br>
 *ACM Transactions on Autonomous and Adaptive Systems: Spatial Computing
 Special Issue*, September 2011 <br>
 
-[[PDF]](http://downloads.hindawi.com/journals/ijrc/2011/745147.pdf)
+[[PDF]](./publications/noc-traffic-engg_ijrc-2011.pdf)
 **"An NoC Traffic Compiler for efficient FPGA implementation of Sparse Graph-Oriented Workloads"**  <br>
 <u>Nachiket Kapre</u> and André DeHon <br>
 *International Journal of Reconfigurable Computing* Volume 2011 Article ID 745147<br>
@@ -116,17 +123,28 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 ## Conference/Workshop Publications (Full papers)
 
+[[PDF]](./publications/jack-of-all-scales_fpl-2026.pdf)
+**"Jack of All Scales: A Versatile FPGA Tensor Block for MXFP Precisions"** <br>
+Marwan Mekhemer, Ahmed Elsousy, Balaji Venkatesh, Raphael Rowley, Vaughn Betz, <u>Nachiket Kapre</u>, Andrew Boutros <br>
+*International Conference on Field-Programmable Logic and Applications*, Sep 2026 <br>
+
 [[PDF]](./publications/cocotb-pynq-pr_fpl-2026.pdf)
 **"Cocotb-PYNQ-PR: From Co-Simulation to Deployment, A Unified DFX Framework for PYNQ"** <br>
 Emir Guevara, Chaitanya Sharma, Gavin Lusby, <u>Nachiket Kapre</u> <br>
 *International Conference on Field-Programmable Logic and Applications*, Sep 2026 <br>
-**<font color="red">(Stamatis Vassiliadis Memorial Award)</font>**<br>
+**<font color="red">(Stamatis Vassiliadis Memorial Best Paper Award)</font>**<br>
 
 [[PDF]](./publications/graph-noc_fpt-2024.pdf)
 **"GraphNoC: Graph Neural Networks for Application-Specific FPGA NoC Performance Prediction"** <br>
 Gurshaant Malik, <u>Nachiket Kapre</u> <br>
 *International Conference on Field-Programmable Technology*, Dec 2024 <br>
 **<font color="red">(Best Paper Award)</font>**<br>
+
+[[PDF]](./publications/ditty_date-2023.pdf)
+**"Ditty: Directory-based Cache Coherence for Multicore Safety-critical Systems"** <br>
+Zhuanhao Wu, Marat Bekmyrza, <u>Nachiket Kapre</u>, Hiren Patel <br>
+*Design, Automation, and Test in Europe*, Apr 2023 <br>
+**<font color="red">(Best Paper Nominee)</font>**<br>
 
 
 [[PDF]](./publications/hbm-noc_fccm-2022.pdf)
@@ -144,11 +162,11 @@ Frederick Tombs, Alireza Mellat, <u>Nachiket Kapre</u> <br>
 [[PDF]](./publications/rapidlayout_fpl-2020.pdf)
 **"RapidLayout: Fast Hard Block Placement of FPGA-optimized Systolic Arrays using Evolutionary Algorithms"** <br>
 Niansong Zhang, Xiang Chen, <u>Nachiket Kapre</u> <br>
-*International Conference on Field-Programmable Logic and Application*, Sep 2020 <br> **<font color="red"> (Nominee for Michal Servit Memorial Award) </font>** <br>
+*International Conference on Field-Programmable Logic and Applications*, Sep 2020 <br> **<font color="red"> (Nominee for Michal Servit Memorial Award) </font>** <br>
 
 [[PDF]](./publications/hoplite-ml_fpl-2020.pdf)
 **"Learn the Switches: Evolving FPGA NoCs with Stall-Free and Backpressure based Routers"** <br>
-Gurshaant Malik, Ian Lang, Rodolfo Pellizoni, <u>Nachiket Kapre</u> <br>
+Gurshaant Malik, Ian Lang, Rodolfo Pellizzoni, <u>Nachiket Kapre</u> <br>
 *International Conference on Field-Programmable Logic and Applications*, Sep 2020 <br> **<font color="red"> (Nominee for Stamatis Vassiliadis Memorial Award) </font>** <br>
 
 [[PDF]](./publications/part-systolic_fpt-2019.pdf)
@@ -169,11 +187,11 @@ Leo Liu, <u>Nachiket Kapre</u> <br>
 [[PDF]](./publications/enhanced-bft_fccm-2019.pdf)
 **"Enhancing Butterfly Fat Tree NoCs for FPGAs with lightweight flow control"** <br>
 Gurshaant Malik, <u>Nachiket Kapre</u> <br>
-*International Conference on Field Programmable Custom Computing Machines*, Apr 2019 <br>
+*International Conference on Field-Programmable Custom Computing Machines*, Apr 2019 <br>
 
 [[PDF]](./publications/hoplitebuf_fpga-2019.pdf)
 **"HopliteBuf: FPGA NoCs with Provably Stall-Free FIFOs"** <br> **<font color="red">(Best Paper Nominee)</font>**<br>
-Tushar Garg, Saud Al Wasly, Rodolfo Pellizoni, <u>Nachiket Kapre</u> <br>
+Tushar Garg, Saud Al Wasly, Rodolfo Pellizzoni, <u>Nachiket Kapre</u> <br>
 *International Symposium on Field-Programmable Gate Arrays*, Feb 2019<br>
 
 [[PDF]](./publications/nengo-embedded_fpt-2018.pdf)
@@ -204,7 +222,7 @@ Siddhartha, <u> Nachiket Kapre</u><br>
 
 [[PDF]](./publications/hoplitert_fpt-2017.pdf)
 **"HopliteRT: An Efficient FPGA NoC for Real-Time Applications"** <br>
-Saud Al Wasly, Rodolfo Pellizoni, <u>Nachiket Kapre</u><br>
+Saud Al Wasly, Rodolfo Pellizzoni, <u>Nachiket Kapre</u><br>
 *International Conference on Field-Programmable Technology*, December 2017 <br>
 
 [[PDF]](./publications/deflection-bft_fpl-2017.pdf)
@@ -429,13 +447,13 @@ Ian Lang, <u>Nachiket Kapre</u>, Rodolfo Pellizzoni <br>
 [[PDF]](./publications/bft-arity4_fccm-2020.pdf)
 **"Exploring the Impact of Switch Arity on Butterfly Fat Tree FPGA NoCs"** <br>
 Ian Lang, Ziqiang Huang, <u>Nachiket Kapre</u> <br>
-*International Conference on Field Programmable Custom Computing Machines*, Apr 2020 <br>
+*International Conference on Field-Programmable Custom Computing Machines*, Apr 2020 <br>
 
 
 [[PDF]](./publications/rapid-route_fccm-2019.pdf)
 **"RapidRoute: Fast Assembly of Communication Structures for FPGA Overlays"** **<font color="red">(Best Short Paper Runner-up)</font>** <br>
 Leo Liu, Jay Weng, <u>Nachiket Kapre</u> <br>
-*International Conference on Field Programmable Custom Computing Machines*, Apr 2019 <br>
+*International Conference on Field-Programmable Custom Computing Machines*, Apr 2019 <br>
 
 
 [[PDF]](./publications/openclpipe_iwocl-2017.pdf)
@@ -537,8 +555,8 @@ Joshua Levine, Edward Stott, and <u>Nachiket Kapre</u><br>
 **"Accelerating the SPICE Circuit Simulator using an FPGA - A Case Study"** <br>
 <u>Nachiket Kapre</u> and André DeHon <br>
 From *High-Performance Computing using FPGAs* <br>
-Page 389-427, <br>
-Edited by Wim Vanderbauwhere and Khaled Benkrid <br>
+Pages 389-427, <br>
+Edited by Wim Vanderbauwhede and Khaled Benkrid <br>
 Published by *Springer*, Copyright 2013, ISBN-13: 978-1-4614-1790-3 <br>
 
 **"Programming FPGA Applications in VHDL"** <br>
@@ -546,7 +564,7 @@ Published by *Springer*, Copyright 2013, ISBN-13: 978-1-4614-1790-3 <br>
 From *Reconfigurable Computing: The Theory and Practice of FPGA-based Computation*, <br>
 Pages 129-153, <br>
 Edited by *Scott Hauck* and *André DeHon*, <br>
-Published by *Morgan Kauffman/Elsevier*, Copyright 2008, ISBN-13: 978-0-12-370522-8 <br>
+Published by *Morgan Kaufmann/Elsevier*, Copyright 2008, ISBN-13: 978-0-12-370522-8 <br>
 
 ## Selected Talks
 
@@ -579,21 +597,21 @@ Publication Number 20200050926, Applied Aug 2019.<br>
 ## Advising
 
 **Waterloo PhD**<br>
-Gurshaant Malik (2017-present): *TBA* <br>
+Gurshaant Malik (2017-2025): *Learning Design Parameters to Build Application Customizable Network-on-Chips for FPGAs* <br>
 
 **Waterloo MASc**<br>
-Benjamin Morcos (2017-present): *Neural Networks on FPGAs* <br>
-Tushar Garg (2017-present): *TBA* <br>
+Benjamin Morcos (2017-2019): *NengoFPGA: an FPGA Backend for the Nengo Neural Simulator* <br>
+Tushar Garg (2017-2019): *HopliteBuf FPGA Network-on-Chip: Architecture and Analysis* <br>
 
 **NTU PhD**<br>
-Siddhartha (2013-present): *Dataflow Computing using FPGAs* <br>
+Siddhartha (2013-2019): *Dataflow Optimized Overlays for FPGAs* <br>
 
 **NTU MSc**<br>
 Chethan Kumar Basavaraju (2015): *FPGA NoCs* <br>
 Jayakrishnan Selva Kumar (2014): *Maxeler Applications* <br>
 Venugopal Swetha (2014): *GPU Monte-Carlo Applications* <br>
 Chinnakkannu Adaikkala Raj (2014): *Machine Learning in FPGA CAD* <br>
-Jianrong, Kiran Ganapathi, Kunal Gokhale (2014): Misc Topics<br>
+Jianrong, Kiran Ganapathi, Kunal Gokhale (2014): Miscellaneous topics<br>
 Kanchan Kaur, Shipeng Xu (2013): *FPGA Placement/Routing*
 
 **NTU UG (Final Year Projects)**<br>
@@ -605,16 +623,16 @@ Soh Jun Jie (2013-14): *Vectorblox* <br>
 Favian (2013-14): *3D Convolution using FPGAs* <br>
 Lim Hui Hui (2013): *SPICE Fault Tolerance* <br>
 
-**Imperial PhD, MSc, MEng, BEng and Interns** </br>
+**Imperial PhD, MSc, MEng, BEng and Interns** <br>
 Andrew Bean (PhD student 2011-2016): *Adaptive/Learning Systems using FPGAs*<br>
 Abid Rafique (PhD student 2010-2013): *Accelerating Semi-Definite Programming with FPGAs, GPUs and Multi-Cores* <br>
-Siddhartha, Dulitha Gunasekara (BEng/MEng students 2011-2012): Different topics <br>
-Helene Martorell, Emmanouil Spanakis, Fang Zhou, Wei Lizhong (MSc students 2010-2011): Different topics <br>
+Siddhartha, Dulitha Gunasekara (BEng/MEng students 2011-2012): Various topics <br>
+Helene Martorell, Emmanouil Spanakis, Fang Zhou, Wei Lizhong (MSc students 2010-2011): Various topics <br>
 Coryan Wilson-Shah (UROP student 2011): Matrix-Free SPICE <br>
 Cody Huang (CAPA intern, UC Davis undergraduate 2011): GPU Code-Generation
 
-**Caltech Undergraduates and Summer Students** </br>
-Henry Barnor (2005, now at Altera): *VHDL Design of systolic hardware sorter/placer* <br>
+**Caltech Undergraduates and Summer Students** <br>
+Henry Barnor (2005): *VHDL Design of systolic hardware sorter/placer* <br>
 Stephanie Chan (2005, now at NIST): *Experiments on saturating accumulator* <br>
 Ravi Teja Sukhavasi (2006, Caltech graduate student): *Applying network-coding ideas to message traffic between parallel compute elements* <br>
 Jon Ramirez (2006): *Floating-point associative accumulator* <br>
@@ -625,6 +643,13 @@ Jacob Bower (Maxeler): *Maxeler Compiler Framework* <br>
 Kumiko Nomura (Toshiba): *Architecture analysis of 3D chips* <br>
 
 ## Teaching Experience
+
+**University of Waterloo**<br>
+ECE327: *Digital Hardware Systems* (2021, 2023-2025) <br>
+ECE493: *Special Topics in Electrical and Computer Engineering* (2025) <br>
+ECE627: *Register-transfer-level Digital Systems* (2021, 2023, 2025) <br>
+ECE720: *Special Topics in Computers and Digital Systems Software* (2024-2025) <br>
+ECE722: *Reconfigurable Computing* (2021, 2023, 2025) <br>
 
 **Lecturer**<br>
 Semester 1 2015, Nanyang Technological University, *CE4052/ES6152: Embedded System Development* <br>
@@ -653,17 +678,22 @@ Spring 2007, University of Pennsylvania, Electrical and Systems Engineering, *ES
 Winter 2006, California Institute of Technology, Computer Science, *CS137: Electronic Digital Automation*<br>
 
 ## Professional Experience
+**University of Waterloo**, Professor (2026-present)<br>
+**Tenstorrent LLC**, Visiting Fellow (2026)<br>
+**University of Waterloo**, Associate Professor (2020-2026)<br>
+**Xilinx Labs (now AMD Research)**, Research Director, Singapore (January 2022-February 2023; leave of absence from Waterloo)<br>
+**University of Waterloo**, Assistant Professor (2016-2020)<br>
 **Nanyang Technological University**, Assistant Professor (Oct 2012-Sep 2016)<br>
-**Plunify, Inc.**, Chief Technology Officer (July 2014-)<br>
+**Plunify, Inc.**, Chief Technology Officer (2014-2016)<br>
 **Imperial College London**, Junior Research Fellow (October 2010-September 2012)<br>
 **Maxeler Inc.**, Consultant (July 2011-July 2012)<br>
-**University of Pennsylvania**, Visiting Graduate Student (October 2006-present)<br>
+**University of Pennsylvania**, Visiting Graduate Student (2006-2010)<br>
 **Xilinx Inc.**, Summer Intern (Summer 2005)<br>
 **Koch Lab (Caltech)**, Research Assistant (February 2004 to September 2004)<br>
 **Paxonet Communications Inc. (now Conexant)**, Employee (August 2002 to August 2003)<br>
-**Siemens Inc.**, Part-Time Intern (2002).
+**Siemens Inc.**, Part-time Intern (2002).
 
-<font color="red"> Copyright for all the PDF papers hosted here belongs to IEEE, or ACM as appropriate.</font>
+<font color="red"> Copyright in the papers hosted here remains with the respective authors and publishers, as applicable.</font>
 
 </section>
 </div>
