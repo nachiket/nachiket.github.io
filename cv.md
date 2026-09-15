@@ -40,8 +40,12 @@ Concurrent and Spatial Architectures, Parallel Processing, Heterogeneous Archite
 ## Selected Grants
 
 NSERC Discovery Grant Renewal (2024--2029), *Rethinking Configurable Logic Architectures in the Age of AI*, CAD $265K <br>
+Mitacs Globalink (2020--2021), *High-Level Synthesis of Nengo Neural Networks*, CAD $15K <br>
 Huawei Research Grant (PI subcontract; University of Toronto lead institution) (2019--2021), *CGRA and Embedded FPGA Architecture and Tools*, CAD $157.5K <br>
+Research Tools and Instruments Grant (Co-PI) (2019--2020), *Real-Time Baseband Signal Processing and Reconfigurable Computing Development Platform*, CAD $148,905 <br>
+Xilinx Unrestricted Research Gift (2018--2019), CAD $10K <br>
 NSERC Discovery Grant (2017--2022), *Enhancing Hardware Compilation for Reconfigurable Architectures using Machine Learning and Cloud Computing*, CAD $165K <br>
+University of Waterloo Startup Grant (2016--present), CAD $150K <br>
 AcRF Tier 1 Grant (Nov 2015) S$100K (1 year) <br>
 Delta Electronics Grant (Co-PI) (August 2015) S$100K (2 years) <br>
 MIT SMART Innovation Grant (Co-PI) (August 2015) S$60K (2 years) <br>
@@ -314,7 +318,7 @@ Que Yanghua, Harnhua Ng, <u>Nachiket Kapre</u><br>
 
 [[PDF]](./publications/spice-faulttol_raw-2015.pdf)
 **"Enhancing Speedups for FPGA Accelerated SPICE through Frequency Scaling and Precision Reduction"** <br>
-<u>Nachiket Kapre</u>, Lim Hui Hui<br>
+Lim Hui Hui, <u>Nachiket Kapre</u><br>
 *22nd Reconfigurable Architectures Workshop, 2015* (co-located with IPDPS 2015), May 2015 <br>
 
 [[PDF]](./publications/zedwulf_fccm-2015.pdf)
@@ -376,6 +380,11 @@ Abid Rafique, <u>Nachiket Kapre</u> and George Constantinides<br>
 **"FX-SCORE: A Framework for Fixed-Point Compilation of SPICE Device Models using Gappa++"** <br>
 Helene Martorell and <u>Nachiket Kapre</u><br>
 *International Symposium on Field-Programmable Custom Computing Machines*, April 2012 <br>
+
+[[PDF]](./publications/lanczos-abid_arc-2012.pdf)
+**"A High Throughput FPGA-based Implementation of the Lanczos Method for the Symmetric Extremal Eigenvalue Problem"** <br>
+Abid Rafique, <u>Nachiket Kapre</u>, and George Constantinides<br>
+*International Symposium on Applied Reconfigurable Computing*, March 2012 <br>
 
 [[PDF]](./publications/spice-iterctrl_fpt-2011.pdf)
 **"VLIW-SCORE: Beyond C for Sequential Control of SPICE FPGA Acceleration"** <br> **<font color="red"> (Best Paper Award)</font>** <br>
@@ -570,6 +579,12 @@ Published by *Morgan Kaufmann/Elsevier*, Copyright 2008, ISBN-13: 978-0-12-37052
 
 ## Selected Talks
 
+"Machine Learning for FPGA Design"<br> *Invited Talk, ASAP 2025 Special Session on Custom Computing in Canada*, Vancouver, July 2025. <br>
+
+"Machine Learning for FPGA Design"<br> *Invited Talk, Jane Street XCelerate Colloquium*, New York, May 2025. <br>
+
+"FPGA Architecture and Programming"<br> *Invited Tutorial, SPIN Canada Quantum Computing Workshop*, June 2019. <br>
+
 "A Case for Embedded FPGA-based SoCs for Energy-Efficient Acceleration of Graph Problems" <br>
 Pradeep Moorthy, Siddhartha, <u>Nachiket Kapre</u><br>
 *Supercomputing Frontiers 2015*, March 2015 <br>
@@ -586,22 +601,41 @@ Pradeep Moorthy, Siddhartha, <u>Nachiket Kapre</u><br>
 
 "Exploiting Application Structure in On-Chip Network Design"<br> *Invited Talk at University of Gent, Belgium and TU Munich, Germany*, July-August 2007.
 
-### Patents
+## Patents
 
-"Method and a circuit using an associative calculator for calculating a sequence of non-associative operations",
-André DeHon and Nachiket Kapre<br>
-Publication Number US7991817 B2, Applied Jan 2007, Granted Aug 2011.<br>
+"Coarse grained reconfigurable architecture",
+Nachiket Kapre, Kimon Karras, Dmitri Kitariev, Neil Turton, Siddhartha, Stephan Diestelhorst, and Thilini Dassanayake<br>
+U.S. Patent No. [12,585,605 B2](https://patents.google.com/patent/US12585605B2/en), assigned to Xilinx, Inc.; filed Dec 2022, granted Mar 2026.<br>
 
 "Digital circuits for evaluating neural engineering framework style neural networks",
 Benjamin Morcos, Chris Eliasmith, and Nachiket Kapre<br>
-Publication Number 20200050926, Applied Aug 2019.<br>
+U.S. Patent No. [11,537,856 B2](https://patents.google.com/patent/US11537856B2/en), filed Aug 2019, granted Dec 2022.<br>
+
+"Method and a circuit using an associative calculator for calculating a sequence of non-associative operations",
+André DeHon and Nachiket Kapre<br>
+U.S. Patent No. [7,991,817 B2](https://patents.google.com/patent/US7991817B2/en), filed Jan 2007, granted Aug 2011.<br>
 
 ## Advising
 
-**Waterloo PhD**<br>
+**Current Waterloo PhD**<br>
+Emir Guevara (Fall 2025--present) <br>
+Ahmed Elsousy (Fall 2025--present; co-supervised with Andrew Boutros) <br>
+Thomas Badros (Fall 2025--present; co-supervised with Andrew Boutros) <br>
+
+**Current Waterloo MASc**<br>
+Jehanzeb Mirza (Winter 2023--present; co-supervised with Vincent Gaudet), Queen Elizabeth II Graduate Scholarship in Science and Technology (QEII-GSST) recipient <br>
+
+**Past Waterloo PhD**<br>
 Gurshaant Malik (2017-2025): *Learning Design Parameters to Build Application Customizable Network-on-Chips for FPGAs* <br>
 
-**Waterloo MASc**<br>
+**Past Waterloo MASc**<br>
+Marat Bekmyrza (2021--2025; co-supervised with Hiren Patel): *Language Model Inference on FPGA with Integer-only Operations* <br>
+Aravind Vellora Valayapara (2021--2023; co-supervised with Seyed Zahedi): *Fairness Notions on Hardware Resource Configuration* <br>
+MohammadHadi Omidi (2021--2024; co-supervised with Seyed Zahedi): *Fair and Efficient Resource Scheduling in Heterogeneous Multi-Agent Systems* <br>
+Long Chan Chan (2020--2021): *Implementing FPGA-optimized Systolic Arrays using 2D Knapsack and Evolutionary Algorithms* <br>
+Alireza Mellat (2020--2021): *Mocarabe: High-Performance Time-Multiplexed Overlays for FPGAs* <br>
+Srinirdheeshwar Kuttuva Prakash (2019--2021): *Managing HBM Bandwidth in Multi-Die FPGAs using Overlay NoCs* <br>
+Ian Elmor Lang (2019--2021): *Worst-Case Latency Analysis for the Versal Network-on-Chip* <br>
 Benjamin Morcos (2017-2019): *NengoFPGA: an FPGA Backend for the Nengo Neural Simulator* <br>
 Tushar Garg (2017-2019): *HopliteBuf FPGA Network-on-Chip: Architecture and Analysis* <br>
 
