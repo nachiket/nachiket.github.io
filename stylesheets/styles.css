@@ -294,7 +294,11 @@ th {
   vertical-align: top;
 }
 
-.news-by-year td:first-child {
+.news-by-year tr > :first-child {
+  box-sizing: border-box;
+  width: 5rem;
+  min-width: 5rem;
+  max-width: 5rem;
   white-space: nowrap;
 }
 
