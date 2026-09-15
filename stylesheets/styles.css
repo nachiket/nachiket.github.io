@@ -274,6 +274,10 @@ th {
   color: #222;
 }
 
+.news-by-year thead {
+  display: none;
+}
+
 small {
   font-size: 11px;
 }

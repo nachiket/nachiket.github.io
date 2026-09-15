@@ -30,6 +30,8 @@ pandoc --columns=160 index.md -s -c stylesheets/styles.css --metadata pagetitle=
 
 ### News and Information
 
+<div class="news-by-year">
+
 #### 2026
 
 | Date | News |
@@ -174,6 +176,7 @@ pandoc --columns=160 index.md -s -c stylesheets/styles.css --metadata pagetitle=
 | December 17 | I was awarded an S$50K NTU College of Engineering Seed Fund grant as PI (Co-PI: Kyle Rupnow). |
 | October 1 | I started as an Assistant Professor at SCE, NTU. |
 
+</div>
 
 ### Misc ###
 
