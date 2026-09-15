@@ -11,7 +11,7 @@ contact_note: >
 description: >
   Nachiket Kapre is a professor of electrical and computer engineering at the University of Waterloo. His group works on ML accelerators, agentic hardware-design flows, FPGA CAD, and reconfigurable architectures.
 footer_text: >
-  University of Waterloo
+  University of Waterloo · Built with <a href="https://github.com/alshedivat/al-folio">al-folio</a>
 keywords: computer architecture, FPGA, machine learning accelerators, hardware design automation, reconfigurable computing
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚙️

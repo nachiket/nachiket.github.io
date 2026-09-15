@@ -27,7 +27,7 @@ The **Waterloo Configurable Architectures Group (WatCAG)** works across computer
 
 - **Gurshaant Malik**, PhD (2017–2025) · _Learning Design Parameters to Build Application Customizable Network-on-Chips for FPGAs_
 - **Marat Bekmyrza**, MASc (2021–2025), co-supervised with Hiren Patel · _Language Model Inference on FPGA with Integer-only Operations_
-- **MohammadHadi Omidi**, MASc (2021–2024), co-supervised with Seyed Zahedi · _Fair and Efficient Resource Scheduling in Heterogeneous Multi-Agent Systems_
+- **Mohammad Hadi Omidi**, MASc (2021–2024), co-supervised with Seyed Zahedi · _Fair and Efficient Resource Scheduling in Heterogeneous Multi-Agent Systems_
 - **Aravind Vellora Valayapara**, MASc (2021–2023), co-supervised with Seyed Zahedi · _Fairness Notions on Hardware Resource Configuration_
 - **Long Chan Chan**, MASc (2020–2021) · _Implementing FPGA-optimized Systolic Arrays using 2D Knapsack and Evolutionary Algorithms_
 - **Alireza Mellat**, MASc (2020–2021) · _Mocarabe: High-Performance Time-Multiplexed Overlays for FPGAs_

@@ -622,7 +622,7 @@ Gurshaant Malik (2017-2025): _Learning Design Parameters to Build Application Cu
 **Past Waterloo MASc**<br>
 Marat Bekmyrza (2021--2025; co-supervised with Hiren Patel): _Language Model Inference on FPGA with Integer-only Operations_ <br>
 Aravind Vellora Valayapara (2021--2023; co-supervised with Seyed Zahedi): _Fairness Notions on Hardware Resource Configuration_ <br>
-MohammadHadi Omidi (2021--2024; co-supervised with Seyed Zahedi): _Fair and Efficient Resource Scheduling in Heterogeneous Multi-Agent Systems_ <br>
+Mohammad Hadi Omidi (2021--2024; co-supervised with Seyed Zahedi): _Fair and Efficient Resource Scheduling in Heterogeneous Multi-Agent Systems_ <br>
 Long Chan Chan (2020--2021): _Implementing FPGA-optimized Systolic Arrays using 2D Knapsack and Evolutionary Algorithms_ <br>
 Alireza Mellat (2020--2021): _Mocarabe: High-Performance Time-Multiplexed Overlays for FPGAs_ <br>
 Srinirdheeshwar Kuttuva Prakash (2019--2021): _Managing HBM Bandwidth in Multi-Die FPGAs using Overlay NoCs_ <br>

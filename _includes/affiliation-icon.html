@@ -21,5 +21,10 @@
 {%- when "lattice" -%}
 <img class="affiliation-logo" src="https://www.latticesemi.com/images/favicon.ico" alt="" aria-hidden="true" />
 {%- when "ntu" -%}
-<img class="affiliation-logo" src="https://www.ntu.edu.sg/ResourcePackages/NTU/assets/images/favicon.png" alt="" aria-hidden="true" />
+<img
+  class="affiliation-logo affiliation-logo-ntu"
+  src="{{ '/assets/img/affiliations/ntu-crest.png' | relative_url }}"
+  alt=""
+  aria-hidden="true"
+/>
 {%- endcase -%}

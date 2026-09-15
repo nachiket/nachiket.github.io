@@ -110,6 +110,12 @@ html[data-theme="dark"] {
   width: 2.35em;
 }
 
+.affiliation-logo-ntu {
+  height: 1.2em;
+  vertical-align: -0.22em;
+  width: auto;
+}
+
 .contact-icons a.internal-gitlab-link {
   align-items: center;
   display: inline-flex;
