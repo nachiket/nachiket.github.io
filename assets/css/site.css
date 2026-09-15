@@ -256,8 +256,10 @@ html[data-theme="dark"] {
 }
 
 .publication-timeline-events {
+  align-content: start;
   display: grid;
   gap: 0.22rem;
+  grid-auto-rows: 0.56rem;
   grid-template-columns: repeat(2, 0.56rem);
   justify-content: center;
   min-height: 6rem;
