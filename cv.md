@@ -116,6 +116,12 @@ Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br
 
 ## Conference/Workshop Publications (Full papers)
 
+[[PDF]](./publications/cocotb-pynq-pr_fpl-2026.pdf)
+**"Cocotb-PYNQ-PR: From Co-Simulation to Deployment, A Unified DFX Framework for PYNQ"** <br>
+Emir Guevara, Chaitanya Sharma, Gavin Lusby, <u>Nachiket Kapre</u> <br>
+*International Conference on Field-Programmable Logic and Applications*, Sep 2026 <br>
+**<font color="red">(Stamatis Vassiliadis Memorial Award)</font>**<br>
+
 [[PDF]](./publications/graph-noc_fpt2024.pdf)
 **"GraphNoC: Graph Neural Networks for Application-Specific FPGA NoC Performance Prediction"** <br>
 Gurshaant Malik, <u>Nachiket Kapre</u> <br>
