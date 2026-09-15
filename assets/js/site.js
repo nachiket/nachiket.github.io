@@ -1,4 +1,14 @@
 document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll('.contact-icons a[href*="git.uwaterloo.ca"]').forEach((link) => {
+    link.classList.add("internal-gitlab-link");
+    if (!link.querySelector(".internal-gitlab-label")) {
+      const label = document.createElement("span");
+      label.className = "internal-gitlab-label";
+      label.textContent = "(internal-only)";
+      link.append(label);
+    }
+  });
+
   const publicationList = document.querySelector(".publications");
 
   publicationList?.querySelectorAll(".links a.award").forEach((badge) => {
@@ -59,11 +69,7 @@ document.addEventListener("DOMContentLoaded", () => {
       if (isNominee) event.classList.add("publication-timeline-event-nominee");
       event.href = `#${entry.id}`;
 
-      const distinction = isAward
-        ? ` — ${badgeText}`
-        : isNominee
-          ? ` — ${badgeText}`
-          : "";
+      const distinction = isAward ? ` — ${badgeText}` : isNominee ? ` — ${badgeText}` : "";
       event.setAttribute("aria-label", `${year}: ${title}${distinction}`);
       event.title = `${title}${distinction}`;
       events.append(event);

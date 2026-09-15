@@ -41,6 +41,23 @@ html[data-theme="dark"] {
   vertical-align: 0.04em;
 }
 
+.contact-icons a.internal-gitlab-link {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  line-height: 1;
+  vertical-align: top;
+}
+
+.contact-icons .internal-gitlab-label {
+  font-family: var(--global-font-family);
+  font-size: 0.52rem;
+  font-weight: 500;
+  letter-spacing: 0;
+  margin-top: 0.28rem;
+  white-space: nowrap;
+}
+
 .focus-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -282,7 +299,9 @@ html[data-theme="dark"] {
   display: inline-block;
   height: 0.56rem;
   position: relative;
-  transition: transform 120ms ease, box-shadow 120ms ease;
+  transition:
+    transform 120ms ease,
+    box-shadow 120ms ease;
   width: 0.56rem;
 }
 
@@ -298,7 +317,9 @@ html[data-theme="dark"] {
 
 .publication-timeline-event:hover,
 .publication-timeline-event:focus-visible {
-  box-shadow: 0 0 0 2px var(--global-background-color), 0 0 0 4px var(--global-theme-color);
+  box-shadow:
+    0 0 0 2px var(--global-background-color),
+    0 0 0 4px var(--global-theme-color);
   outline: none;
   transform: scale(1.18);
   z-index: 2;

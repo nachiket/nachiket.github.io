@@ -20,8 +20,6 @@ system: choosing the right arithmetic and architecture, generating and
 verifying RTL, mapping the design onto reconfigurable hardware, and moving data
 efficiently through the resulting accelerator.
 
-## Current Research Directions
-
 ### ML and Domain-Specific Accelerators
 
 We design efficient accelerator building blocks and systems for modern machine-learning
