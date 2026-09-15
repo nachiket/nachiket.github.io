@@ -22,9 +22,9 @@ a University of Waterloo login may be required.
 |:--|:--|:--|
 |ECE 493 / ECE 720 T9 | Fall 2025 | [Computer Arithmetic Hardware](https://outline.uwaterloo.ca/browse/?q=ECE%20493&term=1259) |
 |ECE 722 | Fall 2025 | [Reconfigurable Computing](https://outline.uwaterloo.ca/browse/?q=ECE%20722&term=1259) |
-|ECE 327 | Spring 2025 | [Digital Hardware Systems](https://outline.uwaterloo.ca/browse/?q=ECE%20327&term=1255) |
 |ECE 493 / ECE 720 T8 | Spring 2025 | [ML Techniques for Chip Design](https://outline.uwaterloo.ca/browse/?q=ECE%20493&term=1255) |
 |ECE 493 / ECE 720 T12 | Spring 2025 | [On-Chip Interconnect](https://outline.uwaterloo.ca/browse/?q=ECE%20493&term=1255) |
+|ECE 327 | Winter 2025 | [Digital Hardware Systems](https://outline.uwaterloo.ca/browse/?q=ECE%20327&term=1251) |
 |ECE 627 | Winter 2025 | [Register-transfer-level Digital Systems](https://outline.uwaterloo.ca/browse/?q=ECE%20627&term=1251) |
 |ECE 327 | 2024 | [Digital Hardware Systems](https://outline.uwaterloo.ca/browse/?q=ECE%20327) |
 |ECE 720 T7 | Fall 2024 | [On-Chip Interconnect](https://outline.uwaterloo.ca/browse/?q=ECE%20720&term=1249) |
