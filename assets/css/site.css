@@ -26,6 +26,17 @@ html[data-theme="dark"] {
   text-decoration: none;
 }
 
+.affiliation {
+  white-space: nowrap;
+}
+
+.affiliation-glyph {
+  color: var(--global-theme-color);
+  font-size: 0.88em;
+  margin-right: 0.16em;
+  vertical-align: 0.04em;
+}
+
 .focus-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -93,6 +104,19 @@ html[data-theme="dark"] {
   display: inline-block;
   font-weight: 500;
   margin-bottom: 2rem;
+}
+
+.publications ol.bibliography .links a.award {
+  background-color: #b71c1c !important;
+  border-color: #b71c1c !important;
+  color: #fff !important;
+}
+
+.publications ol.bibliography .links a.award:hover,
+.publications ol.bibliography .links a.award:focus {
+  background-color: #8e1515 !important;
+  border-color: #8e1515 !important;
+  color: #fff !important;
 }
 
 .award-list {
