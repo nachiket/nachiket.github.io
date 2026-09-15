@@ -7,6 +7,14 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 
+  publicationList?.querySelectorAll('.links a[href*="github.com/"]').forEach((link) => {
+    const repository = new URL(link.href).pathname.replace(/^\//, "").replace(/\/$/, "");
+    link.classList.add("github-link");
+    link.innerHTML = '<i class="fa-brands fa-github" aria-hidden="true"></i><span>GitHub</span>';
+    link.setAttribute("aria-label", `GitHub repository: ${repository}`);
+    link.title = repository;
+  });
+
   const timeline = document.querySelector("[data-publication-timeline]");
   if (!timeline || !publicationList) return;
 

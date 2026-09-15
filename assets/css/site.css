@@ -139,6 +139,16 @@ html[data-theme="dark"] {
   border-color: #9a5100 !important;
 }
 
+.publications ol.bibliography .links a.github-link {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.3rem;
+}
+
+.publications ol.bibliography .links a.github-link i {
+  font-size: 1.05em;
+}
+
 .post h2 > a[href$="/publications/"] {
   text-transform: capitalize;
 }
