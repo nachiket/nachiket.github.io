@@ -94,7 +94,9 @@ html[data-theme="dark"] {
 }
 
 .affiliation-logo-amd {
-  width: 1.3em;
+  height: 1.32em;
+  vertical-align: -0.25em;
+  width: 1.32em;
 }
 
 .affiliation-logo-wordmark {
@@ -103,7 +105,9 @@ html[data-theme="dark"] {
 }
 
 .affiliation-logo-xilinx {
-  width: 2.65em;
+  height: 1.18em;
+  vertical-align: -0.2em;
+  width: 1.18em;
 }
 
 .affiliation-logo-plunify {
