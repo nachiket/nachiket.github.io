@@ -14,14 +14,18 @@ pandoc teaching.md -s -c stylesheets/styles.css -o teaching.html --metadata page
 | | | |
 |:--|:--|:--|
 |  | **University of Waterloo** |
-|ECE327 | 2025 | [Digital Hardware Systems](https://uwaterloo.ca/electrical-computer-engineering/profile/nachiket) |
-|ECE493 | 2025 | [Special Topics in Electrical and Computer Engineering](https://uwaterloo.ca/electrical-computer-engineering/profile/nachiket) |
-|ECE627 | 2025 | [Register-transfer-level Digital Systems](https://uwaterloo.ca/electrical-computer-engineering/profile/nachiket) |
-|ECE720 | 2025 | [Special Topics in Computers and Digital Systems Software](https://uwaterloo.ca/electrical-computer-engineering/profile/nachiket) |
-|ECE722 | 2025 | [Reconfigurable Computing](https://uwaterloo.ca/electrical-computer-engineering/profile/nachiket) |
-|ECE327 | 2024 | [Digital Hardware Systems](https://uwaterloo.ca/electrical-computer-engineering/profile/nachiket) |
-|ECE720 | 2024 | [Special Topics in Computers and Digital Systems Software](https://uwaterloo.ca/electrical-computer-engineering/profile/nachiket) |
-|ECE327 | Spring 2023 | [Digital Systems Engineering](https://piazza.com/class/lh9ev5oetsb1i) 
+|ECE327 | Spring 2025 | [Digital Hardware Systems](https://outline.uwaterloo.ca/browse/?q=ECE%20327&term=1255) |
+|ECE493 | Fall 2025 | [Special Topics in Electrical and Computer Engineering](https://outline.uwaterloo.ca/browse/?q=ECE%20493&term=1259) |
+|ECE627 | Winter 2025 | [Register-transfer-level Digital Systems](https://outline.uwaterloo.ca/browse/?q=ECE%20627&term=1251) |
+|ECE720T8 | Spring 2025 | [ML for Chip Design](https://outline.uwaterloo.ca/browse/?q=ECE%20720&term=1255) |
+|ECE720T12 | Spring 2025 | [On-Chip Interconnect](https://outline.uwaterloo.ca/browse/?q=ECE%20720&term=1255) |
+|ECE720T9 | Fall 2025 | [Computer Arithmetic Hardware](https://outline.uwaterloo.ca/browse/?q=ECE%20720&term=1259) |
+|ECE722 | Fall 2025 | [Reconfigurable Computing](https://outline.uwaterloo.ca/browse/?q=ECE%20722&term=1259) |
+|ECE327 | 2024 | [Digital Hardware Systems](https://outline.uwaterloo.ca/browse/?q=ECE%20327) |
+|ECE720T7 | Fall 2024 | [Special Topics in Computers and Digital Systems Software](https://outline.uwaterloo.ca/browse/?q=ECE%20720&term=1249) |
+|ECE327 | Spring 2023 | [Digital Hardware Systems](https://outline.uwaterloo.ca/browse/?q=ECE%20327&term=1235) |
+|ECE627 | Fall 2023 | [Register-transfer-level Digital Systems](https://outline.uwaterloo.ca/browse/?q=ECE%20627&term=1239) |
+|ECE722 | Fall 2023 | [Reconfigurable Computing](https://outline.uwaterloo.ca/browse/?q=ECE%20722&term=1239) |
 |ECE722 | Winter 2021 | [Reconfigurable Computing](https://piazza.com/class/kjiwua8nzacs7)
 |ECE627 | Fall 2021 | [Register-transfer-level Digital Systems](https://piazza.com/class/kta3qgr34fh25v) 
 |ECE327 | Spring 2021 | [Digital Systems Engineering](https://piazza.com/class/ko00c644lz71aw) 

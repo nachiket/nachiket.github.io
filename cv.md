@@ -686,7 +686,7 @@ Winter 2006, California Institute of Technology, Computer Science, *CS137: Elect
 **Nanyang Technological University**, Assistant Professor (Oct 2012-Sep 2016)<br>
 **Plunify, Inc.**, Chief Technology Officer (2014-2016)<br>
 **Imperial College London**, Junior Research Fellow (October 2010-September 2012)<br>
-**Maxeler Inc.**, Consultant (July 2011-July 2012)<br>
+**Maxeler Inc.** (now part of Groq, whose inference technology is [licensed by NVIDIA](https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale)), Consultant (July 2011-July 2012)<br>
 **University of Pennsylvania**, Visiting Graduate Student (2006-2010)<br>
 **Xilinx Inc.**, Summer Intern (Summer 2005)<br>
 **Koch Lab (Caltech)**, Research Assistant (February 2004 to September 2004)<br>
