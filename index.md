@@ -32,6 +32,9 @@ pandoc --columns=160 index.md -s -c stylesheets/styles.css --metadata pagetitle=
 
 | |     |
 | :----- | :--------- |
+| **2026**  | |
+| 09/15 | <font color="red"> FPL Stamatis Vassiliadis Memorial Best Paper Award 2026 for the Cocotb-PYNQ-PR: From Co-Simulation to
+Deployment, A Unified DFX Framework for PYNQ paper. </font> [Certificate](./images/fpl2026_award.pdf) |
 | **2024**  | |
 | 12/17 | <font color="red"> FPT Best Paper Award 2024 for the GraphNoC: Graph Neural Networks for Application-Specific FPGA NoC Performance Prediction paper. </font> [Certificate](./images/fpt2024_award.pdf) |
 |11/01| One full papers accepted to FPT 2024.|
