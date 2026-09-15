@@ -41,7 +41,7 @@ Concurrent and Spatial Architectures, Parallel Processing, Heterogeneous Archite
 
 NSERC Discovery Grant Renewal (2024--2029), *Rethinking Configurable Logic Architectures in the Age of AI*, CAD $265K <br>
 Huawei Research Grant (PI subcontract; University of Toronto lead institution) (2019--2021), *CGRA and Embedded FPGA Architecture and Tools*, CAD $157.5K <br>
-NSERC Discovery Grant (2017) CAD $33K/year (5 years) <br>
+NSERC Discovery Grant (2017--2022), *Enhancing Hardware Compilation for Reconfigurable Architectures using Machine Learning and Cloud Computing*, CAD $165K <br>
 AcRF Tier 1 Grant (Nov 2015) S$100K (1 year) <br>
 Delta Electronics Grant (Co-PI) (August 2015) S$100K (2 years) <br>
 MIT SMART Innovation Grant (Co-PI) (August 2015) S$60K (2 years) <br>
