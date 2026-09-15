@@ -39,8 +39,8 @@ pandoc \-\-columns=160 research.md -s -c stylesheets/styles.css \-\-metadata pag
 <p><a href="./index.html">Main</a> | <a href="./cv.html">CV</a> | <a href="./research.html">Research</a> | <a href="./teaching.html">Teaching</a> | <a
 href="./awards.html">Awards</a> <br></p>
 <p>The <strong>Waterloo Configurable Architectures Group (WatCAG)</strong> develops intelligent tools and reconfigurable architectures for efficient computing.
-Our current work connects machine-learning accelerators, agentic hardware-design flows, learning-guided FPGA CAD, and communication-centric accelerator
-architectures.</p>
+Our current work connects machine-learning accelerators, agentic hardware-design flows, hardware prototyping and verification, learning-guided FPGA CAD, and
+communication-centric accelerator architectures.</p>
 <p>We are interested in the full path from an application idea to a working system: choosing the right arithmetic and architecture, generating and verifying
 RTL, mapping the design onto reconfigurable hardware, and moving data efficiently through the resulting accelerator.</p>
 <h2 id="current-research-directions">Current Research Directions</h2>
@@ -55,10 +55,14 @@ problems”</strong>, FPL 2019</li>
 <li><a href="./publications/caffepresso_cases-2016.pdf">[PDF]</a> <strong>“CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based
 platforms”</strong>, CASES 2016 — <strong>Best Paper Award</strong></li>
 </ul>
-<h3 id="agentic-hardware-design-and-verification">Agentic Hardware Design and Verification</h3>
-<p>We are exploring agentic workflows that can help translate hardware intent into efficient, verifiable implementations. This emerging direction builds on our
-work in Python-driven simulation, RTL verification, design-space exploration, partial reconfiguration, and deployment on accessible FPGA platforms. The goal is
-to keep engineers in control while automating more of the iterative path from specification to measured hardware.</p>
+<h3 id="agentic-hardware-design-flows">Agentic Hardware Design Flows</h3>
+<p>We are exploring agentic workflows in which specialized agents help translate hardware intent into efficient, verifiable implementations. This is an emerging
+research direction spanning specification, RTL generation, verification, synthesis, design-space exploration, and measured feedback from hardware. The goal is
+to automate more of this iterative process while keeping engineers in control of design decisions and correctness.</p>
+<h3 id="hardware-prototyping-and-verification">Hardware Prototyping and Verification</h3>
+<p>We develop practical flows that connect Python-driven simulation and RTL verification to partial reconfiguration and deployment on accessible FPGA platforms.
+These tools shorten the path from a testbench to a measured hardware implementation; they are enabling infrastructure for future automated and agentic design
+flows, rather than agentic systems themselves.</p>
 <ul>
 <li><a href="./publications/cocotb-pynq-pr_fpl-2026.pdf">[PDF]</a> <strong>“Cocotb-PYNQ-PR: From Co-Simulation to Deployment, A Unified DFX Framework for
 PYNQ”</strong>, FPL 2026 — <strong>Stamatis Vassiliadis Memorial Best Paper Award</strong></li>
@@ -68,10 +72,6 @@ Cocotb”</strong>, FPL 2025</li>
 <h3 id="learning-guided-fpga-design">Learning-Guided FPGA Design</h3>
 <p>We apply machine learning, graph models, evolutionary search, and parallel optimization to difficult FPGA CAD problems. This work spans performance
 prediction, physical design, timing closure, network-on-chip customization, and tool-parameter selection.</p>
-<figure>
-<img src="images/intime.png" alt="InTime machine-learning-guided FPGA CAD flow" />
-<figcaption aria-hidden="true">InTime machine-learning-guided FPGA CAD flow</figcaption>
-</figure>
 <ul>
 <li><a href="./publications/graph-noc_fpt-2024.pdf">[PDF]</a> <strong>“GraphNoC: Graph Neural Networks for Application-Specific FPGA NoC Performance
 Prediction”</strong>, FPT 2024 — <strong>Best Paper Award</strong></li>
@@ -85,10 +85,6 @@ Computing”</strong>, FCCM 2015</li>
 <h3 id="communication-centric-reconfigurable-architectures">Communication-Centric Reconfigurable Architectures</h3>
 <p>Accelerators are often limited by data movement rather than arithmetic. We design FPGA networks-on-chip, dataflow overlays, memory systems, and transport
 mechanisms that provide predictable, efficient communication from individual compute blocks to multi-die devices and networked systems.</p>
-<figure>
-<img src="images/bft.png" alt="Butterfly fat-tree FPGA network" />
-<figcaption aria-hidden="true">Butterfly fat-tree FPGA network</figcaption>
-</figure>
 <ul>
 <li><a href="./publications/protocol-independent-transport_arxiv-2026.pdf">[PDF]</a> <strong>“A Protocol-Independent Transport Architecture”</strong>, arXiv
 2026</li>
@@ -99,10 +95,6 @@ mechanisms that provide predictable, efficient communication from individual com
 <h2 id="research-foundations">Research Foundations</h2>
 <p>Our earlier work established many of the ideas underlying these directions: spatial and token-dataflow processing, lightweight FPGA overlay networks,
 application-specific accelerators, embedded machine learning, sparse graph processing, and compilation methods that expose communication and energy costs.</p>
-<figure>
-<img src="images/dataflow.jpg" alt="Token dataflow architecture" />
-<figcaption aria-hidden="true">Token dataflow architecture</figcaption>
-</figure>
 <ul>
 <li><a href="./publications/dataflow-overlay_fpt-2018.pdf">[PDF]</a> <strong>“DaCO: A High-Performance Token Dataflow Coprocessor Overlay for FPGAs”</strong>,
 FPT 2018</li>
