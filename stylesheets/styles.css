@@ -278,6 +278,26 @@ th {
   display: none;
 }
 
+.news-by-year table {
+  table-layout: fixed;
+}
+
+.news-by-year col:first-child {
+  width: 5rem !important;
+}
+
+.news-by-year col:last-child {
+  width: auto !important;
+}
+
+.news-by-year td {
+  vertical-align: top;
+}
+
+.news-by-year td:first-child {
+  white-space: nowrap;
+}
+
 small {
   font-size: 11px;
 }
