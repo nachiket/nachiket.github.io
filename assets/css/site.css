@@ -110,6 +110,11 @@ html[data-theme="dark"] {
   background-color: #b71c1c !important;
   border-color: #b71c1c !important;
   color: #fff !important;
+  font-size: 0.82rem;
+  font-weight: 600;
+  line-height: 1.3;
+  padding: 0.38rem 0.72rem;
+  white-space: normal;
 }
 
 .publications ol.bibliography .links a.award:hover,
@@ -117,6 +122,21 @@ html[data-theme="dark"] {
   background-color: #8e1515 !important;
   border-color: #8e1515 !important;
   color: #fff !important;
+}
+
+.publications ol.bibliography .links a.award.award-nominee {
+  background-color: #c56a00 !important;
+  border-color: #c56a00 !important;
+}
+
+.publications ol.bibliography .links a.award.award-nominee:hover,
+.publications ol.bibliography .links a.award.award-nominee:focus {
+  background-color: #9a5100 !important;
+  border-color: #9a5100 !important;
+}
+
+.post h2 > a[href$="/publications/"] {
+  text-transform: capitalize;
 }
 
 .award-list {

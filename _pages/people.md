@@ -11,17 +11,17 @@ nav_order: 4
 
 The **Waterloo Configurable Architectures Group (WatCAG)** works across computer architecture, digital hardware, FPGA CAD, machine learning, and design automation.
 
-## Current PhD students
+## Current PhD Students
 
 - **Emir Guevara** · PhD, Fall 2025–present
 - **Ahmed Elsousy** · PhD, Fall 2025–present · co-supervised with Andrew Boutros
 - **Thomas Badros** · PhD, Fall 2025–present · co-supervised with Andrew Boutros
 
-## Current MASc students
+## Current MASc Students
 
 - **Jehanzeb Mirza** · MASc, Winter 2023–present · co-supervised with Vincent Gaudet · Queen Elizabeth II Graduate Scholarship in Science and Technology recipient
 
-## Graduate alumni
+## Graduate Alumni
 
 ### University of Waterloo
 
@@ -36,7 +36,7 @@ The **Waterloo Configurable Architectures Group (WatCAG)** works across computer
 - **Benjamin Morcos**, MASc (2017–2019) · _NengoFPGA: an FPGA Backend for the Nengo Neural Simulator_
 - **Tushar Garg**, MASc (2017–2019) · _HopliteBuf FPGA Network-on-Chip: Architecture and Analysis_
 
-### Earlier institutions
+### Earlier Institutions
 
 - **Siddhartha**, PhD, Nanyang Technological University (2013–2019) · _Dataflow Optimized Overlays for FPGAs_
 - **Andrew Bean**, PhD, Imperial College London (2011–2016) · _Adaptive/Learning Systems using FPGAs_

@@ -36,7 +36,7 @@ a University of Waterloo login may be required.
 - **Fall** · ECE 722 — [Reconfigurable Computing](https://outline.uwaterloo.ca/browse/?q=ECE%20722&term=1239)
 - **Spring** · ECE 327 — [Digital Hardware Systems](https://outline.uwaterloo.ca/browse/?q=ECE%20327&term=1235)
 
-### Earlier Waterloo offerings
+### Earlier Waterloo Offerings
 
 - **Winter 2021** · ECE 722 — [Reconfigurable Computing](https://piazza.com/class/kjiwua8nzacs7)
 - **Fall 2021** · ECE 627 — [Register-transfer-level Digital Systems](https://piazza.com/class/kta3qgr34fh25v)

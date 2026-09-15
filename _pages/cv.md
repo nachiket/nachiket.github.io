@@ -125,7 +125,7 @@ _International Journal of Reconfigurable Computing_ Volume 2011 Article ID 74514
 Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br>
 _IEEE Transactions on Computers_, February 2009. <br>
 
-## Conference/Workshop Publications (Full papers)
+## Conference/Workshop Publications (Full Papers)
 
 [[PDF]](./publications/jack-of-all-scales_fpl-2026.pdf)
 **"Jack of All Scales: A Versatile FPGA Tensor Block for MXFP Precisions"** <br>

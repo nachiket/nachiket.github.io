@@ -6,7 +6,7 @@ description: Research and project advice, presentations, and personal retrospect
 nav: false
 ---
 
-## Research and project advice
+## Research and Project Advice
 
 - [Pointers to talks and slides on useful research skills]({{ '/advice/more_pointers.html' | relative_url }})
 - [Planning a final-year project]({{ '/advice/fyp_plan.html' | relative_url }})

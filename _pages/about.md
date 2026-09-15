@@ -33,7 +33,7 @@ I am a Professor at <span class="affiliation"><i class="fa-solid fa-building-col
   <a href="{{ '/cv.pdf' | relative_url }}">Download CV</a>
 </div>
 
-## Current focus
+## Current Focus
 
 <div class="focus-grid">
   <article>
@@ -50,7 +50,7 @@ I am a Professor at <span class="affiliation"><i class="fa-solid fa-building-col
   </article>
 </div>
 
-## Latest news
+## Latest News
 
 <div class="news-list news-list-home">
 {% assign sorted_news = site.news | sort: "date" | reverse %}
@@ -69,3 +69,5 @@ I am a Professor at <span class="affiliation"><i class="fa-solid fa-building-col
 </div>
 
 [All news →]({{ '/news.html' | relative_url }}){: .archive-link }
+
+<script defer src="{{ '/assets/js/site.js' | relative_url }}"></script>
