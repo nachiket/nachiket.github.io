@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>SPICE3f5 Framework</title>
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="../cycling/cycling.css" />
+</head>
+<body>
+<section id="spice3f5-framework-landing-page" class="wrapper">
+<h1>SPICE3f5 Framework Landing Page</h1>
+<p>Last reviewed: 15 September 2026</p>
+<p><a
+href="http://bwrcs.eecs.berkeley.edu/Classes/IcBook/SPICE/">SPICE</a>
+was developed by the EECS department at UC Berkeley under the leadership
+of Donald Pederson, Larry Nagel, Richard Newton and many others. This
+fork (with KLU solver integration) was maintained and modified by
+Nachiket Kapre at Nanyang Technological University. This page is
+retained as a historical archive.</p>
+<p>Software on this page is made available and distributed under <a
+href="license.txt">license</a>.</p>
+<h2 id="documents">Documents</h2>
+<ol type="1">
+<li><p>The best introduction to SPICE is the Berkeley <a
+href="http://bwrcs.eecs.berkeley.edu/Classes/IcBook/SPICE/">webpage</a>.</p></li>
+<li><p>A summary <a
+href="../../publications/spice_trcad-2012.pdf">paper</a> and <a
+href="https://link.springer.com/book/10.1007/978-1-4614-1791-0">book
+chapter</a> are good high-level overviews of my FPGA SPICE acceleration
+work.</p></li>
+<li><p>The FCCM 2009, FPL 2009, FPT 2009, and FPT 2011 conference papers
+show how to accelerate the three different phases of SPICE:</p>
+<ol type="a">
+<li><a
+href="../../publications/spice-spatial-model-eval_fccm-2009.pdf">Model-Evaluation-FPGA</a>,
+<a
+href="../../publications/spice-perf-compare-arch_fpl-2009.pdf">Model-Evaluation-GPU</a></li>
+<li><a href="../../publications/spice-matrix-solve_fpt-2009.pdf">Sparse
+Matrix-Solve</a></li>
+<li><a href="../../publications/spice-iterctrl_fpt-2011.pdf">Iteration
+Control</a></li>
+</ol></li>
+</ol>
+<h2 id="simulator">Simulator</h2>
+<p>The simulator source code was historically hosted on Assembla. The
+repository addresses below are retained for archival reference and may
+no longer be active.</p>
+<blockquote>
+<p><code>git@git.assembla.com:spice3f5.git</code></p>
+</blockquote>
+<blockquote>
+<p><code>git@git.assembla.com:spice3f5_klu.git</code></p>
+</blockquote>
+<h2 id="legacy-one-line-install-script-for-spice3f5">Legacy One-line
+Install Script for SPICE3f5</h2>
+<blockquote>
+<p>sudo apt-get install libmysqlclient-dev libsuitesparse-dev
+libreadline6-dev libxaw7-dev colormake; mkdir -p workspace; git clone
+git@git.assembla.com:spice3f5.git; cd spice3f5; colormake; colormake
+install; ./debian/spice3f5/bin/spice3 -b cap.spice</p>
+</blockquote>
+</section>
+</body>
+</html>

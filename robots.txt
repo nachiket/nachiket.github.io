@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://nachiket.github.io/sitemap.xml

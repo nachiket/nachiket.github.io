@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>FPGA Tracker</title>
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="stylesheets/styles.css" />
+</head>
+<body>
+<div class="wrapper">
+<!-- Compilation Instructions
+pandoc fpga_tracker.md -s -c stylesheets/styles.css -o fpga_tracker.html --metadata pagetitle="FPGA Tracker"
+-->
+<header>
+<h1
+id="papers-at-the-four-major-fpga-conferences-fpga-fccm-fpl-and-fpt">Papers
+at the Four Major FPGA Conferences (FPGA, FCCM, FPL, and FPT)</h1>
+</header>
+<section>
+<p>Legend: F = full paper, S = short paper, P = poster</p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"><strong>FPGA</strong></td>
+<td style="text-align: left;"><strong>FCCM</strong></td>
+<td style="text-align: left;"><strong>FPL</strong></td>
+<td style="text-align: left;"><strong>FPT</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;">2004</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">1F</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">2005</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">1F</td>
+</tr>
+<tr>
+<td style="text-align: left;">2006</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2F</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">2007</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">2008</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">2009</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">1F</td>
+<td style="text-align: left;">1F</td>
+<td style="text-align: left;">1F</td>
+</tr>
+<tr>
+<td style="text-align: left;">2010</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<table>
+<tbody>
+<tr>
+<td style="text-align: left;">2011</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">1F</td>
+</tr>
+<tr>
+<td style="text-align: left;">2012</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">1F</td>
+<td style="text-align: left;">1F</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">2013</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2F</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">1F</td>
+</tr>
+<tr>
+<td style="text-align: left;">2014</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">3S</td>
+<td style="text-align: left;">1F+1S</td>
+<td style="text-align: left;">2S</td>
+</tr>
+<tr>
+<td style="text-align: left;">2015</td>
+<td style="text-align: left;">1F+1S</td>
+<td style="text-align: left;">3F</td>
+<td style="text-align: left;">2F</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">2016</td>
+<td style="text-align: left;">1F+1S</td>
+<td style="text-align: left;">1F+1S</td>
+<td style="text-align: left;">3F+1S</td>
+<td style="text-align: left;">1F</td>
+</tr>
+<tr>
+<td style="text-align: left;">2017</td>
+<td style="text-align: left;">1S</td>
+<td style="text-align: left;">2F</td>
+<td style="text-align: left;">2F</td>
+<td style="text-align: left;">1F</td>
+</tr>
+<tr>
+<td style="text-align: left;">2018</td>
+<td style="text-align: left;">1P</td>
+<td style="text-align: left;">2F</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2F</td>
+</tr>
+<tr>
+<td style="text-align: left;">2019</td>
+<td style="text-align: left;">1F+1P</td>
+<td style="text-align: left;">1F+1S</td>
+<td style="text-align: left;">2F</td>
+<td style="text-align: left;">1F</td>
+</tr>
+<tr>
+<td style="text-align: left;">2020</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">1S</td>
+<td style="text-align: left;">2F</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">2021</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">1F</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">2022 (Leave)</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">2023</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+</section>
+</div>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66521302-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66521302-1');
+</script>
+</body>
+</html>
