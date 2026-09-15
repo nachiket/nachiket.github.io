@@ -33,26 +33,26 @@ Degree Conferred: August 2002
 
 ## Research Interests
 
-Concurrent and Spatial Architectures, Parallel Processing, Heterogeneous Architectures and Compilation Tools, Communication-Centric Design
+Machine-learning accelerators, computer arithmetic, agentic hardware-design flows, reconfigurable architectures and FPGA CAD, and communication-centric systems
 
 ## Selected Grants
 
-NSERC Discovery Grant Renewal (2024--2029), _Rethinking Configurable Logic Architectures in the Age of AI_, CAD $265K <br>
-Mitacs Globalink (2020--2021), _High-Level Synthesis of Nengo Neural Networks_, CAD $15K <br>
-Huawei Research Grant (PI subcontract; University of Toronto lead institution) (2019--2021), _CGRA and Embedded FPGA Architecture and Tools_, CAD $157.5K <br>
-Research Tools and Instruments Grant (Co-PI) (2019--2020), _Real-Time Baseband Signal Processing and Reconfigurable Computing Development Platform_, CAD $148,905 <br>
-Xilinx Unrestricted Research Gift (2018--2019), CAD $10K <br>
-NSERC Discovery Grant (2017--2022), _Enhancing Hardware Compilation for Reconfigurable Architectures using Machine Learning and Cloud Computing_, CAD $165K <br>
-University of Waterloo Startup Grant (2016--present), CAD $150K <br>
-AcRF Tier 1 Grant (Nov 2015) S$100K (1 year) <br>
-Delta Electronics Grant (Co-PI) (August 2015) S$100K (2 years) <br>
-MIT SMART Innovation Grant (Co-PI) (August 2015) S$60K (2 years) <br>
-NTU CELT Excellence in Education Grant (November 2014) S$37K (1 year) <br>
-AcRF Tier 1 Grant (March 2014) S$150K (2 years) <br>
-NTU CELT Excellence in Education Grant (October 2013) S$40K (1 year) <br>
-NTU CELT Excellence in Education Grant (March 2013) S$25K (1 year) <br>
-NTU CoE Competitive Seed Grant S$50K (Jan-March 2013) <br>
-NTU SCE Startup Grant S$100K (3 years) <br>
+- **NSERC Discovery Grant Renewal** (2024--2029), *Rethinking Configurable Logic Architectures in the Age of AI*, CAD &#36;265K
+- **Mitacs Globalink** (2020--2021), *High-Level Synthesis of Nengo Neural Networks*, CAD &#36;15K
+- **Huawei Research Grant** (PI subcontract; University of Toronto lead institution) (2019--2021), *CGRA and Embedded FPGA Architecture and Tools*, CAD &#36;157.5K
+- **Research Tools and Instruments Grant** (Co-PI) (2019--2020), *Real-Time Baseband Signal Processing and Reconfigurable Computing Development Platform*, CAD &#36;148,905
+- **Xilinx Unrestricted Research Gift** (2018--2019), CAD &#36;10K
+- **NSERC Discovery Grant** (2017--2022), *Enhancing Hardware Compilation for Reconfigurable Architectures using Machine Learning and Cloud Computing*, CAD &#36;165K
+- **University of Waterloo Startup Grant** (2016--present), CAD &#36;150K
+- **AcRF Tier 1 Grant** (Nov 2015), S&#36;100K (1 year)
+- **Delta Electronics Grant** (Co-PI) (August 2015), S&#36;100K (2 years)
+- **MIT SMART Innovation Grant** (Co-PI) (August 2015), S&#36;60K (2 years)
+- **NTU CELT Excellence in Education Grant** (November 2014), S&#36;37K (1 year)
+- **AcRF Tier 1 Grant** (March 2014), S&#36;150K (2 years)
+- **NTU CELT Excellence in Education Grant** (October 2013), S&#36;40K (1 year)
+- **NTU CELT Excellence in Education Grant** (March 2013), S&#36;25K (1 year)
+- **NTU CoE Competitive Seed Grant**, S&#36;50K (Jan--March 2013)
+- **NTU SCE Startup Grant**, S&#36;100K (3 years)
 
 ## Preprints
 

@@ -15,6 +15,10 @@ html[data-theme="dark"] {
   margin: 1.5rem 0 2.25rem;
 }
 
+.post-header .desc a {
+  display: inline-block;
+}
+
 .quick-links a {
   border: 1px solid var(--global-theme-color);
   border-radius: 999px;
@@ -121,5 +125,19 @@ html[data-theme="dark"] {
   .award-row {
     gap: 0.35rem;
     grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 575px) {
+  .post .profile.float-right,
+  .post .profile.float-left {
+    float: none;
+    margin: 0 auto 1.25rem;
+    max-width: 250px;
+    width: 68vw;
+  }
+
+  .post .profile .more-info {
+    text-align: center;
   }
 }
