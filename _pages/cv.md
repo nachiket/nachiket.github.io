@@ -150,7 +150,7 @@ Zhuanhao Wu, Marat Bekmyrza, <u>Nachiket Kapre</u>, Hiren Patel <br>
 _Design, Automation, and Test in Europe_, Apr 2023 <br>
 **<span class="award-note">(Best Paper Nominee)</span>**<br>
 
-[[PDF]](./publications/hbm-noc_fccm-2022.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/hbm-fpga-noc){: .cv-code-link aria-label="GitHub repository: HBM FPGA NoC" }
+[[PDF]](./publications/hbm-noc_fccm-2022.pdf)
 **"Managing HBM Bandwidth on Multi-Die FPGAs with FPGA Overlay NoCs"** <br>
 Srinirdheeshwar Kuttuva Prakash, Hiren Patel, <u>Nachiket Kapre</u> <br>
 _International Conference on Field-Programmable Custom Computing Machines_, May 2022 <br>
