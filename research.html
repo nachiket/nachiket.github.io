@@ -6,13 +6,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>Research</title>
   <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
@@ -20,9 +26,6 @@
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="stylesheets/styles.css" />
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 </head>
 <body>
 <div class="wrapper">
@@ -58,8 +61,8 @@ systems, and FPGA-specific network-on-chip architectures for use in accelerators
 <p><img src="images/bft.png" /></p>
 <ul>
 <li><a href="./publications/deflection-bft_fpl-2017.pdf">[PDF]</a> <strong>“Deflection Routed Butterfly Fat Trees on FPGAs”</strong>, FPL 2017</li>
-<li><a href="./publications/hoplite_trets2017.pdf">[PDF]</a> <strong>Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs</strong>, TRETS 2017</li>
-<li><a href="./publications/soft-vector_trets2016.pdf">[PDF]</a> <strong>Optimizing Soft Vector Processing in FPGA-based Embedded Systems</strong>, TRETS
+<li><a href="./publications/hoplite_trets-2017.pdf">[PDF]</a> <strong>Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs</strong>, TRETS 2017</li>
+<li><a href="./publications/soft-vector_trets-2016.pdf">[PDF]</a> <strong>Optimizing Soft Vector Processing in FPGA-based Embedded Systems</strong>, TRETS
 2016</li>
 </ul>
 <h3 id="dataflow-architectures">Dataflow Architectures</h3>
@@ -72,18 +75,18 @@ FPGAs has been a focus of our group.</p>
 <li><a href="./publications/dataflow-overlay_fpt-2018.pdf">[PDF]</a> <strong>”DaCO: A High-Performance Token Dataflow Coprocessor Overlay for FPGAs”</strong>,
 FPT 2018</li>
 <li><a href="./publications/hopliteq_fccm-2018.pdf">[PDF]</a> <strong>“HopliteQ: Priority-Aware Routing in FPGA Overlay NoCs”</strong>, FCCM2018</li>
-<li><a href="./publications/dataflow-limits_dfm2014.pdf">[PDF]</a> <strong>“Limits of Statically Scheduled Token Dataflow Processing”</strong>, DFM2014</li>
+<li><a href="./publications/dataflow-limits_dfm-2014.pdf">[PDF]</a> <strong>“Limits of Statically Scheduled Token Dataflow Processing”</strong>, DFM2014</li>
 </ul>
 <h2 id="applications">Applications</h2>
 <p>We are excited about novel uses of FPGAs in emerging application scenarios in the cloud as well as embedded contexts. The group has published papers in
 machine learning,</p>
 <p><img src="images/caffepresso.png" /></p>
 <ul>
-<li><a href="./publications/caffepresso_cases2016.pdf">[PDF]</a> <strong>CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based
+<li><a href="./publications/caffepresso_cases-2016.pdf">[PDF]</a> <strong>CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based
 platforms</strong>, CASES 2016</li>
-<li><a href="./publications/green_fpl2015.pdf">[PDF]</a> <strong>Limits of FPGA Acceleration of 3D Green’s Function Computation for Geophysical
+<li><a href="./publications/green_fpl-2015.pdf">[PDF]</a> <strong>Limits of FPGA Acceleration of 3D Green’s Function Computation for Geophysical
 Applications</strong>, FPL 2015</li>
-<li><a href="./publications/opencv-saliency_fccm2015.pdf">[PDF]</a> <strong>Energy-Efficient Acceleration of OpenCV Saliency Computation using Soft Vector
+<li><a href="./publications/opencv-saliency_fccm-2015.pdf">[PDF]</a> <strong>Energy-Efficient Acceleration of OpenCV Saliency Computation using Soft Vector
 Processors</strong>, FCCM 2015</li>
 </ul>
 <h2 id="compilation">Compilation</h2>
@@ -91,11 +94,11 @@ Processors</strong>, FCCM 2015</li>
 analysis, performance tuning, machine-learning driven FPGA compilation, among other solutions.</p>
 <p><img src="images/intime.png" /></p>
 <ul>
-<li><a href="./publications/intime_fccm2015.pdf">[PDF]</a> <strong>Driving Timing Convergence of FPGA Designs through Machine Learning and Cloud
+<li><a href="./publications/intime_fccm-2015.pdf">[PDF]</a> <strong>Driving Timing Convergence of FPGA Designs through Machine Learning and Cloud
 Computing</strong>, FCCM 2015</li>
-<li><a href="./publications/ebsp_date2017.pdf">[PDF]</a> <strong>eBSP: Managing NoC traffic for BSP workloads on the 16-core Adapteva Epiphany-III
+<li><a href="./publications/ebsp_date-2017.pdf">[PDF]</a> <strong>eBSP: Managing NoC traffic for BSP workloads on the 16-core Adapteva Epiphany-III
 Processor</strong>, DATE 2017</li>
-<li><a href="./publications/gpu-bitwidth_fpga2016.pdf">[PDF]</a> <strong>GPU-Accelerated High-Level Synthesis for Bitwidth Optimization of FPGA
+<li><a href="./publications/gpu-bitwidth_fpga-2016.pdf">[PDF]</a> <strong>GPU-Accelerated High-Level Synthesis for Bitwidth Optimization of FPGA
 Datapaths</strong>, FPGA 2016</li>
 </ul>
 </section>

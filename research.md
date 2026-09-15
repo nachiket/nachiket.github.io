@@ -41,8 +41,8 @@ use in accelerators.
 ![](images/bft.png)
 
 - [[PDF]](./publications/deflection-bft_fpl-2017.pdf) **"Deflection Routed Butterfly Fat Trees on FPGAs"**, FPL 2017
-- [[PDF]](./publications/hoplite_trets2017.pdf) **Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs**, TRETS 2017
-- [[PDF]](./publications/soft-vector_trets2016.pdf) **Optimizing Soft Vector Processing in FPGA-based Embedded Systems**, TRETS 2016
+- [[PDF]](./publications/hoplite_trets-2017.pdf) **Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs**, TRETS 2017
+- [[PDF]](./publications/soft-vector_trets-2016.pdf) **Optimizing Soft Vector Processing in FPGA-based Embedded Systems**, TRETS 2016
 
 ### Dataflow Architectures
 Token dataflow architectures exploit application parallelism dynamically at the granularity of individual instructions. Each instruction implements a dataflow firing rule that replaces a program counter used in conventional sequential CPU processing. The dataflow dependencies are routed over a operand routing network-on-chip to rapidly move data to parallel compute blocks within the chip. The design and engineering of hardware-friendly dataflow building blocks for FPGAs has been a focus of our group.
@@ -51,7 +51,7 @@ Token dataflow architectures exploit application parallelism dynamically at the 
 
 - [[PDF]](./publications/dataflow-overlay_fpt-2018.pdf) **”DaCO: A High-Performance Token Dataflow Coprocessor Overlay for FPGAs”**, FPT 2018
 - [[PDF]](./publications/hopliteq_fccm-2018.pdf) **"HopliteQ: Priority-Aware Routing in FPGA Overlay NoCs"**, FCCM2018
-- [[PDF]](./publications/dataflow-limits_dfm2014.pdf) **"Limits of Statically Scheduled Token Dataflow Processing"**, DFM2014
+- [[PDF]](./publications/dataflow-limits_dfm-2014.pdf) **"Limits of Statically Scheduled Token Dataflow Processing"**, DFM2014
 
 ## Applications
 
@@ -59,9 +59,9 @@ We are excited about novel uses of FPGAs in emerging application scenarios in th
 
 ![](images/caffepresso.png)
 
-- [[PDF]](./publications/caffepresso_cases2016.pdf) **CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based platforms**, CASES 2016
-- [[PDF]](./publications/green_fpl2015.pdf) **Limits of FPGA Acceleration of 3D Green’s Function Computation for Geophysical Applications**, FPL 2015
-- [[PDF]](./publications/opencv-saliency_fccm2015.pdf) **Energy-Efficient Acceleration of OpenCV Saliency Computation using Soft Vector Processors**, FCCM 2015
+- [[PDF]](./publications/caffepresso_cases-2016.pdf) **CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based platforms**, CASES 2016
+- [[PDF]](./publications/green_fpl-2015.pdf) **Limits of FPGA Acceleration of 3D Green’s Function Computation for Geophysical Applications**, FPL 2015
+- [[PDF]](./publications/opencv-saliency_fccm-2015.pdf) **Energy-Efficient Acceleration of OpenCV Saliency Computation using Soft Vector Processors**, FCCM 2015
 
 ## Compilation
 
@@ -72,9 +72,9 @@ compilation, among other solutions.
 
 ![](images/intime.png)
 
-- [[PDF]](./publications/intime_fccm2015.pdf) **Driving Timing Convergence of FPGA Designs through Machine Learning and Cloud Computing**, FCCM 2015
-- [[PDF]](./publications/ebsp_date2017.pdf) **eBSP: Managing NoC traffic for BSP workloads on the 16-core Adapteva Epiphany-III Processor**, DATE 2017
-- [[PDF]](./publications/gpu-bitwidth_fpga2016.pdf) **GPU-Accelerated High-Level Synthesis for Bitwidth Optimization of FPGA Datapaths**, FPGA 2016
+- [[PDF]](./publications/intime_fccm-2015.pdf) **Driving Timing Convergence of FPGA Designs through Machine Learning and Cloud Computing**, FCCM 2015
+- [[PDF]](./publications/ebsp_date-2017.pdf) **eBSP: Managing NoC traffic for BSP workloads on the 16-core Adapteva Epiphany-III Processor**, DATE 2017
+- [[PDF]](./publications/gpu-bitwidth_fpga-2016.pdf) **GPU-Accelerated High-Level Synthesis for Bitwidth Optimization of FPGA Datapaths**, FPGA 2016
 
 </section>
 </div>

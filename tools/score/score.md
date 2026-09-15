@@ -24,12 +24,12 @@ Documents
 2. To start writing SCORE code, refer to the [tutorial](score_tutorial.pdf).
 
 1. The FPT 2011 best paper winner:
-   [VLIW-SCORE](../publications/vliw-score_fpt2011.pdf) showed how to compile
+   [VLIW-SCORE](../../publications/vliw-score_fpt-2011.pdf) showed how to compile
    SCORE state-machines into statically-scheduled VLIW engines.
 
-2. The FCCM 2012 [FX-SCORE](../publications/fxscore_fccm-2012.pdf), 2013
-[Uncertainty-SCORE](../publications/uncertainty_fccm-2013.pdf) and 2014
-[MixFX-SCORE](../publications/mixfxscore_fccm-2014.pdf) describe a framework
+2. The FCCM 2012 [FX-SCORE](../../publications/fxscore_fccm-2012.pdf), 2013
+[Uncertainty-SCORE](../../publications/uncertainty_fccm-2013.pdf) and 2014
+[MixFX-SCORE](../../publications/mixfxscore_fccm-2014.pdf) describe a framework
 for generating fixed-point bitwidths for streaming programs using Gappa++.
 
 Compiler
