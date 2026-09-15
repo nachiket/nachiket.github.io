@@ -33,93 +33,93 @@ pandoc --columns=160 index.md -s -c stylesheets/styles.css --metadata pagetitle=
 | |     |
 | :------------ | :------------------------------------------------------------------------ |
 | **2026**  | |
-| 09/15 | <font color="red"> FPL Stamatis Vassiliadis Memorial Best Paper Award 2026 for the Cocotb-PYNQ-PR: From Co-Simulation to Deployment, A Unified DFX Framework for PYNQ paper. </font> [Certificate](./images/fpl2206_award.pdf) |
+| Sep 15 | <font color="red"> FPL Stamatis Vassiliadis Memorial Best Paper Award 2026 for the Cocotb-PYNQ-PR: From Co-Simulation to Deployment, A Unified DFX Framework for PYNQ paper. </font> [Certificate](./images/fpl2206_award.pdf) |
 | **2024**  | |
-| 12/17 | <font color="red"> FPT Best Paper Award 2024 for the GraphNoC: Graph Neural Networks for Application-Specific FPGA NoC Performance Prediction paper. </font> [Certificate](./images/fpt2024_award.pdf) |
-|11/01| One full papers accepted to FPT 2024.|
+| Dec 17 | <font color="red"> FPT Best Paper Award 2024 for the GraphNoC: Graph Neural Networks for Application-Specific FPGA NoC Performance Prediction paper. </font> [Certificate](./images/fpt2024_award.pdf) |
+| Nov 01 | One full paper was accepted to FPT 2024.|
 | **2023**  | |
-| 07/14 | <font color="red"> TRETS Best Paper Award 2023 for the RapidLayout paper. </font> [Certificate](./images/trets2023_award.jpg) |
-| 05/08 | Finished duties as Program Chair of FCCM 2023. |
-| 03/01 | Returned to Canada. |
+| Jul 14 | <font color="red"> TRETS Best Paper Award 2023 for the RapidLayout paper. </font> [Certificate](./images/trets2023_award.jpg) |
+| May 08 | I finished my duties as Program Chair of FCCM 2023. |
+| Mar 01 | I returned to Canada. |
 | **2022**  | |
-| 01/03 | I am on a leave of absence from Waterloo. I will be working at Xilinx Labs (now AMD Research) Singapore as Research Director. |
+| Jan 03 | I began a leave of absence from Waterloo to work as Research Director at Xilinx Labs (now AMD Research) Singapore. |
 | **2021**  | |
-| 05/10 | One FCCM 2021 full paper presented. |
+| May 10 | One full paper was presented at FCCM 2021. |
 | **2020**  | |
-|08/14| Received the Waterloo EngSoc (Engineering Society) Teaching Excellence Award for Spring 2020.|
-|07/01| Promoted to Associate Professor with Tenure.|
-|05/19| Two full papers accepted to FPL 2020.|
+| Aug 14 | I received the Waterloo EngSoc (Engineering Society) Teaching Excellence Award for Spring 2020.|
+| Jul 01 | I was promoted to Associate Professor with tenure.|
+| May 19 | Two full papers were accepted to FPL 2020.|
+| May 04 | One short paper was accepted to FCCM 2020.|
 | **2019**  | |
-|04/5| One one short paper accepted to FCCM 2020.|
-|13/12| <font color="red">Our FPT 2019 paper has won Best Paper Award.</font> [Certificate](./images/fpt2019_award.jpg) |
-|08/10| One full paper accepted to FPT 2019. Best paper nominee.|
-|17/5| Two full papers accepted to FPL 2019.|
-|27/3| One full paper, and one short paper accepted to FCCM 2019.|
+| Dec 13 | <font color="red">Our FPT 2019 paper won the Best Paper Award.</font> [Certificate](./images/fpt2019_award.jpg) |
+| Oct 08 | One full paper was accepted to FPT 2019 and nominated for Best Paper.|
+| May 17 | Two full papers were accepted to FPL 2019.|
+| Mar 27 | One full paper and one short paper were accepted to FCCM 2019.|
 | **2018**  | |
-|11/16| One full paper accepted to FPGA 2019.|
-|9/16| Two full papers accepted to FPT 2018.|
-|2/5| <font color="red">Our TRETS 2017 submission wins the Best Paper Award. </font> [Certificate](./images/trets2017_award.jpg) |
-|13/3| One full paper accepted to ISCA 2018.|
-|05/3| Two full papers accepted to FCCM 2018.|
+| Nov 16 | One full paper was accepted to FPGA 2019.|
+| Sep 16 | Two full papers were accepted to FPT 2018.|
+| May 02 | <font color="red">Our TRETS 2017 submission won the Best Paper Award. </font> [Certificate](./images/trets2017_award.jpg) |
+| Mar 13 | One full paper was accepted to ISCA 2018.|
+| Mar 05 | Two full papers were accepted to FCCM 2018.|
 | **2017**  | |
-|26/9| One full paper accepted to FPT 2017.|
-|15/10| Delivered tutorial on neural networks + embedded SoCs at ESWEEK.|
-|25/7| Delivered invited talk on OpenCL programming at Harbin, China.|
-|12/7| Two full papers accepted to FPL 2017.|
-|3/4| IWOCL 2017 short paper accepted.|
-|7/3| Two full papers accepted to FCCM 2017.|
+| Oct 15 | I delivered a tutorial on neural networks and embedded SoCs at ESWEEK.|
+| Sep 26 | One full paper was accepted to FPT 2017.|
+| Jul 25 | I delivered an invited talk on OpenCL programming in Harbin, China.|
+| Jul 12 | Two full papers were accepted to FPL 2017.|
+| Apr 03 | One short paper was accepted to IWOCL 2017.|
+| Mar 07 | Two full papers were accepted to FCCM 2017.|
 | **2016**  | |
-|14/12| Journal article accepted to TRETS 2017. |
-|20/11| Short paper accepted to FPGA 2017. |
-|11/11| Paper accepted to DATE 2017. |
-|5/10| <font color="red">Our CASES 2016 submission wins the Best Paper Award. </font> [Certificate](./images/cases2016_award.jpg) |
-| 1/10 | I have moved to the University of Waterloo, Canada |
-|18/9| Paper accepted to FPT 2016. |
-|25/8| Paper accepted to ACMDev 2016. |
-|16/7| Invited lecture at [PAPAA](http://cscpapaa.eee.hku.hk/programme.html) summer school kicks off at Hong Kong University. Full-day session on OpenCL for CPUs, GPUs and FPGAs. |
-|2/7| One full paper accepted to CASES 2016.|
-|20/6| Three full, one short accepted to FPL 2016.|
-|2/3| One full, one short and two posters accepted to FCCM 2016.|
+| Dec 14 | One journal article was accepted for publication in TRETS 2017. |
+| Nov 20 | One short paper was accepted to FPGA 2017. |
+| Nov 11 | One paper was accepted to DATE 2017. |
+| Oct 05 | <font color="red">Our CASES 2016 submission won the Best Paper Award. </font> [Certificate](./images/cases2016_award.jpg) |
+| Oct 01 | I moved to the University of Waterloo, Canada. |
+| Sep 18 | One paper was accepted to FPT 2016. |
+| Aug 25 | One paper was accepted to ACMDev 2016. |
+| Jul 16 | Delivered a full-day invited lecture on OpenCL for CPUs, GPUs, and FPGAs at the [PAPAA](http://cscpapaa.eee.hku.hk/programme.html) summer school at the University of Hong Kong. |
+| Jul 02 | One full paper was accepted to CASES 2016.|
+| Jun 20 | Three full papers and one short paper were accepted to FPL 2016.|
+| Mar 02 | One full paper, one short paper, and two posters were accepted to FCCM 2016.|
 | **2015**  | |
-|15/11| One full, one short and one poster accepted to FPGA 2016.|
-|2/11| One journal article accepted to Supercomputing Frontiers.|
-|17/9| One journal article accepted to TRETS.|
-|3/9| <font color="red">The Hoplite NoC paper with Jan Gray won Michal Servit Best Paper award at FPL 2015 </font>, [Certificate](./images/fpl2015_award.jpg), [Photo](./images/21145343661_eb2fef0d35_o.jpg).   |
-|10/8| I'm PI on a Tier-1 grant for Machine Learning in FPGA CAD (S$100K).   |
-|4/8| I'm a Co-PI on a Delta Electronics grant led by Arindam (S$100K Co-PI).          |
-|15/6| I'm a Co-PI on an MIT-SMART grant led by Arindam (S$60K Co-PI).          |
-|5/6| Two full papers, one poster accepted to FPL 2015.                          |
-|18/5| One full paper accepted to ASAP 2015.                          |
-|3/3| Three full papers, one poster selected for FCCM 2015.                          |
-|17/2| Paper selected for Supercomputing Frontiers 2015 (organized by A\*Star, Singapore).                         |
-|16/2| Two full papers accepted to RAW 2015 (co-located with IPDPS 2015).                          |
+| Nov 15 | One full paper, one short paper, and one poster were accepted to FPGA 2016.|
+| Nov 02 | One journal article was accepted by Supercomputing Frontiers.|
+| Sep 17 | One journal article was accepted by TRETS.|
+| Sep 03 | <font color="red">The Hoplite NoC paper, co-authored with Jan Gray, won the Michal Servit Best Paper Award at FPL 2015.</font> [Certificate](./images/fpl2015_award.jpg), [Photo](./images/21145343661_eb2fef0d35_o.jpg). |
+| Aug 10 | I was awarded a Tier 1 grant as PI for machine learning in FPGA CAD (S$100K). |
+| Aug 04 | I was awarded a Delta Electronics grant as Co-PI, led by Arindam (S$100K Co-PI). |
+| Jun 15 | I was awarded an MIT-SMART grant as Co-PI, led by Arindam (S$60K Co-PI). |
+| Jun 05 | Two full papers and one poster were accepted to FPL 2015. |
+| May 18 | One full paper was accepted to ASAP 2015. |
+| Mar 03 | Three full papers and one poster were accepted to FCCM 2015. |
+| Feb 17 | One paper was accepted to Supercomputing Frontiers 2015 (organized by A\*STAR, Singapore). |
+| Feb 16 | Two full papers were accepted to RAW 2015 (co-located with IPDPS 2015). |
 | **2014**  | |
-|15/12| I will be the Technical Program Co-Chair for FPT 2015 next year in Queenstown, New Zealand. \[[link](http://fpt.massey.ac.nz)\]                                                |
-|24/11| My third Edex (Excellence in Education) grant as PI accepted S$37K (**Co-PI**: Anupam Chattopadhyay).                                                                       |
-|13/11 | One full, one short and one poster accepted to FPGA 2015.                                                                                                                                 |
-|19/9| Two short papers accepted at FPT 2014.                                                                                                                                                    |
-|1/8| Full paper accepted at HiPC 2014 (collaboration with NTU EOS).                                                                                                                            |
-|21/7| Full paper accepted at DFM 2014 (co-located with PACT 2014).                                                                                                                              |
-|10/7| I have started consulting as CTO at [Plunify](http://plunify.com/en/management.php).                                                                                                      |
-|25/6| One FPL 2014 full paper (Best Paper Nominee) and poster accepted.                                                                                                                         |
-|13/3| Three FCCM 2014 short papers accepted.                                                                                                                                                    |
-|20/2| CE4054 [Hackathon](./teaching/ce4054_hackathon_2014.png) announced.                                                                                                                       |
+| Dec 15 | I was named Technical Program Co-Chair for FPT 2015 in Queenstown, New Zealand. \[[link](http://fpt.massey.ac.nz)\] |
+| Nov 24 | I was awarded my third Edex (Excellence in Education) grant as PI (S$37K; **Co-PI**: Anupam Chattopadhyay). |
+| Nov 13 | One full paper, one short paper, and one poster were accepted to FPGA 2015. |
+| Sep 19 | Two short papers were accepted to FPT 2014. |
+| Aug 01 | One full paper was accepted to HiPC 2014 (in collaboration with NTU EOS). |
+| Jul 21 | One full paper was accepted to DFM 2014 (co-located with PACT 2014). |
+| Jul 10 | I began serving as CTO at [Plunify](http://plunify.com/en/management.php). |
+| Jun 25 | One FPL 2014 full paper, nominated for Best Paper, and one poster were accepted. |
+| Mar 13 | Three short papers were accepted to FCCM 2014. |
+| Feb 20 | The CE4054 Hackathon was announced. |
 | **2013**  | |
-|6/12  | Abid's TPDS 2013 journal article accepted .                                                                                                                                                |
-|30/11 | AcRF Tier 1 Grant as PI accepted S$150K.                                                                                                                                                   |
-|28/10 | My second Edex (Excellence in Education) grant as PI accepted S$40K (**Team**: Arvind Easwaran, Iris Lee Chai Hong).                                                                       |
-|2/10  | One FPT 2013 full paper accepted.                                                                                                                                                         |
-|13/8  | My PhD student Abid Rafique wins the [HiPEAC Paper Award](http://www.hipeac.net/award) 2013 for our FCCM 2013 paper, [Certificate](./images/hipeac2013_award.pdf).                       |
-|8/8   | My Edex (Excellence in Education) grant [team](./images/edex2013_team.jpg) wrapped up their summer project on automating assessment. <br>
-|30/4  | My paper is one of the 25 most influential papers at FCCM in past 20 years [FCCM20](http://tcfpga.org/fccm20/), [Certificate](./images/fccm20_award.pdf). <br>
-|25/4  | Siddhartha wins 50th DAC Richard Newton Student Fellow grant. <br>
-|24/4  | Dulitha joins my lab as research staff. <br>
-|18/3  | I'm the PI/PL on our successfully CELT Edex (Excellence in Education) Grant S$25K (**Team**: Kyle Rupnow, Iris Lee Chai Hong, Raphael Rubin). <br>
-|2/3   | I'm organising the 2013 NTU Roadmapping Workshop on the Future of Spatial Architectures [Flyer](./images/reconfig_workshop.jpg), [Participants](./images/workshop_participants.jpg). <br>
-|2/3   | Two FCCM 2013 full papers accepted. <br>
+| Dec 06 | Abid's TPDS 2013 journal article was accepted. |
+| Nov 30 | I was awarded an AcRF Tier 1 grant as PI (S$150K). |
+| Oct 28 | I was awarded my second Edex (Excellence in Education) grant as PI (S$40K; **Team**: Arvind Easwaran and Iris Lee Chai Hong). |
+| Oct 02 | One full paper was accepted to FPT 2013. |
+| Aug 13 | My PhD student Abid Rafique won the 2013 [HiPEAC Paper Award](http://www.hipeac.net/award) for our FCCM 2013 paper. [Certificate](./images/hipeac2013_award.pdf) |
+| Aug 08 | My Edex (Excellence in Education) grant [team](./images/edex2013_team.jpg) completed its summer project on automated assessment. <br>
+| Apr 30 | My paper was named one of the 25 most influential FCCM papers from the previous 20 years. [FCCM20](http://tcfpga.org/fccm20/), [Certificate](./images/fccm20_award.pdf) <br>
+| Apr 25 | Siddhartha won a 50th DAC Richard Newton Young Student Fellow grant. <br>
+| Apr 24 | Dulitha joined my lab as a research staff member. <br>
+| Mar 18 | I was awarded a CELT Edex (Excellence in Education) grant as PI/PL (S$25K; **Team**: Kyle Rupnow, Iris Lee Chai Hong, and Raphael Rubin). <br>
+| Mar 02 | I organized the 2013 NTU Roadmapping Workshop on the Future of Spatial Architectures. [Flyer](./images/reconfig_workshop.jpg), [Participants](./images/workshop_participants.jpg) <br>
+| Mar 02 | Two full papers were accepted to FCCM 2013. <br>
 | **2012**  | |
-|17/12 | I'm a PI on our successful S$50K NTU College of Engineering Seed Fund grant (Co-PI: Kyle Rupnow). <br>
-|1/10  | I've started as an Assistant Professor at SCE, NTU. <br>
+| Dec 17 | I was awarded an S$50K NTU College of Engineering Seed Fund grant as PI (Co-PI: Kyle Rupnow). <br>
+| Oct 01 | I started as an Assistant Professor at SCE, NTU. <br>
 
 
 ### Misc ###
@@ -131,8 +131,7 @@ Class/Group Presentations:
 
 ### Memories
 
-Singapore Retrospective
-[2012-2016](./images/singapore_retrospective/index.html)<br>
+Singapore Retrospective (2012-2016)<br>
 London Retrospective
 [2010](./images/london_retrospective/2010)
 [2011](./images/london_retrospective/2011)
