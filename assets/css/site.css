@@ -47,6 +47,19 @@ html[data-theme="dark"] {
   width: 1.3em;
 }
 
+.affiliation-logo-wordmark {
+  border-radius: 0.12em;
+  width: auto;
+}
+
+.affiliation-logo-xilinx {
+  width: 2.65em;
+}
+
+.affiliation-logo-plunify {
+  width: 2.35em;
+}
+
 .contact-icons a.internal-gitlab-link {
   align-items: center;
   display: inline-flex;
