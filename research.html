@@ -38,67 +38,83 @@ pandoc \-\-columns=160 research.md -s -c stylesheets/styles.css \-\-metadata pag
 <section>
 <p><a href="./index.html">Main</a> | <a href="./cv.html">CV</a> | <a href="./research.html">Research</a> | <a href="./teaching.html">Teaching</a> | <a
 href="./awards.html">Awards</a> <br></p>
-<p>In the Waterloo Configurable Architectures Group (WatCAG), we are broadly interested in understanding and exploiting the potential of spatial parallelism for
-implementing computation using reconfigurable architectures such as FPGAs. Reconfigurable computing has come of age through major industry investment, Altera’s
-return to operational independence, and the rapid adoption of FPGAs by cloud providers including Microsoft, Amazon, Huawei, Baidu, and Alibaba. With the rising
-computing demands of machine-learning workloads and the slowing of Moore’s Law, this is an especially exciting time to work in the field.</p>
-<p>In the WatCAG group, we ask the following big questions:</p>
+<p>The <strong>Waterloo Configurable Architectures Group (WatCAG)</strong> develops intelligent tools and reconfigurable architectures for efficient computing.
+Our current work connects machine-learning accelerators, agentic hardware-design flows, learning-guided FPGA CAD, and communication-centric accelerator
+architectures.</p>
+<p>We are interested in the full path from an application idea to a working system: choosing the right arithmetic and architecture, generating and verifying
+RTL, mapping the design onto reconfigurable hardware, and moving data efficiently through the resulting accelerator.</p>
+<h2 id="current-research-directions">Current Research Directions</h2>
+<h3 id="ml-and-domain-specific-accelerators">ML and Domain-Specific Accelerators</h3>
+<p>We design efficient accelerator building blocks and systems for modern machine-learning workloads. Current questions include how to support rapidly evolving
+numerical formats, how to organize tensor and systolic computation, and how to balance compute, memory bandwidth, communication, and programmability.</p>
 <ul>
-<li>What might reconfigurable computing architectures of the future look like, and how will we program them?</li>
-<li>What computing problems are reconfigurable architectures useful for, and how do we seamlessly integrate them in mainstream computing systems (cloud,
-embedded)?</li>
-<li>Can we rethink the programming abstractions for reconfigurable hardware by emphasizing communication and energy awareness at different levels in the
-compilation stack?</li>
+<li><a href="./publications/jack-of-all-scales_fpl-2026.pdf">[PDF]</a> <strong>“Jack of All Scales: A Versatile FPGA Tensor Block for MXFP Precisions”</strong>,
+FPL 2026</li>
+<li><a href="./publications/stc_fpl-2019.pdf">[PDF]</a> <strong>“Scaling the Cascades: Interconnect-aware FPGA implementation of Machine Learning
+problems”</strong>, FPL 2019</li>
+<li><a href="./publications/caffepresso_cases-2016.pdf">[PDF]</a> <strong>“CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based
+platforms”</strong>, CASES 2016 — <strong>Best Paper Award</strong></li>
 </ul>
-Specifically, the group works across <em>Architecture</em>, <em>Compilation</em>, and <em>Application</em> domains to answer these questions.
-</section>
-<section>
-<h2 id="architecture">Architecture</h2>
-<p>The group has investigated the design and engineering of token dataflow overlays, vector processor characterization, embedded system evaluation, real-time
-systems, and FPGA-specific network-on-chip architectures for use in accelerators.</p>
-<p><img src="images/bft.png" /></p>
+<h3 id="agentic-hardware-design-and-verification">Agentic Hardware Design and Verification</h3>
+<p>We are exploring agentic workflows that can help translate hardware intent into efficient, verifiable implementations. This emerging direction builds on our
+work in Python-driven simulation, RTL verification, design-space exploration, partial reconfiguration, and deployment on accessible FPGA platforms. The goal is
+to keep engineers in control while automating more of the iterative path from specification to measured hardware.</p>
 <ul>
-<li><a href="./publications/deflection-bft_fpl-2017.pdf">[PDF]</a> <strong>“Deflection Routed Butterfly Fat Trees on FPGAs”</strong>, FPL 2017</li>
-<li><a href="./publications/hoplite_trets-2017.pdf">[PDF]</a> <strong>Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs</strong>, TRETS 2017</li>
-<li><a href="./publications/soft-vector_trets-2016.pdf">[PDF]</a> <strong>Optimizing Soft Vector Processing in FPGA-based Embedded Systems</strong>, TRETS
-2016</li>
+<li><a href="./publications/cocotb-pynq-pr_fpl-2026.pdf">[PDF]</a> <strong>“Cocotb-PYNQ-PR: From Co-Simulation to Deployment, A Unified DFX Framework for
+PYNQ”</strong>, FPL 2026 — <strong>Stamatis Vassiliadis Memorial Best Paper Award</strong></li>
+<li><a href="./publications/cocotb-pynq_fpl-2025.pdf">[PDF]</a> <strong>“Cocotb-Pynq: Co-simulating Python+RTL applications targeting Pynq platforms with
+Cocotb”</strong>, FPL 2025</li>
 </ul>
-<h3 id="dataflow-architectures">Dataflow Architectures</h3>
-<p>Token dataflow architectures exploit application parallelism dynamically at the granularity of individual instructions. Each instruction implements a
-dataflow firing rule that replaces the program counter used in conventional sequential CPU processing. Data dependencies are routed over an operand-routing
-network-on-chip to move data rapidly to parallel compute blocks within the chip. The design and engineering of hardware-friendly dataflow building blocks for
-FPGAs have been a focus of our group.</p>
-<p><img src="images/dataflow.jpg" /></p>
+<h3 id="learning-guided-fpga-design">Learning-Guided FPGA Design</h3>
+<p>We apply machine learning, graph models, evolutionary search, and parallel optimization to difficult FPGA CAD problems. This work spans performance
+prediction, physical design, timing closure, network-on-chip customization, and tool-parameter selection.</p>
+<figure>
+<img src="images/intime.png" alt="InTime machine-learning-guided FPGA CAD flow" />
+<figcaption aria-hidden="true">InTime machine-learning-guided FPGA CAD flow</figcaption>
+</figure>
 <ul>
-<li><a href="./publications/dataflow-overlay_fpt-2018.pdf">[PDF]</a> <strong>”DaCO: A High-Performance Token Dataflow Coprocessor Overlay for FPGAs”</strong>,
+<li><a href="./publications/graph-noc_fpt-2024.pdf">[PDF]</a> <strong>“GraphNoC: Graph Neural Networks for Application-Specific FPGA NoC Performance
+Prediction”</strong>, FPT 2024 — <strong>Best Paper Award</strong></li>
+<li><a href="./publications/rapidlayout_trets-2022.pdf">[PDF]</a> <strong>“RapidLayout: Fast Hard Block Placement of FPGA-optimized Systolic Arrays using
+Evolutionary Algorithms”</strong>, TRETS 2022 — <strong>2023 Best Paper Award</strong></li>
+<li><a href="./publications/hopliteml_trets-2022.pdf">[PDF]</a> <strong>“HopliteML: Evolving application customized FPGA NoCs with adaptable routers and
+regulators”</strong>, TRETS 2022</li>
+<li><a href="./publications/intime_fccm-2015.pdf">[PDF]</a> <strong>“Driving Timing Convergence of FPGA Designs through Machine Learning and Cloud
+Computing”</strong>, FCCM 2015</li>
+</ul>
+<h3 id="communication-centric-reconfigurable-architectures">Communication-Centric Reconfigurable Architectures</h3>
+<p>Accelerators are often limited by data movement rather than arithmetic. We design FPGA networks-on-chip, dataflow overlays, memory systems, and transport
+mechanisms that provide predictable, efficient communication from individual compute blocks to multi-die devices and networked systems.</p>
+<figure>
+<img src="images/bft.png" alt="Butterfly fat-tree FPGA network" />
+<figcaption aria-hidden="true">Butterfly fat-tree FPGA network</figcaption>
+</figure>
+<ul>
+<li><a href="./publications/protocol-independent-transport_arxiv-2026.pdf">[PDF]</a> <strong>“A Protocol-Independent Transport Architecture”</strong>, arXiv
+2026</li>
+<li><a href="./publications/hbm-noc_fccm-2022.pdf">[PDF]</a> <strong>“Managing HBM Bandwidth on Multi-Die FPGAs with FPGA Overlay NoCs”</strong>, FCCM 2022</li>
+<li><a href="./publications/hoplite_trets-2017.pdf">[PDF]</a> <strong>“Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs”</strong>, TRETS 2017 —
+<strong>Best Paper Award</strong></li>
+</ul>
+<h2 id="research-foundations">Research Foundations</h2>
+<p>Our earlier work established many of the ideas underlying these directions: spatial and token-dataflow processing, lightweight FPGA overlay networks,
+application-specific accelerators, embedded machine learning, sparse graph processing, and compilation methods that expose communication and energy costs.</p>
+<figure>
+<img src="images/dataflow.jpg" alt="Token dataflow architecture" />
+<figcaption aria-hidden="true">Token dataflow architecture</figcaption>
+</figure>
+<ul>
+<li><a href="./publications/dataflow-overlay_fpt-2018.pdf">[PDF]</a> <strong>“DaCO: A High-Performance Token Dataflow Coprocessor Overlay for FPGAs”</strong>,
 FPT 2018</li>
-<li><a href="./publications/hopliteq_fccm-2018.pdf">[PDF]</a> <strong>“HopliteQ: Priority-Aware Routing in FPGA Overlay NoCs”</strong>, FCCM 2018</li>
-<li><a href="./publications/dataflow-limits_dfm-2014.pdf">[PDF]</a> <strong>“Limits of Statically Scheduled Token Dataflow Processing”</strong>, DFM 2014</li>
+<li><a href="./publications/soft-vector_trets-2016.pdf">[PDF]</a> <strong>“Optimizing Soft Vector Processing in FPGA-based Embedded Systems”</strong>, TRETS
+2016</li>
+<li><a href="./publications/green_fpl-2015.pdf">[PDF]</a> <strong>“Limits of FPGA Acceleration of 3D Green’s Function Computation for Geophysical
+Applications”</strong>, FPL 2015</li>
 </ul>
-<h2 id="applications">Applications</h2>
-<p>We are excited about novel uses of FPGAs in emerging application scenarios in both cloud and embedded contexts. The group has published papers on machine
-learning, geophysical modelling, and computer vision.</p>
-<p><img src="images/caffepresso.png" /></p>
-<ul>
-<li><a href="./publications/caffepresso_cases-2016.pdf">[PDF]</a> <strong>CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based
-platforms</strong>, CASES 2016</li>
-<li><a href="./publications/green_fpl-2015.pdf">[PDF]</a> <strong>Limits of FPGA Acceleration of 3D Green’s Function Computation for Geophysical
-Applications</strong>, FPL 2015</li>
-<li><a href="./publications/opencv-saliency_fccm-2015.pdf">[PDF]</a> <strong>Energy-Efficient Acceleration of OpenCV Saliency Computation using Soft Vector
-Processors</strong>, FCCM 2015</li>
-</ul>
-<h2 id="compilation">Compilation</h2>
-<p>The group has developed various automation tools, compiler passes, and frameworks for use with FPGAs. In particular, we have tools to perform precision
-analysis, performance tuning, and machine-learning-driven FPGA compilation, among other tasks.</p>
-<p><img src="images/intime.png" /></p>
-<ul>
-<li><a href="./publications/intime_fccm-2015.pdf">[PDF]</a> <strong>Driving Timing Convergence of FPGA Designs through Machine Learning and Cloud
-Computing</strong>, FCCM 2015</li>
-<li><a href="./publications/ebsp_date-2017.pdf">[PDF]</a> <strong>eBSP: Managing NoC traffic for BSP workloads on the 16-core Adapteva Epiphany-III
-Processor</strong>, DATE 2017</li>
-<li><a href="./publications/gpu-bitwidth_fpga-2016.pdf">[PDF]</a> <strong>GPU-Accelerated High-Level Synthesis for Bitwidth Optimization of FPGA
-Datapaths</strong>, FPGA 2016</li>
-</ul>
+<h2 id="work-with-us">Work With Us</h2>
+<p>We welcome collaborations with students and researchers interested in computer architecture, digital hardware, FPGA CAD, machine learning, and design
+automation. Prospective graduate students should apply through the University of Waterloo and identify Nachiket Kapre as a potential supervisor.</p>
+<p>For a complete publication record, see the <a href="./cv.html">curriculum vitae</a>.</p>
 </section>
 </div>
 <!-- Google tag (gtag.js) -->
