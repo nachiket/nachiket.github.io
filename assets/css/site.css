@@ -179,56 +179,43 @@ html[data-theme="dark"] {
   white-space: nowrap;
 }
 
-.timeline-swatch,
-.publication-timeline-event {
+.timeline-swatch {
   background: transparent;
   border: 1px solid var(--global-text-color-light);
   border-radius: 0.16rem;
   display: inline-block;
-  height: 0.78rem;
-  width: 0.78rem;
+  height: 0.72rem;
+  width: 0.72rem;
 }
 
-.timeline-swatch-award,
-.publication-timeline-event-award {
+.timeline-swatch-award {
   background: #b71c1c;
   border-color: #b71c1c;
 }
 
-.timeline-swatch-nominee,
-.publication-timeline-event-nominee {
+.timeline-swatch-nominee {
   background: #c56a00;
   border-color: #c56a00;
 }
 
 .publication-timeline-scroll {
-  overflow-x: auto;
+  overflow: visible;
   padding: 0.15rem 0 0.7rem;
-  scrollbar-width: thin;
 }
 
 .publication-timeline-track {
-  display: flex;
-  min-width: max-content;
-  padding: 0 0.35rem;
-  position: relative;
-}
-
-.publication-timeline-track::before {
-  background: var(--global-divider-color);
-  content: "";
-  height: 2px;
-  left: 0.35rem;
-  position: absolute;
-  right: 0.35rem;
-  top: 2rem;
+  display: grid;
+  grid-template-columns: repeat(23, minmax(0, 1fr));
+  row-gap: 0.9rem;
+  width: 100%;
 }
 
 .publication-timeline-year {
+  background: linear-gradient(var(--global-divider-color), var(--global-divider-color)) center 2rem / 100% 2px no-repeat;
   margin: 0;
-  padding: 0 0.62rem;
+  min-width: 0;
+  padding: 0 0.08rem;
   position: relative;
-  width: 6.35rem;
 }
 
 .publication-timeline-year::before {
@@ -236,18 +223,18 @@ html[data-theme="dark"] {
   border: 2px solid var(--global-theme-color);
   border-radius: 50%;
   content: "";
-  height: 0.7rem;
+  height: 0.58rem;
   left: 50%;
   position: absolute;
   top: 1.7rem;
   transform: translateX(-50%);
-  width: 0.7rem;
+  width: 0.58rem;
   z-index: 1;
 }
 
 .publication-timeline-year-link {
   display: block;
-  font-size: 0.85rem;
+  font-size: 0.7rem;
   font-variant-numeric: tabular-nums;
   font-weight: 600;
   margin-bottom: 1.45rem;
@@ -256,14 +243,31 @@ html[data-theme="dark"] {
 
 .publication-timeline-events {
   display: grid;
-  gap: 0.28rem;
-  grid-template-columns: repeat(4, 0.78rem);
+  gap: 0.16rem;
+  grid-template-columns: repeat(4, 0.56rem);
   justify-content: center;
+  min-height: 2.72rem;
 }
 
 .publication-timeline-event {
+  background: transparent;
+  border: 1px solid var(--global-text-color-light);
+  border-radius: 0.12rem;
+  display: inline-block;
+  height: 0.56rem;
   position: relative;
   transition: transform 120ms ease, box-shadow 120ms ease;
+  width: 0.56rem;
+}
+
+.publication-timeline-event-award {
+  background: #b71c1c;
+  border-color: #b71c1c;
+}
+
+.publication-timeline-event-nominee {
+  background: #c56a00;
+  border-color: #c56a00;
 }
 
 .publication-timeline-event:hover,
@@ -318,6 +322,22 @@ h2.bibliography {
 
   .publication-timeline-legend {
     justify-content: flex-start;
+  }
+
+  .publication-timeline-track {
+    grid-template-columns: repeat(8, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 721px) and (max-width: 1000px) {
+  .publication-timeline-track {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 340px) {
+  .publication-timeline-track {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
   }
 }
 
