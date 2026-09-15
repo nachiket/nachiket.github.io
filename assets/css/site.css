@@ -1,11 +1,15 @@
 :root {
   --global-theme-color: #8a5a00;
   --global-hover-color: #5f3d00;
+  --timeline-lane-background: #fff;
+  --timeline-lane-background-alt: #f0f0f0;
 }
 
 html[data-theme="dark"] {
   --global-theme-color: #f4c44e;
   --global-hover-color: #ffda7a;
+  --timeline-lane-background: #111;
+  --timeline-lane-background-alt: #292929;
 }
 
 .quick-links {
@@ -204,6 +208,7 @@ html[data-theme="dark"] {
 }
 
 .publication-timeline-track {
+  column-gap: 0.2rem;
   display: grid;
   grid-template-columns: repeat(23, minmax(0, 1fr));
   row-gap: 0.9rem;
@@ -211,11 +216,20 @@ html[data-theme="dark"] {
 }
 
 .publication-timeline-year {
-  background: linear-gradient(var(--global-divider-color), var(--global-divider-color)) center 2rem / 100% 2px no-repeat;
+  background:
+    linear-gradient(var(--global-divider-color), var(--global-divider-color)) center 2.15rem / 100% 2px no-repeat,
+    var(--timeline-lane-background);
+  border-radius: 0.22rem;
   margin: 0;
   min-width: 0;
-  padding: 0 0.08rem;
+  padding: 0.3rem 0.08rem 0.45rem;
   position: relative;
+}
+
+.publication-timeline-year:nth-child(even) {
+  background:
+    linear-gradient(var(--global-divider-color), var(--global-divider-color)) center 2.15rem / 100% 2px no-repeat,
+    var(--timeline-lane-background-alt);
 }
 
 .publication-timeline-year::before {
@@ -226,7 +240,7 @@ html[data-theme="dark"] {
   height: 0.58rem;
   left: 50%;
   position: absolute;
-  top: 1.7rem;
+  top: 1.85rem;
   transform: translateX(-50%);
   width: 0.58rem;
   z-index: 1;
@@ -243,10 +257,10 @@ html[data-theme="dark"] {
 
 .publication-timeline-events {
   display: grid;
-  gap: 0.16rem;
-  grid-template-columns: repeat(4, 0.56rem);
+  gap: 0.22rem;
+  grid-template-columns: repeat(2, 0.56rem);
   justify-content: center;
-  min-height: 2.72rem;
+  min-height: 6rem;
 }
 
 .publication-timeline-event {
@@ -327,11 +341,21 @@ h2.bibliography {
   .publication-timeline-track {
     grid-template-columns: repeat(8, minmax(0, 1fr));
   }
+
+  .publication-timeline-events {
+    grid-template-columns: repeat(3, 0.56rem);
+    min-height: 4.7rem;
+  }
 }
 
 @media (min-width: 721px) and (max-width: 1000px) {
   .publication-timeline-track {
     grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .publication-timeline-events {
+    grid-template-columns: repeat(4, 0.56rem);
+    min-height: 3.4rem;
   }
 }
 
