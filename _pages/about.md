@@ -4,12 +4,6 @@ title: Home
 permalink: /
 subtitle: Professor of Electrical and Computer Engineering · <a href="https://uwaterloo.ca/electrical-computer-engineering/">University of Waterloo</a>
 
-profile:
-  align: right
-  image: nachiket.jpg
-  image_circular: false
-  more_info: >
-
 selected_papers: true
 social: true
 
@@ -21,6 +15,9 @@ latest_posts:
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+
+<div class="home-hero" markdown="1">
+<div class="home-hero-copy" markdown="1">
 
 I lead the **Waterloo Configurable Architectures Group (WatCAG)**. We build efficient machine-learning accelerators and agentic hardware-design workflows, supported by reconfigurable architectures, FPGA CAD, verification, and communication-centric systems.
 
@@ -47,6 +44,14 @@ I am a Professor at <span class="affiliation">{% include affiliation-icon.html o
     <h3>Reconfigurable architectures & CAD</h3>
     <p>Learning-guided FPGA tools, networks-on-chip, prototyping, and practical flows from application intent to deployed hardware.</p>
   </article>
+</div>
+
+</div>
+
+<figure class="home-portrait">
+  <img src="{{ '/assets/img/nachiket.jpg' | relative_url }}" alt="Nachiket Kapre" width="245" height="369">
+</figure>
+
 </div>
 
 ## Latest News
