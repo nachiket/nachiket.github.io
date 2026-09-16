@@ -26,7 +26,7 @@ Thesis: _Packet-Switched FPGA-Overlay Networks_ [[Link]](./publications/ms-thesi
 {% include organization-logo.html name="caltech" %} **M.S., California Institute of Technology (USA),** Electrical Engineering<br>
 Degree Conferred: June 2005
 
-**B.E., University of Pune (India),** Electronics and Telecommunication Engineering<br>
+{% include organization-logo.html name="pune" %} **B.E., University of Pune (India),** Electronics and Telecommunication Engineering<br>
 Project: _FPGA-based testing system for Siemens Railway Signalling Relays_ [[Link]](./publications/be-project.pdf)
 [[slides]](./publications/be_oral.swf) [[guide]](./publications/be_guide.swf)<br>
 Degree Conferred: August 2002
