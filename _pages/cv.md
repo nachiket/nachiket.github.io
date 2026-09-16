@@ -89,7 +89,7 @@ _ACM Transactions on Embedded Computing Systems_ (Special Issue on ESWEEK 2016) 
 <u>Nachiket Kapre</u>, Jan Gray <br>
 _ACM Transactions on Reconfigurable Technology and Applications_ (Special Issue FPL 2015) <br>
 
-[[PDF]](./publications/soft-vector_trets-2016.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/nachiket/tdfc){: .cv-code-link aria-label="GitHub repository: TDFC" }
+[[PDF]](./publications/soft-vector_trets-2016.pdf)
 **"Optimizing Soft Vector Processing in FPGA-based Embedded Systems"** <br>
 <u>Nachiket Kapre</u> <br>
 _ACM Transactions on Reconfigurable Technology and Applications_ (Special Issue FPL 2014), Published: 2016<br>
@@ -216,7 +216,7 @@ Asif Islam, <u>Nachiket Kapre </u> <br>
 _International Symposium on Field-Programmable Custom Computing Machines_, April-May 2018 <br>
 
 [[PDF]](./publications/hopliteq_fccm-2018.pdf)
-**"HopliteQ: Priority-Aware Routing in FPGA Overlay NoCs" ** <br>
+**"HopliteQ: Priority-Aware Routing in FPGA Overlay NoCs"** <br>
 Siddhartha, <u> Nachiket Kapre</u><br>
 _International Symposium on Field-Programmable Custom Computing Machines_, April-May 2018 <br>
 
@@ -225,8 +225,8 @@ _International Symposium on Field-Programmable Custom Computing Machines_, April
 Saud Al Wasly, Rodolfo Pellizzoni, <u>Nachiket Kapre</u><br>
 _International Conference on Field-Programmable Technology_, December 2017 <br>
 
-[[PDF]](./publications/deflection-bft_fpl-2017.pdf)
-**"Deflection Routed Butterfly Fat Trees on FPGAs"** <br>
+[[PDF]](./publications/deflection-bft_fpl-2017.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/bft-deflection){: .cv-code-link aria-label="GitHub repository: Deflection-routed BFT" }
+**"Deflection-Routed Butterfly Fat Trees on FPGAs"** <br>
 <u>Nachiket Kapre</u><br>
 _27th International Conference on Field-Programmable Logic and Applications_, Sep 2017 <br>
 
@@ -355,7 +355,7 @@ _4th International Workshop on Data-Flow Execution Models for Extreme Scale Comp
 Vipin Kizhepatt, Shreejit Shanker, Dulitha Gunasekara, Suhaib A Fahmy, <u>Nachiket Kapre</u><br>
 _International Conference on Field-Programmable Technology_, December 2013 <br>
 
-[[PDF]](./publications/uncertainty_fccm-2013.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/nachiket/tdfc){: .cv-code-link aria-label="GitHub repository: TDFC" }
+[[PDF]](./publications/uncertainty_fccm-2013.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/nachiket/tdfc/tree/fccm2013){: .cv-code-link aria-label="GitHub repository: FX-SCORE uncertainty compiler (TDFC FCCM 2013 snapshot)" }
 **"Exploiting Input Parameter Uncertainty for Reducing Datapath Precision of SPICE Device Models"** <br>
 <u>Nachiket Kapre</u> <br>
 _International Symposium on Field-Programmable Custom Computing Machines_, April 2013 <br>
@@ -370,7 +370,7 @@ _International Symposium on Field-Programmable Custom Computing Machines_, April
 Abid Rafique, <u>Nachiket Kapre</u> and George Constantinides<br>
 _International Conference on Field-Programmable Logic and Applications_, August 2012 <br>
 
-[[PDF]](./publications/fxscore_fccm-2012.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/nachiket/tdfc){: .cv-code-link aria-label="GitHub repository: TDFC" }
+[[PDF]](./publications/fxscore_fccm-2012.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/nachiket/tdfc){: .cv-code-link aria-label="GitHub repository: FX-SCORE compiler (TDFC)" }
 **"FX-SCORE: A Framework for Fixed-Point Compilation of SPICE Device Models using Gappa++"** <br>
 Helene Martorell and <u>Nachiket Kapre</u><br>
 _International Symposium on Field-Programmable Custom Computing Machines_, April 2012 <br>
