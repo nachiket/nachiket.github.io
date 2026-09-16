@@ -182,7 +182,6 @@ html[data-theme="dark"] .affiliation-logo-dark {
 .cv-org-logo {
   align-items: center;
   background: #fff;
-  border: 1px solid #0000001f;
   border-radius: 0.22em;
   box-sizing: border-box;
   display: inline-flex;
@@ -212,12 +211,6 @@ html[data-theme="dark"] .cv-org-logo-light {
 
 html[data-theme="dark"] .cv-org-logo-dark {
   display: block !important;
-}
-
-@media print {
-  .cv-org-logo {
-    border-color: #ccc;
-  }
 }
 
 .focus-grid {
