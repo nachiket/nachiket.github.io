@@ -186,12 +186,12 @@ html[data-theme="dark"] .affiliation-logo-dark {
   border-radius: 0.22em;
   box-sizing: border-box;
   display: inline-flex;
-  height: 1.48em;
+  height: 1.55em;
   justify-content: center;
   margin-right: 0.3em;
   padding: 0.11em;
   vertical-align: -0.36em;
-  width: 1.62em;
+  width: 1.55em;
 }
 
 .cv-org-logo img {
@@ -200,25 +200,6 @@ html[data-theme="dark"] .affiliation-logo-dark {
   max-width: 100%;
   object-fit: contain;
   width: 100%;
-}
-
-.cv-org-logo-caltech,
-.cv-org-logo-imperial,
-.cv-org-logo-mitacs,
-.cv-org-logo-plunify {
-  width: 2.7em;
-}
-
-.cv-org-logo-nserc {
-  width: 5.25em;
-}
-
-.cv-org-logo-huawei {
-  width: 1.85em;
-}
-
-.cv-org-logo-lattice {
-  width: 1.85em;
 }
 
 .cv-org-logo-dark {
