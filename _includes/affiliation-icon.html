@@ -5,7 +5,7 @@
 {%- when "xilinx" -%}
 <img class="affiliation-logo affiliation-logo-xilinx" src="{{ '/assets/img/affiliations/xilinx.svg' | relative_url }}" alt="" aria-hidden="true" />
 {%- when "amd" -%}
-<img class="affiliation-logo affiliation-logo-amd" src="https://cdn.simpleicons.org/amd/ED1C24" alt="" aria-hidden="true" />
+<img class="affiliation-logo affiliation-logo-amd" src="{{ '/assets/img/affiliations/amd-arrow.svg' | relative_url }}" alt="" aria-hidden="true" />
 {%- when "plunify" -%}
 <img
   class="affiliation-logo affiliation-logo-wordmark affiliation-logo-plunify"
@@ -14,7 +14,18 @@
   aria-hidden="true"
 />
 {%- when "lattice" -%}
-<img class="affiliation-logo" src="https://www.latticesemi.com/images/favicon.ico" alt="" aria-hidden="true" />
+<span class="affiliation-logo-switch" aria-hidden="true">
+  <img
+    class="affiliation-logo affiliation-logo-lattice affiliation-logo-light"
+    src="{{ '/assets/img/affiliations/lattice-mark.png' | relative_url }}"
+    alt=""
+  />
+  <img
+    class="affiliation-logo affiliation-logo-lattice affiliation-logo-dark"
+    src="{{ '/assets/img/affiliations/lattice-mark-dark.png' | relative_url }}"
+    alt=""
+  />
+</span>
 {%- when "ntu" -%}
 <img class="affiliation-logo affiliation-logo-ntu" src="{{ '/assets/img/affiliations/ntu-crest.png' | relative_url }}" alt="" aria-hidden="true" />
 {%- endcase -%}

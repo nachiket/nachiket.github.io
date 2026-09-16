@@ -13,17 +13,17 @@ nav_order: 6
 
 ## Education
 
-**Ph.D. California Institute of Technology (USA),** Computer Science<br>
+{% include organization-logo.html name="caltech" %} **Ph.D. California Institute of Technology (USA),** Computer Science<br>
 Dissertation: _SPICE<sup>2</sup> - A Spatial Parallel Architecture for Accelerating the SPICE Circuit Simulator_ <br>
 Degree Conferred: September 2010 [[Link]](./publications/phd-thesis-2010.pdf)<br>
 
 <!--Committee: André DeHon (UPenn), Shuki Bruck (Caltech), Dan Meiron (Caltech), Alain Martin (Caltech) and Steven Trimberger (Xilinx).-->
 
-**M.S., California Institute of Technology (USA),** Computer Science<br>
+{% include organization-logo.html name="caltech" %} **M.S., California Institute of Technology (USA),** Computer Science<br>
 Degree Conferred: June 2006 <br>
 Thesis: _Packet-Switched FPGA-Overlay Networks_ [[Link]](./publications/ms-thesis-2006.pdf)
 
-**M.S., California Institute of Technology (USA),** Electrical Engineering<br>
+{% include organization-logo.html name="caltech" %} **M.S., California Institute of Technology (USA),** Electrical Engineering<br>
 Degree Conferred: June 2005
 
 **B.E., University of Pune (India),** Electronics and Telecommunication Engineering<br>
@@ -37,22 +37,22 @@ Machine-learning accelerators, computer arithmetic, agentic hardware-design flow
 
 ## Selected Grants
 
-- **NSERC Discovery Grant Renewal** (2024--2029), *Rethinking Configurable Logic Architectures in the Age of AI*, CAD &#36;265K
-- **Mitacs Globalink** (2020--2021), *High-Level Synthesis of Nengo Neural Networks*, CAD &#36;15K
-- **Huawei Research Grant** (PI subcontract; University of Toronto lead institution) (2019--2021), *CGRA and Embedded FPGA Architecture and Tools*, CAD &#36;157.5K
+- {% include organization-logo.html name="nserc" %} **NSERC Discovery Grant Renewal** (2024--2029), *Rethinking Configurable Logic Architectures in the Age of AI*, CAD &#36;265K
+- {% include organization-logo.html name="mitacs" %} **Mitacs Globalink** (2020--2021), *High-Level Synthesis of Nengo Neural Networks*, CAD &#36;15K
+- {% include organization-logo.html name="huawei" %} **Huawei Research Grant** (PI subcontract; University of Toronto lead institution) (2019--2021), *CGRA and Embedded FPGA Architecture and Tools*, CAD &#36;157.5K
 - **Research Tools and Instruments Grant** (Co-PI) (2019--2020), *Real-Time Baseband Signal Processing and Reconfigurable Computing Development Platform*, CAD &#36;148,905
-- **Xilinx Unrestricted Research Gift** (2018--2019), CAD &#36;10K
-- **NSERC Discovery Grant** (2017--2022), *Enhancing Hardware Compilation for Reconfigurable Architectures using Machine Learning and Cloud Computing*, CAD &#36;165K
-- **University of Waterloo Startup Grant** (2016--present), CAD &#36;150K
+- {% include organization-logo.html name="xilinx" %} **Xilinx Unrestricted Research Gift** (2018--2019), CAD &#36;10K
+- {% include organization-logo.html name="nserc" %} **NSERC Discovery Grant** (2017--2022), *Enhancing Hardware Compilation for Reconfigurable Architectures using Machine Learning and Cloud Computing*, CAD &#36;165K
+- {% include organization-logo.html name="waterloo" %} **University of Waterloo Startup Grant** (2016--present), CAD &#36;150K
 - **AcRF Tier 1 Grant** (Nov 2015), S&#36;100K (1 year)
 - **Delta Electronics Grant** (Co-PI) (August 2015), S&#36;100K (2 years)
 - **MIT SMART Innovation Grant** (Co-PI) (August 2015), S&#36;60K (2 years)
-- **NTU CELT Excellence in Education Grant** (November 2014), S&#36;37K (1 year)
+- {% include organization-logo.html name="ntu" %} **NTU CELT Excellence in Education Grant** (November 2014), S&#36;37K (1 year)
 - **AcRF Tier 1 Grant** (March 2014), S&#36;150K (2 years)
-- **NTU CELT Excellence in Education Grant** (October 2013), S&#36;40K (1 year)
-- **NTU CELT Excellence in Education Grant** (March 2013), S&#36;25K (1 year)
-- **NTU CoE Competitive Seed Grant**, S&#36;50K (Jan--March 2013)
-- **NTU SCE Startup Grant**, S&#36;100K (3 years)
+- {% include organization-logo.html name="ntu" %} **NTU CELT Excellence in Education Grant** (October 2013), S&#36;40K (1 year)
+- {% include organization-logo.html name="ntu" %} **NTU CELT Excellence in Education Grant** (March 2013), S&#36;25K (1 year)
+- {% include organization-logo.html name="ntu" %} **NTU CoE Competitive Seed Grant**, S&#36;50K (Jan--March 2013)
+- {% include organization-logo.html name="ntu" %} **NTU SCE Startup Grant**, S&#36;100K (3 years)
 
 ## Preprints
 
@@ -658,20 +658,20 @@ Helene Martorell, Emmanouil Spanakis, Fang Zhou, Wei Lizhong (MSc students 2010-
 Coryan Wilson-Shah (UROP student 2011): Matrix-Free SPICE <br>
 Cody Huang (CAPA intern, UC Davis undergraduate 2011): GPU Code-Generation
 
-**Caltech Undergraduates and Summer Students** <br>
+{% include organization-logo.html name="caltech" %} **Caltech Undergraduates and Summer Students** <br>
 Henry Barnor (2005): _VHDL Design of systolic hardware sorter/placer_ <br>
 Stephanie Chan (2005, now at NIST): _Experiments on saturating accumulator_ <br>
 Ravi Teja Sukhavasi (2006, Caltech graduate student): _Applying network-coding ideas to message traffic between parallel compute elements_ <br>
 Jon Ramirez (2006): _Floating-point associative accumulator_ <br>
 
 **Corporate Collaborations** <br>
-Harnhua Ng, Kirvy Teo (Plunify): _Machine-Learning for FPGA CAD_ <br>
+{% include organization-logo.html name="plunify" %} Harnhua Ng, Kirvy Teo (Plunify): _Machine-Learning for FPGA CAD_ <br>
 Jacob Bower (Maxeler): _Maxeler Compiler Framework_ <br>
 Kumiko Nomura (Toshiba): _Architecture analysis of 3D chips_ <br>
 
 ## Teaching Experience
 
-**University of Waterloo**<br>
+{% include organization-logo.html name="waterloo" %} **University of Waterloo**<br>
 ECE327: _Digital Hardware Systems_ (2021, 2023-2025) <br>
 ECE493: _Special Topics in Electrical and Computer Engineering_ (2025) <br>
 ECE627: _Register-transfer-level Digital Systems_ (2021, 2023, 2025) <br>
@@ -701,23 +701,23 @@ Fall 2011, Imperial College London, _ISE2: Computer Architecture_ <br>
 Winter 2011, Imperial College London, _DoC: Custom Computing_ <br>
 
 **Teaching Assistant**<br>
-Spring 2007, University of Pennsylvania, Electrical and Systems Engineering, _ESE680s2: Computer Organization_ <br>
-Winter 2006, California Institute of Technology, Computer Science, _CS137: Electronic Digital Automation_<br>
+{% include organization-logo.html name="penn" %} Spring 2007, University of Pennsylvania, Electrical and Systems Engineering, _ESE680s2: Computer Organization_ <br>
+{% include organization-logo.html name="caltech" %} Winter 2006, California Institute of Technology, Computer Science, _CS137: Electronic Digital Automation_<br>
 
 ## Professional Experience
 
-**University of Waterloo**, Professor (2026-present)<br>
-**Tenstorrent LLC**, Visiting Fellow (2026)<br>
-**University of Waterloo**, Associate Professor (2020-2026)<br>
-**Xilinx Labs (now AMD Research)**, Research Director, Singapore (January 2022-February 2023; leave of absence from Waterloo)<br>
-**University of Waterloo**, Assistant Professor (2016-2020)<br>
-**Nanyang Technological University**, Assistant Professor (Oct 2012-Sep 2016)<br>
-**Plunify, Inc.** (now part of [Lattice Semiconductor](https://www.latticesemi.com/)), Chief Technology Officer (2014-2016)<br>
-**Imperial College London**, Junior Research Fellow (October 2010-September 2012)<br>
+{% include organization-logo.html name="waterloo" %} **University of Waterloo**, Professor (2026-present)<br>
+{% include organization-logo.html name="tenstorrent" %} **Tenstorrent LLC**, Visiting Fellow (2026)<br>
+{% include organization-logo.html name="waterloo" %} **University of Waterloo**, Associate Professor (2020-2026)<br>
+{% include organization-logo.html name="xilinx" %}{% include organization-logo.html name="amd" %} **Xilinx Labs (now part of AMD Research)**, Research Director, Singapore (January 2022-February 2023; leave of absence from Waterloo)<br>
+{% include organization-logo.html name="waterloo" %} **University of Waterloo**, Assistant Professor (2016-2020)<br>
+{% include organization-logo.html name="ntu" %} **Nanyang Technological University**, Assistant Professor (Oct 2012-Sep 2016)<br>
+{% include organization-logo.html name="plunify" %} **Plunify, Inc.** (now part of {% include organization-logo.html name="lattice" %}[Lattice Semiconductor](https://www.latticesemi.com/)), Chief Technology Officer (2014-2016)<br>
+{% include organization-logo.html name="imperial" %} **Imperial College London**, Junior Research Fellow (October 2010-September 2012)<br>
 **Maxeler Inc.** (now part of Groq, whose inference technology is [licensed by NVIDIA](https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale)), Consultant (July 2011-July 2012)<br>
-**University of Pennsylvania**, Visiting Graduate Student (2006-2010)<br>
-**Xilinx Inc.**, Summer Intern (Summer 2005)<br>
-**Koch Lab (Caltech)**, Research Assistant (February 2004 to September 2004)<br>
+{% include organization-logo.html name="penn" %} **University of Pennsylvania**, Visiting Graduate Student (2006-2010)<br>
+{% include organization-logo.html name="xilinx" %} **Xilinx Inc.**, Summer Intern (Summer 2005)<br>
+{% include organization-logo.html name="caltech" %} **Koch Lab (Caltech)**, Research Assistant (February 2004 to September 2004)<br>
 **Paxonet Communications Inc. (now Conexant)**, Employee (August 2002 to August 2003)<br>
 **Siemens Inc.**, Part-time Intern (2002).
 
