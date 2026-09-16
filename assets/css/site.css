@@ -201,6 +201,11 @@ html[data-theme="dark"] .affiliation-logo-dark {
   width: 100%;
 }
 
+/* SMART's official identifier is a wide five-tile mark with no standalone symbol. */
+.cv-org-logo-smart {
+  width: 2.8em;
+}
+
 .cv-org-logo-dark {
   display: none !important;
 }

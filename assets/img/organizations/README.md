@@ -10,6 +10,8 @@ These marks identify organizations named next to them in the CV. They do not imp
 - `nserc.svg`: vector maple leaf from the Canadian flag, used beside the full NSERC name rather than shrinking its bilingual wordmark.
 - `mitacs.webp`: Mitacs's official website favicon mark.
 - `huawei.png`: symbol cropped from Huawei's official corporate-site mark.
+- `delta.svg`: Delta Electronics' current official blue logo, cropped to its standalone triangular mark.
+- `smart.png`: SMART's official website logo, cropped to the five-tile identifier because SMART publishes no separate symbol.
 - `tenstorrent.png`: Tenstorrent's official website icon, with its transparent perimeter cropped so the visible mark matches the other CV icons. Tenstorrent requests review of stylized-mark usage through `logoreview@tenstorrent.com`.
 
 The AMD Arrow is derived from AMD's corporate mark; the Xilinx mark is from Simple Icons; and the Lattice marks are cropped from Lattice Semiconductor's official colour and reverse logo files. Those shared affiliation assets live in `assets/img/affiliations/`.
