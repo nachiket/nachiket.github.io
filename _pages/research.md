@@ -20,7 +20,7 @@ system: choosing the right arithmetic and architecture, generating and
 verifying RTL, mapping the design onto reconfigurable hardware, and moving data
 efficiently through the resulting accelerator.
 
-### ML and Domain-Specific Accelerators
+## ML and Domain-Specific Accelerators
 
 We design efficient accelerator building blocks and systems for modern machine-learning
 workloads. Current questions include how to support rapidly evolving numerical
@@ -31,7 +31,7 @@ compute, memory bandwidth, communication, and programmability.
 - [[PDF]](./publications/stc_fpl-2019.pdf) **"Scaling the Cascades: Interconnect-aware FPGA implementation of Machine Learning problems"**, FPL 2019
 - [[PDF]](./publications/caffepresso_cases-2016.pdf) **"CaffePresso: An Optimized Library for Deep Learning on Embedded Accelerator-based platforms"**, CASES 2016 — **Best Paper Award**
 
-### Agentic Hardware Design Flows
+## Agentic Hardware Design Flows
 
 We are exploring agentic workflows in which specialized agents help translate
 hardware intent into efficient, verifiable implementations. This is an
@@ -40,7 +40,7 @@ verification, synthesis, design-space exploration, and measured feedback from
 hardware. The goal is to automate more of this iterative process while keeping
 engineers in control of design decisions and correctness.
 
-### Hardware Prototyping and Verification
+## Hardware Prototyping and Verification
 
 We develop practical flows that connect Python-driven simulation and RTL
 verification to partial reconfiguration and deployment on accessible FPGA
@@ -51,7 +51,7 @@ agentic design flows, rather than agentic systems themselves.
 - [[PDF]](./publications/cocotb-pynq-pr_fpl-2026.pdf) **"Cocotb-PYNQ-PR: From Co-Simulation to Deployment, A Unified DFX Framework for PYNQ"**, FPL 2026 — **Stamatis Vassiliadis Memorial Best Paper Award**
 - [[PDF]](./publications/cocotb-pynq_fpl-2025.pdf) **"Cocotb-Pynq: Co-simulating Python+RTL applications targeting Pynq platforms with Cocotb"**, FPL 2025
 
-### Learning-Guided FPGA Design
+## Learning-Guided FPGA Design
 
 We apply machine learning, graph models, evolutionary search, and parallel
 optimization to difficult FPGA CAD problems. This work spans performance
@@ -59,11 +59,11 @@ prediction, physical design, timing closure, network-on-chip customization, and
 tool-parameter selection.
 
 - [[PDF]](./publications/graph-noc_fpt-2024.pdf) **"GraphNoC: Graph Neural Networks for Application-Specific FPGA NoC Performance Prediction"**, FPT 2024 — **Best Paper Award**
-- [[PDF]](./publications/rapidlayout_trets-2022.pdf) **"RapidLayout: Fast Hard Block Placement of FPGA-optimized Systolic Arrays using Evolutionary Algorithms"**, TRETS 2022 — **2023 Best Paper Award**
+- [[PDF]](./publications/rapidlayout_trets-2022.pdf) **"RapidLayout: Fast Hard Block Placement of FPGA-optimized Systolic Arrays using Evolutionary Algorithm"**, TRETS 2022 — **2023 Best Paper Award**
 - [[PDF]](./publications/hopliteml_trets-2022.pdf) **"HopliteML: Evolving application customized FPGA NoCs with adaptable routers and regulators"**, TRETS 2022
 - [[PDF]](./publications/intime_fccm-2015.pdf) **"Driving Timing Convergence of FPGA Designs through Machine Learning and Cloud Computing"**, FCCM 2015
 
-### Communication-Centric Reconfigurable Architectures
+## Communication-Centric Reconfigurable Architectures
 
 Accelerators are often limited by data movement rather than arithmetic. We
 design FPGA networks-on-chip, dataflow overlays, memory systems, and transport

@@ -287,7 +287,7 @@ html[data-theme="dark"] .cv-org-logo-dark {
   margin-bottom: 2rem;
 }
 
-.publications ol.bibliography .links a.award {
+.publications ol.bibliography .links .award {
   background-color: #b71c1c !important;
   border-color: #b71c1c !important;
   color: #fff !important;
@@ -298,22 +298,43 @@ html[data-theme="dark"] .cv-org-logo-dark {
   white-space: normal;
 }
 
-.publications ol.bibliography .links a.award:hover,
-.publications ol.bibliography .links a.award:focus {
+.publications ol.bibliography .links .award:hover,
+.publications ol.bibliography .links .award:focus {
   background-color: #8e1515 !important;
   border-color: #8e1515 !important;
   color: #fff !important;
 }
 
-.publications ol.bibliography .links a.award.award-nominee {
-  background-color: #c56a00 !important;
-  border-color: #c56a00 !important;
+.publications ol.bibliography .links .award.award-nominee {
+  background-color: #a84f00 !important;
+  border-color: #a84f00 !important;
 }
 
-.publications ol.bibliography .links a.award.award-nominee:hover,
-.publications ol.bibliography .links a.award.award-nominee:focus {
-  background-color: #9a5100 !important;
-  border-color: #9a5100 !important;
+.publications ol.bibliography .links .award.award-nominee:hover,
+.publications ol.bibliography .links .award.award-nominee:focus {
+  background-color: #7d3b00 !important;
+  border-color: #7d3b00 !important;
+}
+
+#selected-grants + ul {
+  display: grid;
+  gap: 0.5rem;
+  list-style: none;
+  padding-left: 0;
+}
+
+#selected-grants + ul > li {
+  min-height: 1.55em;
+  margin: 0;
+  padding-left: 3.25em;
+  position: relative;
+}
+
+#selected-grants + ul > li > .cv-org-logo:first-child {
+  left: 0;
+  margin: 0;
+  position: absolute;
+  top: -0.1em;
 }
 
 .publications ol.bibliography .links a.github-link {

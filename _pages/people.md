@@ -29,7 +29,7 @@ The **Waterloo Configurable Architectures Group (WatCAG)** works across computer
 - **Marat Bekmyrza**, MASc (2021–2025), co-supervised with Hiren Patel · _Language Model Inference on FPGA with Integer-only Operations_
 - **Mohammad Hadi Omidi**, MASc (2021–2024), co-supervised with Seyed Zahedi · _Fair and Efficient Resource Scheduling in Heterogeneous Multi-Agent Systems_
 - **Aravind Vellora Valayapara**, MASc (2021–2023), co-supervised with Seyed Zahedi · _Fairness Notions on Hardware Resource Configuration_
-- **Long Chan Chan**, MASc (2020–2021) · _Implementing FPGA-optimized Systolic Arrays using 2D Knapsack and Evolutionary Algorithms_
+- **Long Chung Chan**, MASc (2020–2021) · _Implementing FPGA-optimized Systolic Arrays using 2D Knapsack and Evolutionary Algorithms_
 - **Alireza Mellat**, MASc (2020–2021) · _Mocarabe: High-Performance Time-Multiplexed Overlays for FPGAs_
 - **Srinirdheeshwar Kuttuva Prakash**, MASc (2019–2021) · _Managing HBM Bandwidth in Multi-Die FPGAs using Overlay NoCs_
 - **Ian Elmor Lang**, MASc (2019–2021) · _Worst-Case Latency Analysis for the Versal Network-on-Chip_
@@ -39,7 +39,9 @@ The **Waterloo Configurable Architectures Group (WatCAG)** works across computer
 ### Earlier Institutions
 
 - **Siddhartha**, PhD, Nanyang Technological University (2013–2019) · _Dataflow Optimized Overlays for FPGAs_
-- **Andrew Bean**, PhD, Imperial College London (2011–2016) · _Adaptive/Learning Systems using FPGAs_
+- **Cheah Hui Yan**, PhD, Nanyang Technological University (2014–2016), co-supervised with Suhaib Fahmy · _The iDEA Architecture-Focused FPGA Soft Processor_
+- **Ye Deheng**, PhD, Nanyang Technological University (2012–2016), co-supervised with Zhenchang Xing
+- **Andrew Bean**, PhD, Imperial College London (2011–2016), research collaborator · _Adaptive/Learning Systems using FPGAs_
 - **Abid Rafique**, PhD, Imperial College London (2010–2013) · _Accelerating Semi-Definite Programming with FPGAs, GPUs and Multi-Cores_
 
 The [full CV]({{ '/cv.html#advising' | relative_url }}) includes additional MSc, undergraduate, intern, and corporate collaborations.

@@ -67,17 +67,17 @@ _arXiv:2605.02210_, May 2026 <br>
 **"HopliteML: Evolving application customized FPGA NoCs with adaptable routers
 and regulators"**<br>
 Gurshaant Malik, Ian Elmor Lang, Rodolfo Pellizzoni, <u>Nachiket Kapre</u><br>
-_ACM Transactions on Reconfigurable Technology and Applications_ (Special Issue FPL 2020) <br>
+_ACM Transactions on Reconfigurable Technology and Systems_ (Special Issue FPL 2020) <br>
 
 [[PDF]](./publications/rapidlayout_trets-2022.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/RapidLayout){: .cv-code-link aria-label="GitHub repository: RapidLayout" }
-**"RapidLayout: Fast Hard Block Placement of FPGA-optimized Systolic Arrays using Evolutionary Algorithms"**<br> **<span class="award-note">(ACM TRETS 2023 Best Paper Award)</span>** <br>
+**"RapidLayout: Fast Hard Block Placement of FPGA-optimized Systolic Arrays using Evolutionary Algorithm"**<br> **<span class="award-note">(ACM TRETS 2023 Best Paper Award)</span>** <br>
 Niansong Zhang, Xiang Chen, <u>Nachiket Kapre</u><br>
-_ACM Transactions on Reconfigurable Technology and Applications_ (Special Issue FPL 2020) <br>
+_ACM Transactions on Reconfigurable Technology and Systems_ (Special Issue FPL 2020) <br>
 
 [[PDF]](./publications/hoplitebuf_trets-2020.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/hoplitebuf-bounds){: .cv-code-link aria-label="GitHub repository: HopliteBuf" }
 **"HopliteBuf: Network Calculus-Based Design of FPGA NoCs with Provably Stall-Free FIFOs"**<br>
 Tushar Garg, Saud Wasly, Rodolfo Pellizzoni, <u>Nachiket Kapre</u><br>
-_ACM Transactions on Reconfigurable Technology and Applications_ (Special Issue FPGA 2019) <br>
+_ACM Transactions on Reconfigurable Technology and Systems_ (Special Issue FPGA 2019) <br>
 
 [[PDF]](./publications/caffepresso_tecs-2017.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/gplhegde/caffepresso){: .cv-code-link aria-label="GitHub repository: CaffePresso" }
 **CaffePresso: Accelerating Convolutional Networks on Embedded SoCs** <br>
@@ -87,19 +87,19 @@ _ACM Transactions on Embedded Computing Systems_ (Special Issue on ESWEEK 2016) 
 [[PDF]](./publications/hoplite_trets-2017.pdf)
 **"Hoplite: A Deflection-Routed Directional Torus NoC for FPGAs"** <br> **<span class="award-note">(ACM TRETS 2017 Best Paper Award)</span>** <br>
 <u>Nachiket Kapre</u>, Jan Gray <br>
-_ACM Transactions on Reconfigurable Technology and Applications_ (Special Issue FPL 2015) <br>
+_ACM Transactions on Reconfigurable Technology and Systems_ (Special Issue FPL 2015) <br>
 
 [[PDF]](./publications/soft-vector_trets-2016.pdf)
 **"Optimizing Soft Vector Processing in FPGA-based Embedded Systems"** <br>
 <u>Nachiket Kapre</u> <br>
-_ACM Transactions on Reconfigurable Technology and Applications_ (Special Issue FPL 2014), Published: 2016<br>
+_ACM Transactions on Reconfigurable Technology and Systems_ (Special Issue FPL 2014), Published: 2016<br>
 
-[[PDF]](./publications/case-for-graphs_superfri-2016.pdf)
+[[PDF]](./publications/case-for-graphs_superfri-2015.pdf)
 **"A Case for Embedded FPGA-based SoCs in Energy-Efficient Acceleration of Graph Problems"** <br>
 Pradeep Moorthy, <u>Nachiket Kapre</u> <br>
-_Supercomputing Frontiers and Innovations_ (Special Best Papers Issue from 2015 Supercomputing Frontiers Conference), Published: 2016 <br>
+_Supercomputing Frontiers and Innovations_ (Special Best Papers Issue from 2015 Supercomputing Frontiers Conference), Published: 2015 <br>
 
-[[PDF]](./publications/comm-avoid-itersolve_tpds-2013.pdf)
+[[PDF]](./publications/comm-avoid-itersolve_tpds-2015.pdf)
 **"Communication Optimization of Iterative Sparse Matrix-Vector Multiply on GPUs and FPGAs"** <br>
 Abid Rafique, George Constantinides, <u>Nachiket Kapre</u> <br>
 _IEEE Transactions on Parallel and Distributed Systems_, Jan 2015 <br>
@@ -107,6 +107,7 @@ _IEEE Transactions on Parallel and Distributed Systems_, Jan 2015 <br>
 [[PDF]](./publications/spice_trcad-2012.pdf)
 **"SPICE<sup>2</sup>: Spatial Processors Interconnected for Concurrent Execution for accelerating the SPICE Circuit Simulator using an FPGA"** <br>
 <u>Nachiket Kapre</u> and André DeHon
+<br>
 _Transactions in CAD (Special Issue on Parallel CAD)_, Volume 31 Issue 1 January 2012 <br>
 
 [[PDF]](./publications/graphstep_taas-2011.pdf)
@@ -121,7 +122,7 @@ Special Issue_, September 2011 <br>
 _International Journal of Reconfigurable Computing_ Volume 2011 Article ID 745147<br>
 
 [[PDF]](./publications/sat-accum_trcomp-2009.pdf)
-**"Pipelined Saturated Accumulation"** <br>
+**"Pipelining Saturated Accumulation"** <br>
 Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon <br>
 _IEEE Transactions on Computers_, February 2009. <br>
 
@@ -153,12 +154,12 @@ _Design, Automation, and Test in Europe_, Apr 2023 <br>
 [[PDF]](./publications/hbm-noc_fccm-2022.pdf)
 **"Managing HBM Bandwidth on Multi-Die FPGAs with FPGA Overlay NoCs"** <br>
 Srinirdheeshwar Kuttuva Prakash, Hiren Patel, <u>Nachiket Kapre</u> <br>
-_International Conference on Field-Programmable Custom Computing Machines_, May 2022 <br>
+_International Symposium on Field-Programmable Custom Computing Machines_, May 2022 <br>
 
 [[PDF]](./publications/mocarabe_fccm-2021.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/mocarabe){: .cv-code-link aria-label="GitHub repository: Mocarabe" }
 **"Mocarabe: High-Performance Time-Multiplexed Overlays for FPGAs"** <br>
 Frederick Tombs, Alireza Mellat, <u>Nachiket Kapre</u> <br>
-_International Conference on Field-Programmable Custom Computing Machines_, May 2021 <br>
+_International Symposium on Field-Programmable Custom Computing Machines_, May 2021 <br>
 
 [[PDF]](./publications/rapidlayout_fpl-2020.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/RapidLayout){: .cv-code-link aria-label="GitHub repository: RapidLayout" }
 **"RapidLayout: Fast Hard Block Placement of FPGA-optimized Systolic Arrays using Evolutionary Algorithms"** <br>
@@ -171,8 +172,8 @@ Gurshaant Malik, Ian Lang, Rodolfo Pellizzoni, <u>Nachiket Kapre</u> <br>
 _International Conference on Field-Programmable Logic and Applications_, Sep 2020 <br> **<span class="award-note"> (Nominee for Stamatis Vassiliadis Memorial Award) </span>** <br>
 
 [[PDF]](./publications/part-systolic_fpt-2019.pdf)
-**"Partitioning Systolic Arrays for Fun and Profit"** <br> **<span class="award-note">(Best Paper Award)</span>**<br>
-Harry Chan, Gurshaant Malik, <u>Nachiket Kapre</u> <br>
+**"Partitioning FPGA-Optimized Systolic Arrays for Fun and Profit"** <br> **<span class="award-note">(Best Paper Award)</span>**<br>
+Long Chung Chan, Gurshaant Malik, <u>Nachiket Kapre</u> <br>
 _International Conference on Field-Programmable Technology_, Dec 2019 <br>
 
 [[PDF]](./publications/stc_fpl-2019.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/fpga-cascades-scalesim){: .cv-code-link aria-label="GitHub repository: FPGA Cascades ScaleSim" }
@@ -188,7 +189,7 @@ _29th International Conference on Field-Programmable Logic and Applications_, Se
 [[PDF]](./publications/enhanced-bft_fccm-2019.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/bft-flow){: .cv-code-link aria-label="GitHub repository: BFT Flow" }
 **"Enhancing Butterfly Fat Tree NoCs for FPGAs with lightweight flow control"** <br>
 Gurshaant Malik, <u>Nachiket Kapre</u> <br>
-_International Conference on Field-Programmable Custom Computing Machines_, Apr 2019 <br>
+_International Symposium on Field-Programmable Custom Computing Machines_, Apr 2019 <br>
 
 [[PDF]](./publications/hoplitebuf_fpga-2019.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/hoplitebuf-bounds){: .cv-code-link aria-label="GitHub repository: HopliteBuf" }
 **"HopliteBuf: FPGA NoCs with Provably Stall-Free FIFOs"** <br> **<span class="award-note">(Best Paper Nominee)</span>**<br>
@@ -216,7 +217,7 @@ Asif Islam, <u>Nachiket Kapre </u> <br>
 _International Symposium on Field-Programmable Custom Computing Machines_, April-May 2018 <br>
 
 [[PDF]](./publications/hopliteq_fccm-2018.pdf)
-**"HopliteQ: Priority-Aware Routing in FPGA Overlay NoCs"** <br>
+**"Hoplite-Q: Priority-Aware Routing in FPGA Overlay NoCs"** <br>
 Siddhartha, <u> Nachiket Kapre</u><br>
 _International Symposium on Field-Programmable Custom Computing Machines_, April-May 2018 <br>
 
@@ -352,7 +353,7 @@ _4th International Workshop on Data-Flow Execution Models for Extreme Scale Comp
 
 [[PDF]](./publications/fpga-driver_fpt-2013.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/vipinkmenon/fpgadriver){: .cv-code-link aria-label="GitHub repository: FPGA Driver" }
 **"System-Level FPGA Device Driver with High-Level Synthesis Support"** <br>
-Vipin Kizhepatt, Shreejit Shanker, Dulitha Gunasekara, Suhaib A Fahmy, <u>Nachiket Kapre</u><br>
+Kizheppatt Vipin, Shanker Shreejith, Dulitha Gunasekera, Suhaib A Fahmy, <u>Nachiket Kapre</u><br>
 _International Conference on Field-Programmable Technology_, December 2013 <br>
 
 [[PDF]](./publications/uncertainty_fccm-2013.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/nachiket/tdfc/tree/fccm2013){: .cv-code-link aria-label="GitHub repository: FX-SCORE uncertainty compiler (TDFC FCCM 2013 snapshot)" }
@@ -361,7 +362,7 @@ _International Conference on Field-Programmable Technology_, December 2013 <br>
 _International Symposium on Field-Programmable Custom Computing Machines_, April 2013 <br>
 
 [[PDF]](./publications/appcompose_fccm-2013.pdf)
-**"Application Composition and Communication Optimization of Iterative Solvers using FPGAs"** <br> **<span class="award-note"> (HiPEAC Paper Award)</span>** <br>
+**"Application Composition and Communication Optimization in Iterative Solvers using FPGAs"** <br> **<span class="award-note"> (HiPEAC Paper Award)</span>** <br>
 Abid Rafique, <u>Nachiket Kapre</u> and George Constantinides<br>
 _International Symposium on Field-Programmable Custom Computing Machines_, April 2013 <br>
 
@@ -372,7 +373,7 @@ _International Conference on Field-Programmable Logic and Applications_, August 
 
 [[PDF]](./publications/fxscore_fccm-2012.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/nachiket/tdfc){: .cv-code-link aria-label="GitHub repository: FX-SCORE compiler (TDFC)" }
 **"FX-SCORE: A Framework for Fixed-Point Compilation of SPICE Device Models using Gappa++"** <br>
-Helene Martorell and <u>Nachiket Kapre</u><br>
+Hélène Martorell and <u>Nachiket Kapre</u><br>
 _International Symposium on Field-Programmable Custom Computing Machines_, April 2012 <br>
 
 [[PDF]](./publications/lanczos-abid_arc-2012.pdf)
@@ -386,12 +387,12 @@ _International Symposium on Applied Reconfigurable Computing_, March 2012 <br>
 _International Conference on Field-Programmable Technology_, December 2011 <br>
 
 [[PDF]](./publications/spice-overview_carl-2010.pdf)
-**"SPICE<sup>2</sup> - A Spatial Parallel Architecture for Accelerating the SPICE Circuit Simulator"** <br>
+**"SPICE<sup>2</sup>: Spatial Processors Interconnected for Concurrent Execution for accelerating the SPICE Circuit Simulator using an FPGA"** <br>
 <u>Nachiket Kapre</u> and André DeHon<br>
 _The First Workshop on the Intersections of Computer Architecture and Reconfigurable Logic_, December 2010 <br>
 
 [[PDF]](./publications/noc-traffic-engg_recosoc-2010.pdf)
-**"An NoC Traffic Compiler for efficient FPGA implementation of Sparse Graph-Oriented Workloads"** <br>
+**"An NoC Traffic Compiler for efficient FPGA implementation of Parallel Graph Applications"** <br>
 <u>Nachiket Kapre</u> and André DeHon<br>
 _Reconfigurable Communication-centric Systems on Chip_, May 2010 <br>
 
@@ -426,7 +427,7 @@ Michael deLorimier, <u>Nachiket Kapre</u>, Nikil Mehta, Dominic Rizzo, Ian Eslic
 _IEEE Symposium on Field-Programmable Custom Computing Machines_, April 2006. <br>
 
 [[PDF]](./publications/sat-accum_fpt-2005.pdf)
-**"Pipelined Saturated Accumulation"** <br>
+**"Pipelining Saturated Accumulation"** <br>
 Karl Papadantonakis, <u>Nachiket Kapre</u>, Stephanie Chan, and André DeHon<br>
 _International Conference on Field-Programmable Technology_, December 2005. <br>
 
@@ -451,12 +452,12 @@ _IEEE/ACM Symposium on Networks-on-Chip_, Oct 2021 <br>
 [[PDF]](./publications/bft-arity4_fccm-2020.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/bft-flow-arity4){: .cv-code-link aria-label="GitHub repository: BFT Flow arity 4" }
 **"Exploring the Impact of Switch Arity on Butterfly Fat Tree FPGA NoCs"** <br>
 Ian Lang, Ziqiang Huang, <u>Nachiket Kapre</u> <br>
-_International Conference on Field-Programmable Custom Computing Machines_, Apr 2020 <br>
+_International Symposium on Field-Programmable Custom Computing Machines_, Apr 2020 <br>
 
 [[PDF]](./publications/rapid-route_fccm-2019.pdf) [<i class="fa-brands fa-github" aria-hidden="true"></i>](https://github.com/watcag/RapidRoute){: .cv-code-link aria-label="GitHub repository: RapidRoute" }
 **"RapidRoute: Fast Assembly of Communication Structures for FPGA Overlays"** **<span class="award-note">(Best Short Paper Runner-up)</span>** <br>
 Leo Liu, Jay Weng, <u>Nachiket Kapre</u> <br>
-_International Conference on Field-Programmable Custom Computing Machines_, Apr 2019 <br>
+_International Symposium on Field-Programmable Custom Computing Machines_, Apr 2019 <br>
 
 [[PDF]](./publications/openclpipe_iwocl-2017.pdf)
 **"Applying Models of Computation to OpenCL Pipes for FPGA Computing"** <br>
@@ -469,7 +470,7 @@ Chethan Kumar H B, Gourav Modi, Prashant Ravi, <u>Nachiket Kapre</u><br>
 _International Symposium on Field-Programmable Gate Arrays_, Feb 2017 <br>
 
 [[PDF]](./publications/dwt-mxp_fpl-2016.pdf)
-**"Vector Acceleration of 1-D DWT Computations using Sparse Matrix Skeletons"** <br>
+**"Vector FPGA Acceleration of 1-D DWT Computations using Sparse Matrix Skeletons"** <br>
 Sidharth Maheshwari, Gourav Modi, Siddhartha, <u>Nachiket Kapre</u><br>
 _26th International Conference on Field-Programmable Logic and Applications_, Sep 2016 <br>
 
@@ -623,7 +624,7 @@ Gurshaant Malik (2017-2025): _Learning Design Parameters to Build Application Cu
 Marat Bekmyrza (2021--2025; co-supervised with Hiren Patel): _Language Model Inference on FPGA with Integer-only Operations_ <br>
 Aravind Vellora Valayapara (2021--2023; co-supervised with Seyed Zahedi): _Fairness Notions on Hardware Resource Configuration_ <br>
 Mohammad Hadi Omidi (2021--2024; co-supervised with Seyed Zahedi): _Fair and Efficient Resource Scheduling in Heterogeneous Multi-Agent Systems_ <br>
-Long Chan Chan (2020--2021): _Implementing FPGA-optimized Systolic Arrays using 2D Knapsack and Evolutionary Algorithms_ <br>
+Long Chung Chan (2020--2021): _Implementing FPGA-optimized Systolic Arrays using 2D Knapsack and Evolutionary Algorithms_ <br>
 Alireza Mellat (2020--2021): _Mocarabe: High-Performance Time-Multiplexed Overlays for FPGAs_ <br>
 Srinirdheeshwar Kuttuva Prakash (2019--2021): _Managing HBM Bandwidth in Multi-Die FPGAs using Overlay NoCs_ <br>
 Ian Elmor Lang (2019--2021): _Worst-Case Latency Analysis for the Versal Network-on-Chip_ <br>
@@ -632,6 +633,8 @@ Tushar Garg (2017-2019): _HopliteBuf FPGA Network-on-Chip: Architecture and Anal
 
 **NTU PhD**<br>
 Siddhartha (2013-2019): _Dataflow Optimized Overlays for FPGAs_ <br>
+Cheah Hui Yan (2014--2016; co-supervised with Suhaib Fahmy): _The iDEA Architecture-Focused FPGA Soft Processor_ <br>
+Ye Deheng (2012--2016; co-supervised with Zhenchang Xing) <br>
 
 **NTU MSc**<br>
 Chethan Kumar Basavaraju (2015): _FPGA NoCs_ <br>
@@ -653,8 +656,8 @@ Lim Hui Hui (2013): _SPICE Fault Tolerance_ <br>
 **Imperial PhD, MSc, MEng, BEng and Interns** <br>
 Andrew Bean (PhD student 2011-2016): _Adaptive/Learning Systems using FPGAs_<br>
 Abid Rafique (PhD student 2010-2013): _Accelerating Semi-Definite Programming with FPGAs, GPUs and Multi-Cores_ <br>
-Siddhartha, Dulitha Gunasekara (BEng/MEng students 2011-2012): Various topics <br>
-Helene Martorell, Emmanouil Spanakis, Fang Zhou, Wei Lizhong (MSc students 2010-2011): Various topics <br>
+Siddhartha, Dulitha Gunasekera (BEng/MEng students 2011-2012): Various topics <br>
+Hélène Martorell, Emmanouil Spanakis, Fang Zhou, Wei Lizhong (MSc students 2010-2011): Various topics <br>
 Coryan Wilson-Shah (UROP student 2011): Matrix-Free SPICE <br>
 Cody Huang (CAPA intern, UC Davis undergraduate 2011): GPU Code-Generation
 
@@ -672,14 +675,15 @@ Kumiko Nomura (Toshiba): _Architecture analysis of 3D chips_ <br>
 ## Teaching Experience
 
 {% include organization-logo.html name="waterloo" %} **University of Waterloo**<br>
-ECE327: _Digital Hardware Systems_ (2021, 2023-2025) <br>
+ECE327: _Digital Hardware Systems_ (2017--2021, 2023--2025) <br>
 ECE493: _Special Topics in Electrical and Computer Engineering_ (2025) <br>
-ECE627: _Register-transfer-level Digital Systems_ (2021, 2023, 2025) <br>
+ECE627: _Register-transfer-level Digital Systems_ (2018--2019, 2021, 2023, 2025) <br>
 ECE720: _Special Topics in Computers and Digital Systems Software_ (2024-2025) <br>
 ECE722: _Reconfigurable Computing_ (2021, 2023, 2025) <br>
 
 **Lecturer**<br>
 Semester 1 2015, Nanyang Technological University, _CE4052/ES6152: Embedded System Development_ <br>
+Semester 2 2015, Nanyang Technological University, _CE4054/ES6154: Programmable Systems-on-Chip_ <br>
 Semester 2 2014, Nanyang Technological University, _CE4054/ES6154: Programmable Systems-on-Chip_ <br>
 Semester 1 2014, Nanyang Technological University, _CE4052/ES6152: Embedded System Development_ <br>
 Semester 2 2013, Nanyang Technological University, _CE4054/ES6154: Programmable Systems-on-Chip_ <br>
@@ -707,7 +711,7 @@ Winter 2011, Imperial College London, _DoC: Custom Computing_ <br>
 ## Professional Experience
 
 {% include organization-logo.html name="waterloo" %} **University of Waterloo**, Professor (2026-present)<br>
-{% include organization-logo.html name="tenstorrent" %} **Tenstorrent LLC**, Visiting Fellow (2026)<br>
+{% include organization-logo.html name="tenstorrent" %} **Tenstorrent LLC**, Visiting Fellow (January 2026--present)<br>
 {% include organization-logo.html name="waterloo" %} **University of Waterloo**, Associate Professor (2020-2026)<br>
 {% include organization-logo.html name="xilinx" %}{% include organization-logo.html name="amd" %} **Xilinx Labs (now part of AMD Research)**, Research Director, Singapore (January 2022-February 2023; leave of absence from Waterloo)<br>
 {% include organization-logo.html name="waterloo" %} **University of Waterloo**, Assistant Professor (2016-2020)<br>

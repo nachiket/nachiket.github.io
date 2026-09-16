@@ -1,3 +1,5 @@
+<!-- pandoc spice.md -s -c ../../stylesheets/styles.css -o spice.html --metadata pagetitle="SPICE3f5 Framework" -->
+
 <div class="wrapper">
 
 SPICE3f5 Framework Landing Page

@@ -53,10 +53,6 @@ a University of Waterloo login may be required.
 
 ## Nanyang Technological University
 
-### 2016
-
-- **Semester 2** · CE4054 — Programmable System-on-Chip
-
 ### 2015
 
 - **Semester 1** · CE4052 — Embedded Software Development
