@@ -94,9 +94,9 @@ html[data-theme="dark"] {
 }
 
 .affiliation-logo-amd {
-  height: 1.32em;
-  vertical-align: -0.25em;
-  width: 1.32em;
+  height: 1.18em;
+  vertical-align: -0.21em;
+  width: 1.18em;
 }
 
 .affiliation-logo-wordmark {
@@ -112,6 +112,40 @@ html[data-theme="dark"] {
 
 .affiliation-logo-plunify {
   width: 2.35em;
+}
+
+.affiliation-logo-switch {
+  display: inline-block;
+  height: 1.15em;
+  margin-right: 0.18em;
+  position: relative;
+  vertical-align: -0.2em;
+  width: 1.5em;
+}
+
+.affiliation-logo-switch .affiliation-logo {
+  height: 100%;
+  inset: 0;
+  margin: 0;
+  position: absolute;
+  vertical-align: 0;
+  width: 100%;
+}
+
+.affiliation-logo-lattice {
+  object-fit: contain;
+}
+
+.affiliation-logo-dark {
+  display: none;
+}
+
+html[data-theme="dark"] .affiliation-logo-light {
+  display: none;
+}
+
+html[data-theme="dark"] .affiliation-logo-dark {
+  display: inline-block;
 }
 
 .affiliation-logo-ntu {
@@ -143,6 +177,66 @@ html[data-theme="dark"] {
   line-height: 1;
   margin-left: 0.22em;
   vertical-align: -0.04em;
+}
+
+.cv-org-logo {
+  align-items: center;
+  background: #fff;
+  border: 1px solid #0000001f;
+  border-radius: 0.22em;
+  box-sizing: border-box;
+  display: inline-flex;
+  height: 1.48em;
+  justify-content: center;
+  margin-right: 0.3em;
+  padding: 0.11em;
+  vertical-align: -0.36em;
+  width: 1.62em;
+}
+
+.cv-org-logo img {
+  display: block;
+  height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  width: 100%;
+}
+
+.cv-org-logo-caltech,
+.cv-org-logo-imperial,
+.cv-org-logo-mitacs,
+.cv-org-logo-plunify {
+  width: 2.7em;
+}
+
+.cv-org-logo-nserc {
+  width: 5.25em;
+}
+
+.cv-org-logo-huawei {
+  width: 1.85em;
+}
+
+.cv-org-logo-lattice {
+  width: 1.85em;
+}
+
+.cv-org-logo-dark {
+  display: none !important;
+}
+
+html[data-theme="dark"] .cv-org-logo-light {
+  display: none;
+}
+
+html[data-theme="dark"] .cv-org-logo-dark {
+  display: block !important;
+}
+
+@media print {
+  .cv-org-logo {
+    border-color: #ccc;
+  }
 }
 
 .focus-grid {
