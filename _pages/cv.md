@@ -45,8 +45,8 @@ Machine-learning accelerators, computer arithmetic, agentic hardware-design flow
 - {% include organization-logo.html name="nserc" %} **NSERC Discovery Grant** (2017--2022), *Enhancing Hardware Compilation for Reconfigurable Architectures using Machine Learning and Cloud Computing*, CAD &#36;165K
 - {% include organization-logo.html name="waterloo" %} **University of Waterloo Startup Grant** (2016--present), CAD &#36;150K
 - **AcRF Tier 1 Grant** (Nov 2015), S&#36;100K (1 year)
-- **Delta Electronics Grant** (Co-PI) (August 2015), S&#36;100K (2 years)
-- **MIT SMART Innovation Grant** (Co-PI) (August 2015), S&#36;60K (2 years)
+- {% include organization-logo.html name="delta" %} **Delta Electronics Grant** (Co-PI) (August 2015), S&#36;100K (2 years)
+- {% include organization-logo.html name="smart" %} **MIT SMART Innovation Grant** (Co-PI) (August 2015), S&#36;60K (2 years)
 - {% include organization-logo.html name="ntu" %} **NTU CELT Excellence in Education Grant** (November 2014), S&#36;37K (1 year)
 - **AcRF Tier 1 Grant** (March 2014), S&#36;150K (2 years)
 - {% include organization-logo.html name="ntu" %} **NTU CELT Excellence in Education Grant** (October 2013), S&#36;40K (1 year)
