@@ -347,10 +347,6 @@ html[data-theme="dark"] .cv-org-logo-dark {
   font-size: 1.05em;
 }
 
-.post h2 > a[href$="/publications/"] {
-  text-transform: capitalize;
-}
-
 .publication-timeline {
   border-bottom: 1px solid var(--global-divider-color);
   margin: 0 0 2rem;

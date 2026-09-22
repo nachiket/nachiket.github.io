@@ -4,7 +4,7 @@ title: Home
 permalink: /
 subtitle: Professor of Electrical and Computer Engineering · <a href="https://uwaterloo.ca/electrical-computer-engineering/">University of Waterloo</a>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
@@ -73,5 +73,9 @@ I am a Professor at <span class="affiliation">{% include affiliation-icon.html o
 </div>
 
 [All news →]({{ '/news.html' | relative_url }}){: .archive-link }
+
+<h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a></h2>
+
+{% include selected_papers.liquid %}
 
 <script defer src="{{ '/assets/js/site.js' | relative_url }}"></script>
